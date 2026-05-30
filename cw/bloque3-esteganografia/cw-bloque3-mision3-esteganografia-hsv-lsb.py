@@ -65,4 +65,6 @@ def decodificar_lsb_con_mascara(imagen_ruta):
 
 
 if __name__ == "__main__":
-    decodificar_lsb_con_mascara("evidencia_3.png")
+    import os
+    ruta = os.path.join(os.path.dirname(__file__), "..", "color-detection", "color-detection-acertijo", "evidencia_3.png")
+    decodificar_lsb_con_mascara(os.path.normpath(ruta))
