@@ -1,0 +1,31 @@
+{
+  "triples_totales": 27,
+  "enlaces_externos": [
+    {
+      "local": "categoria_tecnologia",
+      "wikidata": "Q11016",
+      "etiqueta": "Tecnologia de la informacion"
+    },
+    {
+      "local": "categoria_economia",
+      "wikidata": "Q159810",
+      "etiqueta": "Economia"
+    },
+    {
+      "local": "categoria_ciencia",
+      "wikidata": "Q336",
+      "etiqueta": "Ciencia"
+    },
+    {
+      "local": "categoria_politica",
+      "wikidata": "Q7188",
+      "etiqueta": "Gobierno"
+    },
+    {
+      "local": "categoria_salud",
+      "wikidata": "Q159121",
+      "etiqueta": "Salud"
+    }
+  ],
+  "formato": "RDF/XML (OWL + SKOS)"
+}

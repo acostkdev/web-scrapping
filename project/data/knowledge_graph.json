@@ -1,0 +1,10242 @@
+{
+  "nodes": [
+    {
+      "id": "Chihuahua",
+      "weight": 1
+    },
+    {
+      "id": "Sierra Tarahumara",
+      "weight": 1
+    },
+    {
+      "id": "Washington",
+      "weight": 1
+    },
+    {
+      "id": "Estados Unidos",
+      "weight": 2
+    },
+    {
+      "id": "Maru Campos",
+      "weight": 1
+    },
+    {
+      "id": "Alto Tribunal",
+      "weight": 1
+    },
+    {
+      "id": "Sheinbaum",
+      "weight": 3
+    },
+    {
+      "id": "Pleno",
+      "weight": 1
+    },
+    {
+      "id": "Suprema Corte La",
+      "weight": 1
+    },
+    {
+      "id": "Cuatro",
+      "weight": 1
+    },
+    {
+      "id": "Tribunal Electoral",
+      "weight": 1
+    },
+    {
+      "id": "Sala Superior",
+      "weight": 1
+    },
+    {
+      "id": "Trump",
+      "weight": 1
+    },
+    {
+      "id": "Seguridad Interior",
+      "weight": 1
+    },
+    {
+      "id": "Trump La",
+      "weight": 1
+    },
+    {
+      "id": "Gobierno",
+      "weight": 2
+    },
+    {
+      "id": "Sinaloa",
+      "weight": 1
+    },
+    {
+      "id": "Markwayne Mullin",
+      "weight": 1
+    },
+    {
+      "id": "México",
+      "weight": 2
+    },
+    {
+      "id": "Contra",
+      "weight": 2
+    },
+    {
+      "id": "Trump Los",
+      "weight": 1
+    },
+    {
+      "id": "Cuba",
+      "weight": 2
+    },
+    {
+      "id": "Gráficos",
+      "weight": 1
+    },
+    {
+      "id": "Caracas",
+      "weight": 1
+    },
+    {
+      "id": "Copa",
+      "weight": 1
+    },
+    {
+      "id": "Puebla",
+      "weight": 1
+    },
+    {
+      "id": "Mundo",
+      "weight": 1
+    },
+    {
+      "id": "Mundial Más",
+      "weight": 1
+    },
+    {
+      "id": "Sierra Norte",
+      "weight": 1
+    },
+    {
+      "id": "Cruz Azul",
+      "weight": 1
+    },
+    {
+      "id": "Estadio Olímpico Universitario",
+      "weight": 1
+    },
+    {
+      "id": "Liga",
+      "weight": 1
+    },
+    {
+      "id": "Keylor Navas",
+      "weight": 1
+    },
+    {
+      "id": "Los Pumas",
+      "weight": 1
+    },
+    {
+      "id": "Mundial",
+      "weight": 1
+    },
+    {
+      "id": "Unidad",
+      "weight": 1
+    },
+    {
+      "id": "Copa Fut",
+      "weight": 1
+    },
+    {
+      "id": "Chicatanas",
+      "weight": 1
+    },
+    {
+      "id": "Azcapotzalco",
+      "weight": 1
+    },
+    {
+      "id": "Working",
+      "weight": 1
+    },
+    {
+      "id": "Automated",
+      "weight": 1
+    },
+    {
+      "id": "Feel",
+      "weight": 1
+    },
+    {
+      "id": "Tell",
+      "weight": 1
+    },
+    {
+      "id": "Share",
+      "weight": 3
+    },
+    {
+      "id": "Your",
+      "weight": 1
+    },
+    {
+      "id": "Built",
+      "weight": 1
+    },
+    {
+      "id": "Just",
+      "weight": 1
+    },
+    {
+      "id": "What",
+      "weight": 3
+    },
+    {
+      "id": "Everyone Working On This",
+      "weight": 1
+    },
+    {
+      "id": "Guidelines",
+      "weight": 3
+    },
+    {
+      "id": "Works",
+      "weight": 3
+    },
+    {
+      "id": "Show",
+      "weight": 2
+    },
+    {
+      "id": "Hello",
+      "weight": 1
+    },
+    {
+      "id": "Auto",
+      "weight": 3
+    },
+    {
+      "id": "Discuss",
+      "weight": 3
+    },
+    {
+      "id": "Machine Learning Model",
+      "weight": 1
+    },
+    {
+      "id": "Moderator",
+      "weight": 3
+    },
+    {
+      "id": "Sunday Daily Thread",
+      "weight": 1
+    },
+    {
+      "id": "Raspberry Pi",
+      "weight": 1
+    },
+    {
+      "id": "Happy",
+      "weight": 3
+    },
+    {
+      "id": "Inspire",
+      "weight": 1
+    },
+    {
+      "id": "Code",
+      "weight": 2
+    },
+    {
+      "id": "Week",
+      "weight": 1
+    },
+    {
+      "id": "Python",
+      "weight": 10
+    },
+    {
+      "id": "Weekly Thread",
+      "weight": 3
+    },
+    {
+      "id": "Whether",
+      "weight": 1
+    },
+    {
+      "id": "Web Scraping",
+      "weight": 1
+    },
+    {
+      "id": "Example Shares",
+      "weight": 1
+    },
+    {
+      "id": "Automation",
+      "weight": 1
+    },
+    {
+      "id": "Learning Resources",
+      "weight": 1
+    },
+    {
+      "id": "Keep",
+      "weight": 2
+    },
+    {
+      "id": "Community Ideas",
+      "weight": 1
+    },
+    {
+      "id": "Any Python",
+      "weight": 1
+    },
+    {
+      "id": "Welcome",
+      "weight": 2
+    },
+    {
+      "id": "Friday Daily Thread",
+      "weight": 1
+    },
+    {
+      "id": "Conduct",
+      "weight": 1
+    },
+    {
+      "id": "Updates",
+      "weight": 1
+    },
+    {
+      "id": "Talk Fridays",
+      "weight": 1
+    },
+    {
+      "id": "News",
+      "weight": 1
+    },
+    {
+      "id": "Reddit",
+      "weight": 2
+    },
+    {
+      "id": "Job Market",
+      "weight": 1
+    },
+    {
+      "id": "Found",
+      "weight": 1
+    },
+    {
+      "id": "Python Meta",
+      "weight": 1
+    },
+    {
+      "id": "Free",
+      "weight": 1
+    },
+    {
+      "id": "Community Pulse",
+      "weight": 1
+    },
+    {
+      "id": "This",
+      "weight": 2
+    },
+    {
+      "id": "Free Talk Friday",
+      "weight": 1
+    },
+    {
+      "id": "Something",
+      "weight": 1
+    },
+    {
+      "id": "Example Topics",
+      "weight": 2
+    },
+    {
+      "id": "New Python Release",
+      "weight": 1
+    },
+    {
+      "id": "Open Mic",
+      "weight": 1
+    },
+    {
+      "id": "Hot Takes",
+      "weight": 1
+    },
+    {
+      "id": "Community Events",
+      "weight": 1
+    },
+    {
+      "id": "Meta Discussions",
+      "weight": 1
+    },
+    {
+      "id": "With Open",
+      "weight": 1
+    },
+    {
+      "id": "Endowed",
+      "weight": 1
+    },
+    {
+      "id": "About",
+      "weight": 1
+    },
+    {
+      "id": "Sorry",
+      "weight": 1
+    },
+    {
+      "id": "Well",
+      "weight": 1
+    },
+    {
+      "id": "Should",
+      "weight": 1
+    },
+    {
+      "id": "Open",
+      "weight": 3
+    },
+    {
+      "id": "Wizard",
+      "weight": 1
+    },
+    {
+      "id": "Astral",
+      "weight": 1
+    },
+    {
+      "id": "Will",
+      "weight": 1
+    },
+    {
+      "id": "Mediocre",
+      "weight": 1
+    },
+    {
+      "id": "Scallion",
+      "weight": 1
+    },
+    {
+      "id": "Chicago",
+      "weight": 1
+    },
+    {
+      "id": "Django",
+      "weight": 2
+    },
+    {
+      "id": "August",
+      "weight": 1
+    },
+    {
+      "id": "Early",
+      "weight": 1
+    },
+    {
+      "id": "Python Careers",
+      "weight": 1
+    },
+    {
+      "id": "Interview Tips",
+      "weight": 1
+    },
+    {
+      "id": "Career Talk",
+      "weight": 1
+    },
+    {
+      "id": "Certifications",
+      "weight": 1
+    },
+    {
+      "id": "Career Paths",
+      "weight": 1
+    },
+    {
+      "id": "Courses",
+      "weight": 1
+    },
+    {
+      "id": "Please",
+      "weight": 1
+    },
+    {
+      "id": "Workplace Tools",
+      "weight": 1
+    },
+    {
+      "id": "What Python",
+      "weight": 1
+    },
+    {
+      "id": "Thursday Daily Thread",
+      "weight": 1
+    },
+    {
+      "id": "Course Recommendations",
+      "weight": 1
+    },
+    {
+      "id": "Education",
+      "weight": 1
+    },
+    {
+      "id": "Jobs",
+      "weight": 1
+    },
+    {
+      "id": "Are Python",
+      "weight": 1
+    },
+    {
+      "id": "Professional Use",
+      "weight": 1
+    },
+    {
+      "id": "Furthering Education",
+      "weight": 1
+    },
+    {
+      "id": "Workplace Chat",
+      "weight": 1
+    },
+    {
+      "id": "Business",
+      "weight": 1
+    },
+    {
+      "id": "Hopeful",
+      "weight": 1
+    },
+    {
+      "id": "Linked",
+      "weight": 1
+    },
+    {
+      "id": "Real",
+      "weight": 1
+    },
+    {
+      "id": "Toptal",
+      "weight": 1
+    },
+    {
+      "id": "Fast",
+      "weight": 2
+    },
+    {
+      "id": "Upwork",
+      "weight": 1
+    },
+    {
+      "id": "Next",
+      "weight": 1
+    },
+    {
+      "id": "Supply",
+      "weight": 1
+    },
+    {
+      "id": "They",
+      "weight": 1
+    },
+    {
+      "id": "More",
+      "weight": 1
+    },
+    {
+      "id": "Because",
+      "weight": 1
+    },
+    {
+      "id": "Giacomelli",
+      "weight": 1
+    },
+    {
+      "id": "Both",
+      "weight": 1
+    },
+    {
+      "id": "That",
+      "weight": 1
+    },
+    {
+      "id": "These",
+      "weight": 1
+    },
+    {
+      "id": "Things",
+      "weight": 1
+    },
+    {
+      "id": "Curious",
+      "weight": 1
+    },
+    {
+      "id": "Config",
+      "weight": 1
+    },
+    {
+      "id": "Telemetry",
+      "weight": 1
+    },
+    {
+      "id": "Logging",
+      "weight": 1
+    },
+    {
+      "id": "Bridging Python",
+      "weight": 1
+    },
+    {
+      "id": "Handler",
+      "weight": 1
+    },
+    {
+      "id": "Complete Guide",
+      "weight": 1
+    },
+    {
+      "id": "Collector",
+      "weight": 1
+    },
+    {
+      "id": "Logging Module",
+      "weight": 1
+    },
+    {
+      "id": "Significant",
+      "weight": 1
+    },
+    {
+      "id": "Book",
+      "weight": 1
+    },
+    {
+      "id": "Nova",
+      "weight": 1
+    },
+    {
+      "id": "Backend",
+      "weight": 1
+    },
+    {
+      "id": "Open Source Contribution",
+      "weight": 1
+    },
+    {
+      "id": "We All Lost",
+      "weight": 1
+    },
+    {
+      "id": "Points",
+      "weight": 10
+    },
+    {
+      "id": "Comments",
+      "weight": 10
+    },
+    {
+      "id": "Article",
+      "weight": 10
+    },
+    {
+      "id": "Court Against Elon Musk",
+      "weight": 1
+    },
+    {
+      "id": "Sam Altman Won",
+      "weight": 1
+    },
+    {
+      "id": "Steam",
+      "weight": 1
+    },
+    {
+      "id": "Valve",
+      "weight": 1
+    },
+    {
+      "id": "Circle Medical",
+      "weight": 1
+    },
+    {
+      "id": "Mobile Engineer",
+      "weight": 1
+    },
+    {
+      "id": "Is Hiring",
+      "weight": 1
+    },
+    {
+      "id": "Ones Who Didn",
+      "weight": 1
+    },
+    {
+      "id": "Will Lose",
+      "weight": 1
+    },
+    {
+      "id": "The Companies Cutting Headcount",
+      "weight": 1
+    },
+    {
+      "id": "Breakthroughs",
+      "weight": 1
+    },
+    {
+      "id": "Blog",
+      "weight": 1
+    },
+    {
+      "id": "Anna",
+      "weight": 1
+    },
+    {
+      "id": "Shadow",
+      "weight": 1
+    },
+    {
+      "id": "Browser",
+      "weight": 1
+    },
+    {
+      "id": "Codes",
+      "weight": 1
+    },
+    {
+      "id": "Chess Invariants",
+      "weight": 1
+    },
+    {
+      "id": "Benchmark",
+      "weight": 1
+    },
+    {
+      "id": "Tops",
+      "weight": 1
+    },
+    {
+      "id": "Architectural",
+      "weight": 1
+    },
+    {
+      "id": "Antigravity",
+      "weight": 1
+    },
+    {
+      "id": "Apple",
+      "weight": 1
+    },
+    {
+      "id": "Ebola",
+      "weight": 1
+    },
+    {
+      "id": "Bundibugyo",
+      "weight": 1
+    },
+    {
+      "id": "Parents",
+      "weight": 1
+    },
+    {
+      "id": "Southport",
+      "weight": 1
+    },
+    {
+      "id": "February",
+      "weight": 1
+    },
+    {
+      "id": "Andrew",
+      "weight": 1
+    },
+    {
+      "id": "Amazon",
+      "weight": 1
+    },
+    {
+      "id": "Stop",
+      "weight": 1
+    },
+    {
+      "id": "John Boumphrey",
+      "weight": 1
+    },
+    {
+      "id": "Guardiola",
+      "weight": 1
+    },
+    {
+      "id": "Pep Guardiola",
+      "weight": 1
+    },
+    {
+      "id": "Man City",
+      "weight": 1
+    },
+    {
+      "id": "Manchester City",
+      "weight": 1
+    },
+    {
+      "id": "Samuel Dodsworth",
+      "weight": 1
+    },
+    {
+      "id": "Rico Gedel",
+      "weight": 1
+    },
+    {
+      "id": "Jury",
+      "weight": 1
+    },
+    {
+      "id": "Ian Watkins",
+      "weight": 1
+    },
+    {
+      "id": "Leeds Crown Court",
+      "weight": 1
+    },
+    {
+      "id": "Thursday",
+      "weight": 1
+    },
+    {
+      "id": "Poland President Trump",
+      "weight": 1
+    },
+    {
+      "id": "Nato",
+      "weight": 1
+    },
+    {
+      "id": "Ofcom",
+      "weight": 1
+    },
+    {
+      "id": "Channel",
+      "weight": 1
+    },
+    {
+      "id": "Married",
+      "weight": 1
+    },
+    {
+      "id": "Michael Grade Michael Grade",
+      "weight": 1
+    },
+    {
+      "id": "First Sight",
+      "weight": 1
+    },
+    {
+      "id": "Reality",
+      "weight": 1
+    },
+    {
+      "id": "Jess Phillips The",
+      "weight": 1
+    },
+    {
+      "id": "Rape",
+      "weight": 1
+    },
+    {
+      "id": "Morrisons",
+      "weight": 1
+    }
+  ],
+  "edges": [
+    {
+      "source": "Chihuahua",
+      "target": "Sierra Tarahumara",
+      "weight": 1
+    },
+    {
+      "source": "Chihuahua",
+      "target": "Washington",
+      "weight": 1
+    },
+    {
+      "source": "Chihuahua",
+      "target": "Estados Unidos",
+      "weight": 1
+    },
+    {
+      "source": "Chihuahua",
+      "target": "Maru Campos",
+      "weight": 1
+    },
+    {
+      "source": "Sierra Tarahumara",
+      "target": "Washington",
+      "weight": 1
+    },
+    {
+      "source": "Sierra Tarahumara",
+      "target": "Estados Unidos",
+      "weight": 1
+    },
+    {
+      "source": "Sierra Tarahumara",
+      "target": "Maru Campos",
+      "weight": 1
+    },
+    {
+      "source": "Washington",
+      "target": "Estados Unidos",
+      "weight": 1
+    },
+    {
+      "source": "Washington",
+      "target": "Maru Campos",
+      "weight": 1
+    },
+    {
+      "source": "Estados Unidos",
+      "target": "Maru Campos",
+      "weight": 1
+    },
+    {
+      "source": "Estados Unidos",
+      "target": "Trump",
+      "weight": 1
+    },
+    {
+      "source": "Estados Unidos",
+      "target": "Sheinbaum",
+      "weight": 1
+    },
+    {
+      "source": "Estados Unidos",
+      "target": "Seguridad Interior",
+      "weight": 1
+    },
+    {
+      "source": "Estados Unidos",
+      "target": "Trump La",
+      "weight": 1
+    },
+    {
+      "source": "Estados Unidos",
+      "target": "Gobierno",
+      "weight": 1
+    },
+    {
+      "source": "Estados Unidos",
+      "target": "Sinaloa",
+      "weight": 1
+    },
+    {
+      "source": "Estados Unidos",
+      "target": "Markwayne Mullin",
+      "weight": 1
+    },
+    {
+      "source": "Alto Tribunal",
+      "target": "Sheinbaum",
+      "weight": 1
+    },
+    {
+      "source": "Alto Tribunal",
+      "target": "Pleno",
+      "weight": 1
+    },
+    {
+      "source": "Alto Tribunal",
+      "target": "Suprema Corte La",
+      "weight": 1
+    },
+    {
+      "source": "Sheinbaum",
+      "target": "Pleno",
+      "weight": 1
+    },
+    {
+      "source": "Sheinbaum",
+      "target": "Suprema Corte La",
+      "weight": 1
+    },
+    {
+      "source": "Sheinbaum",
+      "target": "Cuatro",
+      "weight": 1
+    },
+    {
+      "source": "Sheinbaum",
+      "target": "Tribunal Electoral",
+      "weight": 1
+    },
+    {
+      "source": "Sheinbaum",
+      "target": "Sala Superior",
+      "weight": 1
+    },
+    {
+      "source": "Sheinbaum",
+      "target": "Trump",
+      "weight": 1
+    },
+    {
+      "source": "Sheinbaum",
+      "target": "Seguridad Interior",
+      "weight": 1
+    },
+    {
+      "source": "Sheinbaum",
+      "target": "Trump La",
+      "weight": 1
+    },
+    {
+      "source": "Sheinbaum",
+      "target": "Gobierno",
+      "weight": 1
+    },
+    {
+      "source": "Sheinbaum",
+      "target": "Sinaloa",
+      "weight": 1
+    },
+    {
+      "source": "Sheinbaum",
+      "target": "Markwayne Mullin",
+      "weight": 1
+    },
+    {
+      "source": "Pleno",
+      "target": "Suprema Corte La",
+      "weight": 1
+    },
+    {
+      "source": "Cuatro",
+      "target": "Tribunal Electoral",
+      "weight": 1
+    },
+    {
+      "source": "Cuatro",
+      "target": "Sala Superior",
+      "weight": 1
+    },
+    {
+      "source": "Tribunal Electoral",
+      "target": "Sala Superior",
+      "weight": 1
+    },
+    {
+      "source": "Trump",
+      "target": "Seguridad Interior",
+      "weight": 1
+    },
+    {
+      "source": "Trump",
+      "target": "Trump La",
+      "weight": 1
+    },
+    {
+      "source": "Trump",
+      "target": "Gobierno",
+      "weight": 1
+    },
+    {
+      "source": "Trump",
+      "target": "Sinaloa",
+      "weight": 1
+    },
+    {
+      "source": "Trump",
+      "target": "Markwayne Mullin",
+      "weight": 1
+    },
+    {
+      "source": "Seguridad Interior",
+      "target": "Trump La",
+      "weight": 1
+    },
+    {
+      "source": "Seguridad Interior",
+      "target": "Gobierno",
+      "weight": 1
+    },
+    {
+      "source": "Seguridad Interior",
+      "target": "Sinaloa",
+      "weight": 1
+    },
+    {
+      "source": "Seguridad Interior",
+      "target": "Markwayne Mullin",
+      "weight": 1
+    },
+    {
+      "source": "Trump La",
+      "target": "Gobierno",
+      "weight": 1
+    },
+    {
+      "source": "Trump La",
+      "target": "Sinaloa",
+      "weight": 1
+    },
+    {
+      "source": "Trump La",
+      "target": "Markwayne Mullin",
+      "weight": 1
+    },
+    {
+      "source": "Gobierno",
+      "target": "Sinaloa",
+      "weight": 1
+    },
+    {
+      "source": "Gobierno",
+      "target": "Markwayne Mullin",
+      "weight": 1
+    },
+    {
+      "source": "Gobierno",
+      "target": "Mundial",
+      "weight": 1
+    },
+    {
+      "source": "Gobierno",
+      "target": "Unidad",
+      "weight": 1
+    },
+    {
+      "source": "Gobierno",
+      "target": "Copa Fut",
+      "weight": 1
+    },
+    {
+      "source": "Gobierno",
+      "target": "Chicatanas",
+      "weight": 1
+    },
+    {
+      "source": "Gobierno",
+      "target": "Azcapotzalco",
+      "weight": 1
+    },
+    {
+      "source": "Sinaloa",
+      "target": "Markwayne Mullin",
+      "weight": 1
+    },
+    {
+      "source": "México",
+      "target": "Contra",
+      "weight": 1
+    },
+    {
+      "source": "México",
+      "target": "Copa",
+      "weight": 1
+    },
+    {
+      "source": "México",
+      "target": "Puebla",
+      "weight": 1
+    },
+    {
+      "source": "México",
+      "target": "Mundo",
+      "weight": 1
+    },
+    {
+      "source": "México",
+      "target": "Mundial Más",
+      "weight": 1
+    },
+    {
+      "source": "México",
+      "target": "Sierra Norte",
+      "weight": 1
+    },
+    {
+      "source": "Contra",
+      "target": "Business",
+      "weight": 1
+    },
+    {
+      "source": "Contra",
+      "target": "Hopeful",
+      "weight": 1
+    },
+    {
+      "source": "Contra",
+      "target": "Linked",
+      "weight": 1
+    },
+    {
+      "source": "Contra",
+      "target": "Python",
+      "weight": 1
+    },
+    {
+      "source": "Contra",
+      "target": "Real",
+      "weight": 1
+    },
+    {
+      "source": "Contra",
+      "target": "Toptal",
+      "weight": 1
+    },
+    {
+      "source": "Contra",
+      "target": "Fast",
+      "weight": 1
+    },
+    {
+      "source": "Contra",
+      "target": "Upwork",
+      "weight": 1
+    },
+    {
+      "source": "Contra",
+      "target": "Next",
+      "weight": 1
+    },
+    {
+      "source": "Contra",
+      "target": "Django",
+      "weight": 1
+    },
+    {
+      "source": "Trump Los",
+      "target": "Cuba",
+      "weight": 1
+    },
+    {
+      "source": "Trump Los",
+      "target": "Gráficos",
+      "weight": 1
+    },
+    {
+      "source": "Cuba",
+      "target": "Gráficos",
+      "weight": 1
+    },
+    {
+      "source": "Cuba",
+      "target": "Caracas",
+      "weight": 1
+    },
+    {
+      "source": "Copa",
+      "target": "Puebla",
+      "weight": 1
+    },
+    {
+      "source": "Copa",
+      "target": "Mundo",
+      "weight": 1
+    },
+    {
+      "source": "Copa",
+      "target": "Mundial Más",
+      "weight": 1
+    },
+    {
+      "source": "Copa",
+      "target": "Sierra Norte",
+      "weight": 1
+    },
+    {
+      "source": "Puebla",
+      "target": "Mundo",
+      "weight": 1
+    },
+    {
+      "source": "Puebla",
+      "target": "Mundial Más",
+      "weight": 1
+    },
+    {
+      "source": "Puebla",
+      "target": "Sierra Norte",
+      "weight": 1
+    },
+    {
+      "source": "Mundo",
+      "target": "Mundial Más",
+      "weight": 1
+    },
+    {
+      "source": "Mundo",
+      "target": "Sierra Norte",
+      "weight": 1
+    },
+    {
+      "source": "Mundial Más",
+      "target": "Sierra Norte",
+      "weight": 1
+    },
+    {
+      "source": "Cruz Azul",
+      "target": "Estadio Olímpico Universitario",
+      "weight": 1
+    },
+    {
+      "source": "Cruz Azul",
+      "target": "Liga",
+      "weight": 1
+    },
+    {
+      "source": "Cruz Azul",
+      "target": "Keylor Navas",
+      "weight": 1
+    },
+    {
+      "source": "Cruz Azul",
+      "target": "Los Pumas",
+      "weight": 1
+    },
+    {
+      "source": "Estadio Olímpico Universitario",
+      "target": "Liga",
+      "weight": 1
+    },
+    {
+      "source": "Estadio Olímpico Universitario",
+      "target": "Keylor Navas",
+      "weight": 1
+    },
+    {
+      "source": "Estadio Olímpico Universitario",
+      "target": "Los Pumas",
+      "weight": 1
+    },
+    {
+      "source": "Liga",
+      "target": "Keylor Navas",
+      "weight": 1
+    },
+    {
+      "source": "Liga",
+      "target": "Los Pumas",
+      "weight": 1
+    },
+    {
+      "source": "Keylor Navas",
+      "target": "Los Pumas",
+      "weight": 1
+    },
+    {
+      "source": "Mundial",
+      "target": "Unidad",
+      "weight": 1
+    },
+    {
+      "source": "Mundial",
+      "target": "Copa Fut",
+      "weight": 1
+    },
+    {
+      "source": "Mundial",
+      "target": "Chicatanas",
+      "weight": 1
+    },
+    {
+      "source": "Mundial",
+      "target": "Azcapotzalco",
+      "weight": 1
+    },
+    {
+      "source": "Unidad",
+      "target": "Copa Fut",
+      "weight": 1
+    },
+    {
+      "source": "Unidad",
+      "target": "Chicatanas",
+      "weight": 1
+    },
+    {
+      "source": "Unidad",
+      "target": "Azcapotzalco",
+      "weight": 1
+    },
+    {
+      "source": "Copa Fut",
+      "target": "Chicatanas",
+      "weight": 1
+    },
+    {
+      "source": "Copa Fut",
+      "target": "Azcapotzalco",
+      "weight": 1
+    },
+    {
+      "source": "Chicatanas",
+      "target": "Azcapotzalco",
+      "weight": 1
+    },
+    {
+      "source": "Working",
+      "target": "Automated",
+      "weight": 1
+    },
+    {
+      "source": "Working",
+      "target": "Feel",
+      "weight": 1
+    },
+    {
+      "source": "Working",
+      "target": "Tell",
+      "weight": 1
+    },
+    {
+      "source": "Working",
+      "target": "Share",
+      "weight": 1
+    },
+    {
+      "source": "Working",
+      "target": "Your",
+      "weight": 1
+    },
+    {
+      "source": "Working",
+      "target": "Built",
+      "weight": 1
+    },
+    {
+      "source": "Working",
+      "target": "Just",
+      "weight": 1
+    },
+    {
+      "source": "Working",
+      "target": "What",
+      "weight": 1
+    },
+    {
+      "source": "Working",
+      "target": "Everyone Working On This",
+      "weight": 1
+    },
+    {
+      "source": "Working",
+      "target": "Guidelines",
+      "weight": 1
+    },
+    {
+      "source": "Working",
+      "target": "Works",
+      "weight": 1
+    },
+    {
+      "source": "Working",
+      "target": "Show",
+      "weight": 1
+    },
+    {
+      "source": "Working",
+      "target": "Hello",
+      "weight": 1
+    },
+    {
+      "source": "Working",
+      "target": "Auto",
+      "weight": 1
+    },
+    {
+      "source": "Working",
+      "target": "Discuss",
+      "weight": 1
+    },
+    {
+      "source": "Working",
+      "target": "Machine Learning Model",
+      "weight": 1
+    },
+    {
+      "source": "Working",
+      "target": "Moderator",
+      "weight": 1
+    },
+    {
+      "source": "Working",
+      "target": "Sunday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "Working",
+      "target": "Raspberry Pi",
+      "weight": 1
+    },
+    {
+      "source": "Working",
+      "target": "Happy",
+      "weight": 1
+    },
+    {
+      "source": "Working",
+      "target": "Inspire",
+      "weight": 1
+    },
+    {
+      "source": "Working",
+      "target": "Code",
+      "weight": 1
+    },
+    {
+      "source": "Working",
+      "target": "Week",
+      "weight": 1
+    },
+    {
+      "source": "Working",
+      "target": "Python",
+      "weight": 1
+    },
+    {
+      "source": "Working",
+      "target": "Weekly Thread",
+      "weight": 1
+    },
+    {
+      "source": "Working",
+      "target": "Whether",
+      "weight": 1
+    },
+    {
+      "source": "Working",
+      "target": "Web Scraping",
+      "weight": 1
+    },
+    {
+      "source": "Working",
+      "target": "Example Shares",
+      "weight": 1
+    },
+    {
+      "source": "Working",
+      "target": "Automation",
+      "weight": 1
+    },
+    {
+      "source": "Automated",
+      "target": "Feel",
+      "weight": 1
+    },
+    {
+      "source": "Automated",
+      "target": "Tell",
+      "weight": 1
+    },
+    {
+      "source": "Automated",
+      "target": "Share",
+      "weight": 1
+    },
+    {
+      "source": "Automated",
+      "target": "Your",
+      "weight": 1
+    },
+    {
+      "source": "Automated",
+      "target": "Built",
+      "weight": 1
+    },
+    {
+      "source": "Automated",
+      "target": "Just",
+      "weight": 1
+    },
+    {
+      "source": "Automated",
+      "target": "What",
+      "weight": 1
+    },
+    {
+      "source": "Automated",
+      "target": "Everyone Working On This",
+      "weight": 1
+    },
+    {
+      "source": "Automated",
+      "target": "Guidelines",
+      "weight": 1
+    },
+    {
+      "source": "Automated",
+      "target": "Works",
+      "weight": 1
+    },
+    {
+      "source": "Automated",
+      "target": "Show",
+      "weight": 1
+    },
+    {
+      "source": "Automated",
+      "target": "Hello",
+      "weight": 1
+    },
+    {
+      "source": "Automated",
+      "target": "Auto",
+      "weight": 1
+    },
+    {
+      "source": "Automated",
+      "target": "Discuss",
+      "weight": 1
+    },
+    {
+      "source": "Automated",
+      "target": "Machine Learning Model",
+      "weight": 1
+    },
+    {
+      "source": "Automated",
+      "target": "Moderator",
+      "weight": 1
+    },
+    {
+      "source": "Automated",
+      "target": "Sunday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "Automated",
+      "target": "Raspberry Pi",
+      "weight": 1
+    },
+    {
+      "source": "Automated",
+      "target": "Happy",
+      "weight": 1
+    },
+    {
+      "source": "Automated",
+      "target": "Inspire",
+      "weight": 1
+    },
+    {
+      "source": "Automated",
+      "target": "Code",
+      "weight": 1
+    },
+    {
+      "source": "Automated",
+      "target": "Week",
+      "weight": 1
+    },
+    {
+      "source": "Automated",
+      "target": "Python",
+      "weight": 1
+    },
+    {
+      "source": "Automated",
+      "target": "Weekly Thread",
+      "weight": 1
+    },
+    {
+      "source": "Automated",
+      "target": "Whether",
+      "weight": 1
+    },
+    {
+      "source": "Automated",
+      "target": "Web Scraping",
+      "weight": 1
+    },
+    {
+      "source": "Automated",
+      "target": "Example Shares",
+      "weight": 1
+    },
+    {
+      "source": "Automated",
+      "target": "Automation",
+      "weight": 1
+    },
+    {
+      "source": "Feel",
+      "target": "Tell",
+      "weight": 1
+    },
+    {
+      "source": "Feel",
+      "target": "Share",
+      "weight": 1
+    },
+    {
+      "source": "Feel",
+      "target": "Your",
+      "weight": 1
+    },
+    {
+      "source": "Feel",
+      "target": "Built",
+      "weight": 1
+    },
+    {
+      "source": "Feel",
+      "target": "Just",
+      "weight": 1
+    },
+    {
+      "source": "Feel",
+      "target": "What",
+      "weight": 1
+    },
+    {
+      "source": "Feel",
+      "target": "Everyone Working On This",
+      "weight": 1
+    },
+    {
+      "source": "Feel",
+      "target": "Guidelines",
+      "weight": 1
+    },
+    {
+      "source": "Feel",
+      "target": "Works",
+      "weight": 1
+    },
+    {
+      "source": "Feel",
+      "target": "Show",
+      "weight": 1
+    },
+    {
+      "source": "Feel",
+      "target": "Hello",
+      "weight": 1
+    },
+    {
+      "source": "Feel",
+      "target": "Auto",
+      "weight": 1
+    },
+    {
+      "source": "Feel",
+      "target": "Discuss",
+      "weight": 1
+    },
+    {
+      "source": "Feel",
+      "target": "Machine Learning Model",
+      "weight": 1
+    },
+    {
+      "source": "Feel",
+      "target": "Moderator",
+      "weight": 1
+    },
+    {
+      "source": "Feel",
+      "target": "Sunday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "Feel",
+      "target": "Raspberry Pi",
+      "weight": 1
+    },
+    {
+      "source": "Feel",
+      "target": "Happy",
+      "weight": 1
+    },
+    {
+      "source": "Feel",
+      "target": "Inspire",
+      "weight": 1
+    },
+    {
+      "source": "Feel",
+      "target": "Code",
+      "weight": 1
+    },
+    {
+      "source": "Feel",
+      "target": "Week",
+      "weight": 1
+    },
+    {
+      "source": "Feel",
+      "target": "Python",
+      "weight": 1
+    },
+    {
+      "source": "Feel",
+      "target": "Weekly Thread",
+      "weight": 1
+    },
+    {
+      "source": "Feel",
+      "target": "Whether",
+      "weight": 1
+    },
+    {
+      "source": "Feel",
+      "target": "Web Scraping",
+      "weight": 1
+    },
+    {
+      "source": "Feel",
+      "target": "Example Shares",
+      "weight": 1
+    },
+    {
+      "source": "Feel",
+      "target": "Automation",
+      "weight": 1
+    },
+    {
+      "source": "Tell",
+      "target": "Share",
+      "weight": 1
+    },
+    {
+      "source": "Tell",
+      "target": "Your",
+      "weight": 1
+    },
+    {
+      "source": "Tell",
+      "target": "Built",
+      "weight": 1
+    },
+    {
+      "source": "Tell",
+      "target": "Just",
+      "weight": 1
+    },
+    {
+      "source": "Tell",
+      "target": "What",
+      "weight": 1
+    },
+    {
+      "source": "Tell",
+      "target": "Everyone Working On This",
+      "weight": 1
+    },
+    {
+      "source": "Tell",
+      "target": "Guidelines",
+      "weight": 1
+    },
+    {
+      "source": "Tell",
+      "target": "Works",
+      "weight": 1
+    },
+    {
+      "source": "Tell",
+      "target": "Show",
+      "weight": 1
+    },
+    {
+      "source": "Tell",
+      "target": "Hello",
+      "weight": 1
+    },
+    {
+      "source": "Tell",
+      "target": "Auto",
+      "weight": 1
+    },
+    {
+      "source": "Tell",
+      "target": "Discuss",
+      "weight": 1
+    },
+    {
+      "source": "Tell",
+      "target": "Machine Learning Model",
+      "weight": 1
+    },
+    {
+      "source": "Tell",
+      "target": "Moderator",
+      "weight": 1
+    },
+    {
+      "source": "Tell",
+      "target": "Sunday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "Tell",
+      "target": "Raspberry Pi",
+      "weight": 1
+    },
+    {
+      "source": "Tell",
+      "target": "Happy",
+      "weight": 1
+    },
+    {
+      "source": "Tell",
+      "target": "Inspire",
+      "weight": 1
+    },
+    {
+      "source": "Tell",
+      "target": "Code",
+      "weight": 1
+    },
+    {
+      "source": "Tell",
+      "target": "Week",
+      "weight": 1
+    },
+    {
+      "source": "Tell",
+      "target": "Python",
+      "weight": 1
+    },
+    {
+      "source": "Tell",
+      "target": "Weekly Thread",
+      "weight": 1
+    },
+    {
+      "source": "Tell",
+      "target": "Whether",
+      "weight": 1
+    },
+    {
+      "source": "Tell",
+      "target": "Web Scraping",
+      "weight": 1
+    },
+    {
+      "source": "Tell",
+      "target": "Example Shares",
+      "weight": 1
+    },
+    {
+      "source": "Tell",
+      "target": "Automation",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "Your",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "Built",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "Just",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "What",
+      "weight": 3
+    },
+    {
+      "source": "Share",
+      "target": "Everyone Working On This",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "Guidelines",
+      "weight": 3
+    },
+    {
+      "source": "Share",
+      "target": "Works",
+      "weight": 3
+    },
+    {
+      "source": "Share",
+      "target": "Show",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "Hello",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "Auto",
+      "weight": 3
+    },
+    {
+      "source": "Share",
+      "target": "Discuss",
+      "weight": 3
+    },
+    {
+      "source": "Share",
+      "target": "Machine Learning Model",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "Moderator",
+      "weight": 3
+    },
+    {
+      "source": "Share",
+      "target": "Sunday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "Raspberry Pi",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "Happy",
+      "weight": 3
+    },
+    {
+      "source": "Share",
+      "target": "Inspire",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "Code",
+      "weight": 2
+    },
+    {
+      "source": "Share",
+      "target": "Week",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "Python",
+      "weight": 3
+    },
+    {
+      "source": "Share",
+      "target": "Weekly Thread",
+      "weight": 3
+    },
+    {
+      "source": "Share",
+      "target": "Whether",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "Web Scraping",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "Example Shares",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "Automation",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "Learning Resources",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "Keep",
+      "weight": 2
+    },
+    {
+      "source": "Share",
+      "target": "Community Ideas",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "Any Python",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "Welcome",
+      "weight": 2
+    },
+    {
+      "source": "Share",
+      "target": "Friday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "Conduct",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "Updates",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "Talk Fridays",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "News",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "Reddit",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "Job Market",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "Found",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "Python Meta",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "Free",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "Community Pulse",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "This",
+      "weight": 2
+    },
+    {
+      "source": "Share",
+      "target": "Free Talk Friday",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "Something",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "Example Topics",
+      "weight": 2
+    },
+    {
+      "source": "Share",
+      "target": "New Python Release",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "Open Mic",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "Hot Takes",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "Community Events",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "Meta Discussions",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "Python Careers",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "Interview Tips",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "Career Talk",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "Certifications",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "Career Paths",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "Courses",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "Please",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "Workplace Tools",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "What Python",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "Thursday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "Course Recommendations",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "Education",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "Jobs",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "Are Python",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "Professional Use",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "Furthering Education",
+      "weight": 1
+    },
+    {
+      "source": "Share",
+      "target": "Workplace Chat",
+      "weight": 1
+    },
+    {
+      "source": "Your",
+      "target": "Built",
+      "weight": 1
+    },
+    {
+      "source": "Your",
+      "target": "Just",
+      "weight": 1
+    },
+    {
+      "source": "Your",
+      "target": "What",
+      "weight": 1
+    },
+    {
+      "source": "Your",
+      "target": "Everyone Working On This",
+      "weight": 1
+    },
+    {
+      "source": "Your",
+      "target": "Guidelines",
+      "weight": 1
+    },
+    {
+      "source": "Your",
+      "target": "Works",
+      "weight": 1
+    },
+    {
+      "source": "Your",
+      "target": "Show",
+      "weight": 1
+    },
+    {
+      "source": "Your",
+      "target": "Hello",
+      "weight": 1
+    },
+    {
+      "source": "Your",
+      "target": "Auto",
+      "weight": 1
+    },
+    {
+      "source": "Your",
+      "target": "Discuss",
+      "weight": 1
+    },
+    {
+      "source": "Your",
+      "target": "Machine Learning Model",
+      "weight": 1
+    },
+    {
+      "source": "Your",
+      "target": "Moderator",
+      "weight": 1
+    },
+    {
+      "source": "Your",
+      "target": "Sunday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "Your",
+      "target": "Raspberry Pi",
+      "weight": 1
+    },
+    {
+      "source": "Your",
+      "target": "Happy",
+      "weight": 1
+    },
+    {
+      "source": "Your",
+      "target": "Inspire",
+      "weight": 1
+    },
+    {
+      "source": "Your",
+      "target": "Code",
+      "weight": 1
+    },
+    {
+      "source": "Your",
+      "target": "Week",
+      "weight": 1
+    },
+    {
+      "source": "Your",
+      "target": "Python",
+      "weight": 1
+    },
+    {
+      "source": "Your",
+      "target": "Weekly Thread",
+      "weight": 1
+    },
+    {
+      "source": "Your",
+      "target": "Whether",
+      "weight": 1
+    },
+    {
+      "source": "Your",
+      "target": "Web Scraping",
+      "weight": 1
+    },
+    {
+      "source": "Your",
+      "target": "Example Shares",
+      "weight": 1
+    },
+    {
+      "source": "Your",
+      "target": "Automation",
+      "weight": 1
+    },
+    {
+      "source": "Built",
+      "target": "Just",
+      "weight": 1
+    },
+    {
+      "source": "Built",
+      "target": "What",
+      "weight": 1
+    },
+    {
+      "source": "Built",
+      "target": "Everyone Working On This",
+      "weight": 1
+    },
+    {
+      "source": "Built",
+      "target": "Guidelines",
+      "weight": 1
+    },
+    {
+      "source": "Built",
+      "target": "Works",
+      "weight": 1
+    },
+    {
+      "source": "Built",
+      "target": "Show",
+      "weight": 1
+    },
+    {
+      "source": "Built",
+      "target": "Hello",
+      "weight": 1
+    },
+    {
+      "source": "Built",
+      "target": "Auto",
+      "weight": 1
+    },
+    {
+      "source": "Built",
+      "target": "Discuss",
+      "weight": 1
+    },
+    {
+      "source": "Built",
+      "target": "Machine Learning Model",
+      "weight": 1
+    },
+    {
+      "source": "Built",
+      "target": "Moderator",
+      "weight": 1
+    },
+    {
+      "source": "Built",
+      "target": "Sunday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "Built",
+      "target": "Raspberry Pi",
+      "weight": 1
+    },
+    {
+      "source": "Built",
+      "target": "Happy",
+      "weight": 1
+    },
+    {
+      "source": "Built",
+      "target": "Inspire",
+      "weight": 1
+    },
+    {
+      "source": "Built",
+      "target": "Code",
+      "weight": 1
+    },
+    {
+      "source": "Built",
+      "target": "Week",
+      "weight": 1
+    },
+    {
+      "source": "Built",
+      "target": "Python",
+      "weight": 1
+    },
+    {
+      "source": "Built",
+      "target": "Weekly Thread",
+      "weight": 1
+    },
+    {
+      "source": "Built",
+      "target": "Whether",
+      "weight": 1
+    },
+    {
+      "source": "Built",
+      "target": "Web Scraping",
+      "weight": 1
+    },
+    {
+      "source": "Built",
+      "target": "Example Shares",
+      "weight": 1
+    },
+    {
+      "source": "Built",
+      "target": "Automation",
+      "weight": 1
+    },
+    {
+      "source": "Just",
+      "target": "What",
+      "weight": 1
+    },
+    {
+      "source": "Just",
+      "target": "Everyone Working On This",
+      "weight": 1
+    },
+    {
+      "source": "Just",
+      "target": "Guidelines",
+      "weight": 1
+    },
+    {
+      "source": "Just",
+      "target": "Works",
+      "weight": 1
+    },
+    {
+      "source": "Just",
+      "target": "Show",
+      "weight": 1
+    },
+    {
+      "source": "Just",
+      "target": "Hello",
+      "weight": 1
+    },
+    {
+      "source": "Just",
+      "target": "Auto",
+      "weight": 1
+    },
+    {
+      "source": "Just",
+      "target": "Discuss",
+      "weight": 1
+    },
+    {
+      "source": "Just",
+      "target": "Machine Learning Model",
+      "weight": 1
+    },
+    {
+      "source": "Just",
+      "target": "Moderator",
+      "weight": 1
+    },
+    {
+      "source": "Just",
+      "target": "Sunday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "Just",
+      "target": "Raspberry Pi",
+      "weight": 1
+    },
+    {
+      "source": "Just",
+      "target": "Happy",
+      "weight": 1
+    },
+    {
+      "source": "Just",
+      "target": "Inspire",
+      "weight": 1
+    },
+    {
+      "source": "Just",
+      "target": "Code",
+      "weight": 1
+    },
+    {
+      "source": "Just",
+      "target": "Week",
+      "weight": 1
+    },
+    {
+      "source": "Just",
+      "target": "Python",
+      "weight": 1
+    },
+    {
+      "source": "Just",
+      "target": "Weekly Thread",
+      "weight": 1
+    },
+    {
+      "source": "Just",
+      "target": "Whether",
+      "weight": 1
+    },
+    {
+      "source": "Just",
+      "target": "Web Scraping",
+      "weight": 1
+    },
+    {
+      "source": "Just",
+      "target": "Example Shares",
+      "weight": 1
+    },
+    {
+      "source": "Just",
+      "target": "Automation",
+      "weight": 1
+    },
+    {
+      "source": "What",
+      "target": "Everyone Working On This",
+      "weight": 1
+    },
+    {
+      "source": "What",
+      "target": "Guidelines",
+      "weight": 3
+    },
+    {
+      "source": "What",
+      "target": "Works",
+      "weight": 3
+    },
+    {
+      "source": "What",
+      "target": "Show",
+      "weight": 1
+    },
+    {
+      "source": "What",
+      "target": "Hello",
+      "weight": 1
+    },
+    {
+      "source": "What",
+      "target": "Auto",
+      "weight": 3
+    },
+    {
+      "source": "What",
+      "target": "Discuss",
+      "weight": 3
+    },
+    {
+      "source": "What",
+      "target": "Machine Learning Model",
+      "weight": 1
+    },
+    {
+      "source": "What",
+      "target": "Moderator",
+      "weight": 3
+    },
+    {
+      "source": "What",
+      "target": "Sunday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "What",
+      "target": "Raspberry Pi",
+      "weight": 1
+    },
+    {
+      "source": "What",
+      "target": "Happy",
+      "weight": 3
+    },
+    {
+      "source": "What",
+      "target": "Inspire",
+      "weight": 1
+    },
+    {
+      "source": "What",
+      "target": "Code",
+      "weight": 2
+    },
+    {
+      "source": "What",
+      "target": "Week",
+      "weight": 1
+    },
+    {
+      "source": "What",
+      "target": "Python",
+      "weight": 3
+    },
+    {
+      "source": "What",
+      "target": "Weekly Thread",
+      "weight": 3
+    },
+    {
+      "source": "What",
+      "target": "Whether",
+      "weight": 1
+    },
+    {
+      "source": "What",
+      "target": "Web Scraping",
+      "weight": 1
+    },
+    {
+      "source": "What",
+      "target": "Example Shares",
+      "weight": 1
+    },
+    {
+      "source": "What",
+      "target": "Automation",
+      "weight": 1
+    },
+    {
+      "source": "What",
+      "target": "Learning Resources",
+      "weight": 1
+    },
+    {
+      "source": "What",
+      "target": "Keep",
+      "weight": 2
+    },
+    {
+      "source": "What",
+      "target": "Community Ideas",
+      "weight": 1
+    },
+    {
+      "source": "What",
+      "target": "Any Python",
+      "weight": 1
+    },
+    {
+      "source": "What",
+      "target": "Welcome",
+      "weight": 2
+    },
+    {
+      "source": "What",
+      "target": "Friday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "What",
+      "target": "Conduct",
+      "weight": 1
+    },
+    {
+      "source": "What",
+      "target": "Updates",
+      "weight": 1
+    },
+    {
+      "source": "What",
+      "target": "Talk Fridays",
+      "weight": 1
+    },
+    {
+      "source": "What",
+      "target": "News",
+      "weight": 1
+    },
+    {
+      "source": "What",
+      "target": "Reddit",
+      "weight": 1
+    },
+    {
+      "source": "What",
+      "target": "Job Market",
+      "weight": 1
+    },
+    {
+      "source": "What",
+      "target": "Found",
+      "weight": 1
+    },
+    {
+      "source": "What",
+      "target": "Python Meta",
+      "weight": 1
+    },
+    {
+      "source": "What",
+      "target": "Free",
+      "weight": 1
+    },
+    {
+      "source": "What",
+      "target": "Community Pulse",
+      "weight": 1
+    },
+    {
+      "source": "What",
+      "target": "This",
+      "weight": 2
+    },
+    {
+      "source": "What",
+      "target": "Free Talk Friday",
+      "weight": 1
+    },
+    {
+      "source": "What",
+      "target": "Something",
+      "weight": 1
+    },
+    {
+      "source": "What",
+      "target": "Example Topics",
+      "weight": 2
+    },
+    {
+      "source": "What",
+      "target": "New Python Release",
+      "weight": 1
+    },
+    {
+      "source": "What",
+      "target": "Open Mic",
+      "weight": 1
+    },
+    {
+      "source": "What",
+      "target": "Hot Takes",
+      "weight": 1
+    },
+    {
+      "source": "What",
+      "target": "Community Events",
+      "weight": 1
+    },
+    {
+      "source": "What",
+      "target": "Meta Discussions",
+      "weight": 1
+    },
+    {
+      "source": "What",
+      "target": "Python Careers",
+      "weight": 1
+    },
+    {
+      "source": "What",
+      "target": "Interview Tips",
+      "weight": 1
+    },
+    {
+      "source": "What",
+      "target": "Career Talk",
+      "weight": 1
+    },
+    {
+      "source": "What",
+      "target": "Certifications",
+      "weight": 1
+    },
+    {
+      "source": "What",
+      "target": "Career Paths",
+      "weight": 1
+    },
+    {
+      "source": "What",
+      "target": "Courses",
+      "weight": 1
+    },
+    {
+      "source": "What",
+      "target": "Please",
+      "weight": 1
+    },
+    {
+      "source": "What",
+      "target": "Workplace Tools",
+      "weight": 1
+    },
+    {
+      "source": "What",
+      "target": "What Python",
+      "weight": 1
+    },
+    {
+      "source": "What",
+      "target": "Thursday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "What",
+      "target": "Course Recommendations",
+      "weight": 1
+    },
+    {
+      "source": "What",
+      "target": "Education",
+      "weight": 1
+    },
+    {
+      "source": "What",
+      "target": "Jobs",
+      "weight": 1
+    },
+    {
+      "source": "What",
+      "target": "Are Python",
+      "weight": 1
+    },
+    {
+      "source": "What",
+      "target": "Professional Use",
+      "weight": 1
+    },
+    {
+      "source": "What",
+      "target": "Furthering Education",
+      "weight": 1
+    },
+    {
+      "source": "What",
+      "target": "Workplace Chat",
+      "weight": 1
+    },
+    {
+      "source": "Everyone Working On This",
+      "target": "Guidelines",
+      "weight": 1
+    },
+    {
+      "source": "Everyone Working On This",
+      "target": "Works",
+      "weight": 1
+    },
+    {
+      "source": "Everyone Working On This",
+      "target": "Show",
+      "weight": 1
+    },
+    {
+      "source": "Everyone Working On This",
+      "target": "Hello",
+      "weight": 1
+    },
+    {
+      "source": "Everyone Working On This",
+      "target": "Auto",
+      "weight": 1
+    },
+    {
+      "source": "Everyone Working On This",
+      "target": "Discuss",
+      "weight": 1
+    },
+    {
+      "source": "Everyone Working On This",
+      "target": "Machine Learning Model",
+      "weight": 1
+    },
+    {
+      "source": "Everyone Working On This",
+      "target": "Moderator",
+      "weight": 1
+    },
+    {
+      "source": "Everyone Working On This",
+      "target": "Sunday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "Everyone Working On This",
+      "target": "Raspberry Pi",
+      "weight": 1
+    },
+    {
+      "source": "Everyone Working On This",
+      "target": "Happy",
+      "weight": 1
+    },
+    {
+      "source": "Everyone Working On This",
+      "target": "Inspire",
+      "weight": 1
+    },
+    {
+      "source": "Everyone Working On This",
+      "target": "Code",
+      "weight": 1
+    },
+    {
+      "source": "Everyone Working On This",
+      "target": "Week",
+      "weight": 1
+    },
+    {
+      "source": "Everyone Working On This",
+      "target": "Python",
+      "weight": 1
+    },
+    {
+      "source": "Everyone Working On This",
+      "target": "Weekly Thread",
+      "weight": 1
+    },
+    {
+      "source": "Everyone Working On This",
+      "target": "Whether",
+      "weight": 1
+    },
+    {
+      "source": "Everyone Working On This",
+      "target": "Web Scraping",
+      "weight": 1
+    },
+    {
+      "source": "Everyone Working On This",
+      "target": "Example Shares",
+      "weight": 1
+    },
+    {
+      "source": "Everyone Working On This",
+      "target": "Automation",
+      "weight": 1
+    },
+    {
+      "source": "Guidelines",
+      "target": "Works",
+      "weight": 3
+    },
+    {
+      "source": "Guidelines",
+      "target": "Show",
+      "weight": 1
+    },
+    {
+      "source": "Guidelines",
+      "target": "Hello",
+      "weight": 1
+    },
+    {
+      "source": "Guidelines",
+      "target": "Auto",
+      "weight": 3
+    },
+    {
+      "source": "Guidelines",
+      "target": "Discuss",
+      "weight": 3
+    },
+    {
+      "source": "Guidelines",
+      "target": "Machine Learning Model",
+      "weight": 1
+    },
+    {
+      "source": "Guidelines",
+      "target": "Moderator",
+      "weight": 3
+    },
+    {
+      "source": "Guidelines",
+      "target": "Sunday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "Guidelines",
+      "target": "Raspberry Pi",
+      "weight": 1
+    },
+    {
+      "source": "Guidelines",
+      "target": "Happy",
+      "weight": 3
+    },
+    {
+      "source": "Guidelines",
+      "target": "Inspire",
+      "weight": 1
+    },
+    {
+      "source": "Guidelines",
+      "target": "Code",
+      "weight": 2
+    },
+    {
+      "source": "Guidelines",
+      "target": "Week",
+      "weight": 1
+    },
+    {
+      "source": "Guidelines",
+      "target": "Python",
+      "weight": 3
+    },
+    {
+      "source": "Guidelines",
+      "target": "Weekly Thread",
+      "weight": 3
+    },
+    {
+      "source": "Guidelines",
+      "target": "Whether",
+      "weight": 1
+    },
+    {
+      "source": "Guidelines",
+      "target": "Web Scraping",
+      "weight": 1
+    },
+    {
+      "source": "Guidelines",
+      "target": "Example Shares",
+      "weight": 1
+    },
+    {
+      "source": "Guidelines",
+      "target": "Automation",
+      "weight": 1
+    },
+    {
+      "source": "Guidelines",
+      "target": "Learning Resources",
+      "weight": 1
+    },
+    {
+      "source": "Guidelines",
+      "target": "Keep",
+      "weight": 2
+    },
+    {
+      "source": "Guidelines",
+      "target": "Community Ideas",
+      "weight": 1
+    },
+    {
+      "source": "Guidelines",
+      "target": "Any Python",
+      "weight": 1
+    },
+    {
+      "source": "Guidelines",
+      "target": "Welcome",
+      "weight": 2
+    },
+    {
+      "source": "Guidelines",
+      "target": "Friday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "Guidelines",
+      "target": "Conduct",
+      "weight": 1
+    },
+    {
+      "source": "Guidelines",
+      "target": "Updates",
+      "weight": 1
+    },
+    {
+      "source": "Guidelines",
+      "target": "Talk Fridays",
+      "weight": 1
+    },
+    {
+      "source": "Guidelines",
+      "target": "News",
+      "weight": 1
+    },
+    {
+      "source": "Guidelines",
+      "target": "Reddit",
+      "weight": 1
+    },
+    {
+      "source": "Guidelines",
+      "target": "Job Market",
+      "weight": 1
+    },
+    {
+      "source": "Guidelines",
+      "target": "Found",
+      "weight": 1
+    },
+    {
+      "source": "Guidelines",
+      "target": "Python Meta",
+      "weight": 1
+    },
+    {
+      "source": "Guidelines",
+      "target": "Free",
+      "weight": 1
+    },
+    {
+      "source": "Guidelines",
+      "target": "Community Pulse",
+      "weight": 1
+    },
+    {
+      "source": "Guidelines",
+      "target": "This",
+      "weight": 2
+    },
+    {
+      "source": "Guidelines",
+      "target": "Free Talk Friday",
+      "weight": 1
+    },
+    {
+      "source": "Guidelines",
+      "target": "Something",
+      "weight": 1
+    },
+    {
+      "source": "Guidelines",
+      "target": "Example Topics",
+      "weight": 2
+    },
+    {
+      "source": "Guidelines",
+      "target": "New Python Release",
+      "weight": 1
+    },
+    {
+      "source": "Guidelines",
+      "target": "Open Mic",
+      "weight": 1
+    },
+    {
+      "source": "Guidelines",
+      "target": "Hot Takes",
+      "weight": 1
+    },
+    {
+      "source": "Guidelines",
+      "target": "Community Events",
+      "weight": 1
+    },
+    {
+      "source": "Guidelines",
+      "target": "Meta Discussions",
+      "weight": 1
+    },
+    {
+      "source": "Guidelines",
+      "target": "Python Careers",
+      "weight": 1
+    },
+    {
+      "source": "Guidelines",
+      "target": "Interview Tips",
+      "weight": 1
+    },
+    {
+      "source": "Guidelines",
+      "target": "Career Talk",
+      "weight": 1
+    },
+    {
+      "source": "Guidelines",
+      "target": "Certifications",
+      "weight": 1
+    },
+    {
+      "source": "Guidelines",
+      "target": "Career Paths",
+      "weight": 1
+    },
+    {
+      "source": "Guidelines",
+      "target": "Courses",
+      "weight": 1
+    },
+    {
+      "source": "Guidelines",
+      "target": "Please",
+      "weight": 1
+    },
+    {
+      "source": "Guidelines",
+      "target": "Workplace Tools",
+      "weight": 1
+    },
+    {
+      "source": "Guidelines",
+      "target": "What Python",
+      "weight": 1
+    },
+    {
+      "source": "Guidelines",
+      "target": "Thursday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "Guidelines",
+      "target": "Course Recommendations",
+      "weight": 1
+    },
+    {
+      "source": "Guidelines",
+      "target": "Education",
+      "weight": 1
+    },
+    {
+      "source": "Guidelines",
+      "target": "Jobs",
+      "weight": 1
+    },
+    {
+      "source": "Guidelines",
+      "target": "Are Python",
+      "weight": 1
+    },
+    {
+      "source": "Guidelines",
+      "target": "Professional Use",
+      "weight": 1
+    },
+    {
+      "source": "Guidelines",
+      "target": "Furthering Education",
+      "weight": 1
+    },
+    {
+      "source": "Guidelines",
+      "target": "Workplace Chat",
+      "weight": 1
+    },
+    {
+      "source": "Works",
+      "target": "Show",
+      "weight": 1
+    },
+    {
+      "source": "Works",
+      "target": "Hello",
+      "weight": 1
+    },
+    {
+      "source": "Works",
+      "target": "Auto",
+      "weight": 3
+    },
+    {
+      "source": "Works",
+      "target": "Discuss",
+      "weight": 3
+    },
+    {
+      "source": "Works",
+      "target": "Machine Learning Model",
+      "weight": 1
+    },
+    {
+      "source": "Works",
+      "target": "Moderator",
+      "weight": 3
+    },
+    {
+      "source": "Works",
+      "target": "Sunday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "Works",
+      "target": "Raspberry Pi",
+      "weight": 1
+    },
+    {
+      "source": "Works",
+      "target": "Happy",
+      "weight": 3
+    },
+    {
+      "source": "Works",
+      "target": "Inspire",
+      "weight": 1
+    },
+    {
+      "source": "Works",
+      "target": "Code",
+      "weight": 2
+    },
+    {
+      "source": "Works",
+      "target": "Week",
+      "weight": 1
+    },
+    {
+      "source": "Works",
+      "target": "Python",
+      "weight": 3
+    },
+    {
+      "source": "Works",
+      "target": "Weekly Thread",
+      "weight": 3
+    },
+    {
+      "source": "Works",
+      "target": "Whether",
+      "weight": 1
+    },
+    {
+      "source": "Works",
+      "target": "Web Scraping",
+      "weight": 1
+    },
+    {
+      "source": "Works",
+      "target": "Example Shares",
+      "weight": 1
+    },
+    {
+      "source": "Works",
+      "target": "Automation",
+      "weight": 1
+    },
+    {
+      "source": "Works",
+      "target": "Learning Resources",
+      "weight": 1
+    },
+    {
+      "source": "Works",
+      "target": "Keep",
+      "weight": 2
+    },
+    {
+      "source": "Works",
+      "target": "Community Ideas",
+      "weight": 1
+    },
+    {
+      "source": "Works",
+      "target": "Any Python",
+      "weight": 1
+    },
+    {
+      "source": "Works",
+      "target": "Welcome",
+      "weight": 2
+    },
+    {
+      "source": "Works",
+      "target": "Friday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "Works",
+      "target": "Conduct",
+      "weight": 1
+    },
+    {
+      "source": "Works",
+      "target": "Updates",
+      "weight": 1
+    },
+    {
+      "source": "Works",
+      "target": "Talk Fridays",
+      "weight": 1
+    },
+    {
+      "source": "Works",
+      "target": "News",
+      "weight": 1
+    },
+    {
+      "source": "Works",
+      "target": "Reddit",
+      "weight": 1
+    },
+    {
+      "source": "Works",
+      "target": "Job Market",
+      "weight": 1
+    },
+    {
+      "source": "Works",
+      "target": "Found",
+      "weight": 1
+    },
+    {
+      "source": "Works",
+      "target": "Python Meta",
+      "weight": 1
+    },
+    {
+      "source": "Works",
+      "target": "Free",
+      "weight": 1
+    },
+    {
+      "source": "Works",
+      "target": "Community Pulse",
+      "weight": 1
+    },
+    {
+      "source": "Works",
+      "target": "This",
+      "weight": 2
+    },
+    {
+      "source": "Works",
+      "target": "Free Talk Friday",
+      "weight": 1
+    },
+    {
+      "source": "Works",
+      "target": "Something",
+      "weight": 1
+    },
+    {
+      "source": "Works",
+      "target": "Example Topics",
+      "weight": 2
+    },
+    {
+      "source": "Works",
+      "target": "New Python Release",
+      "weight": 1
+    },
+    {
+      "source": "Works",
+      "target": "Open Mic",
+      "weight": 1
+    },
+    {
+      "source": "Works",
+      "target": "Hot Takes",
+      "weight": 1
+    },
+    {
+      "source": "Works",
+      "target": "Community Events",
+      "weight": 1
+    },
+    {
+      "source": "Works",
+      "target": "Meta Discussions",
+      "weight": 1
+    },
+    {
+      "source": "Works",
+      "target": "Python Careers",
+      "weight": 1
+    },
+    {
+      "source": "Works",
+      "target": "Interview Tips",
+      "weight": 1
+    },
+    {
+      "source": "Works",
+      "target": "Career Talk",
+      "weight": 1
+    },
+    {
+      "source": "Works",
+      "target": "Certifications",
+      "weight": 1
+    },
+    {
+      "source": "Works",
+      "target": "Career Paths",
+      "weight": 1
+    },
+    {
+      "source": "Works",
+      "target": "Courses",
+      "weight": 1
+    },
+    {
+      "source": "Works",
+      "target": "Please",
+      "weight": 1
+    },
+    {
+      "source": "Works",
+      "target": "Workplace Tools",
+      "weight": 1
+    },
+    {
+      "source": "Works",
+      "target": "What Python",
+      "weight": 1
+    },
+    {
+      "source": "Works",
+      "target": "Thursday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "Works",
+      "target": "Course Recommendations",
+      "weight": 1
+    },
+    {
+      "source": "Works",
+      "target": "Education",
+      "weight": 1
+    },
+    {
+      "source": "Works",
+      "target": "Jobs",
+      "weight": 1
+    },
+    {
+      "source": "Works",
+      "target": "Are Python",
+      "weight": 1
+    },
+    {
+      "source": "Works",
+      "target": "Professional Use",
+      "weight": 1
+    },
+    {
+      "source": "Works",
+      "target": "Furthering Education",
+      "weight": 1
+    },
+    {
+      "source": "Works",
+      "target": "Workplace Chat",
+      "weight": 1
+    },
+    {
+      "source": "Show",
+      "target": "Hello",
+      "weight": 1
+    },
+    {
+      "source": "Show",
+      "target": "Auto",
+      "weight": 1
+    },
+    {
+      "source": "Show",
+      "target": "Discuss",
+      "weight": 1
+    },
+    {
+      "source": "Show",
+      "target": "Machine Learning Model",
+      "weight": 1
+    },
+    {
+      "source": "Show",
+      "target": "Moderator",
+      "weight": 1
+    },
+    {
+      "source": "Show",
+      "target": "Sunday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "Show",
+      "target": "Raspberry Pi",
+      "weight": 1
+    },
+    {
+      "source": "Show",
+      "target": "Happy",
+      "weight": 1
+    },
+    {
+      "source": "Show",
+      "target": "Inspire",
+      "weight": 1
+    },
+    {
+      "source": "Show",
+      "target": "Code",
+      "weight": 1
+    },
+    {
+      "source": "Show",
+      "target": "Week",
+      "weight": 1
+    },
+    {
+      "source": "Show",
+      "target": "Python",
+      "weight": 1
+    },
+    {
+      "source": "Show",
+      "target": "Weekly Thread",
+      "weight": 1
+    },
+    {
+      "source": "Show",
+      "target": "Whether",
+      "weight": 1
+    },
+    {
+      "source": "Show",
+      "target": "Web Scraping",
+      "weight": 1
+    },
+    {
+      "source": "Show",
+      "target": "Example Shares",
+      "weight": 1
+    },
+    {
+      "source": "Show",
+      "target": "Automation",
+      "weight": 1
+    },
+    {
+      "source": "Show",
+      "target": "Shadow",
+      "weight": 1
+    },
+    {
+      "source": "Show",
+      "target": "Points",
+      "weight": 1
+    },
+    {
+      "source": "Show",
+      "target": "Comments",
+      "weight": 1
+    },
+    {
+      "source": "Show",
+      "target": "Article",
+      "weight": 1
+    },
+    {
+      "source": "Show",
+      "target": "Browser",
+      "weight": 1
+    },
+    {
+      "source": "Show",
+      "target": "Codes",
+      "weight": 1
+    },
+    {
+      "source": "Hello",
+      "target": "Auto",
+      "weight": 1
+    },
+    {
+      "source": "Hello",
+      "target": "Discuss",
+      "weight": 1
+    },
+    {
+      "source": "Hello",
+      "target": "Machine Learning Model",
+      "weight": 1
+    },
+    {
+      "source": "Hello",
+      "target": "Moderator",
+      "weight": 1
+    },
+    {
+      "source": "Hello",
+      "target": "Sunday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "Hello",
+      "target": "Raspberry Pi",
+      "weight": 1
+    },
+    {
+      "source": "Hello",
+      "target": "Happy",
+      "weight": 1
+    },
+    {
+      "source": "Hello",
+      "target": "Inspire",
+      "weight": 1
+    },
+    {
+      "source": "Hello",
+      "target": "Code",
+      "weight": 1
+    },
+    {
+      "source": "Hello",
+      "target": "Week",
+      "weight": 1
+    },
+    {
+      "source": "Hello",
+      "target": "Python",
+      "weight": 1
+    },
+    {
+      "source": "Hello",
+      "target": "Weekly Thread",
+      "weight": 1
+    },
+    {
+      "source": "Hello",
+      "target": "Whether",
+      "weight": 1
+    },
+    {
+      "source": "Hello",
+      "target": "Web Scraping",
+      "weight": 1
+    },
+    {
+      "source": "Hello",
+      "target": "Example Shares",
+      "weight": 1
+    },
+    {
+      "source": "Hello",
+      "target": "Automation",
+      "weight": 1
+    },
+    {
+      "source": "Auto",
+      "target": "Discuss",
+      "weight": 3
+    },
+    {
+      "source": "Auto",
+      "target": "Machine Learning Model",
+      "weight": 1
+    },
+    {
+      "source": "Auto",
+      "target": "Moderator",
+      "weight": 3
+    },
+    {
+      "source": "Auto",
+      "target": "Sunday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "Auto",
+      "target": "Raspberry Pi",
+      "weight": 1
+    },
+    {
+      "source": "Auto",
+      "target": "Happy",
+      "weight": 3
+    },
+    {
+      "source": "Auto",
+      "target": "Inspire",
+      "weight": 1
+    },
+    {
+      "source": "Auto",
+      "target": "Code",
+      "weight": 2
+    },
+    {
+      "source": "Auto",
+      "target": "Week",
+      "weight": 1
+    },
+    {
+      "source": "Auto",
+      "target": "Python",
+      "weight": 3
+    },
+    {
+      "source": "Auto",
+      "target": "Weekly Thread",
+      "weight": 3
+    },
+    {
+      "source": "Auto",
+      "target": "Whether",
+      "weight": 1
+    },
+    {
+      "source": "Auto",
+      "target": "Web Scraping",
+      "weight": 1
+    },
+    {
+      "source": "Auto",
+      "target": "Example Shares",
+      "weight": 1
+    },
+    {
+      "source": "Auto",
+      "target": "Automation",
+      "weight": 1
+    },
+    {
+      "source": "Auto",
+      "target": "Learning Resources",
+      "weight": 1
+    },
+    {
+      "source": "Auto",
+      "target": "Keep",
+      "weight": 2
+    },
+    {
+      "source": "Auto",
+      "target": "Community Ideas",
+      "weight": 1
+    },
+    {
+      "source": "Auto",
+      "target": "Any Python",
+      "weight": 1
+    },
+    {
+      "source": "Auto",
+      "target": "Welcome",
+      "weight": 2
+    },
+    {
+      "source": "Auto",
+      "target": "Friday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "Auto",
+      "target": "Conduct",
+      "weight": 1
+    },
+    {
+      "source": "Auto",
+      "target": "Updates",
+      "weight": 1
+    },
+    {
+      "source": "Auto",
+      "target": "Talk Fridays",
+      "weight": 1
+    },
+    {
+      "source": "Auto",
+      "target": "News",
+      "weight": 1
+    },
+    {
+      "source": "Auto",
+      "target": "Reddit",
+      "weight": 1
+    },
+    {
+      "source": "Auto",
+      "target": "Job Market",
+      "weight": 1
+    },
+    {
+      "source": "Auto",
+      "target": "Found",
+      "weight": 1
+    },
+    {
+      "source": "Auto",
+      "target": "Python Meta",
+      "weight": 1
+    },
+    {
+      "source": "Auto",
+      "target": "Free",
+      "weight": 1
+    },
+    {
+      "source": "Auto",
+      "target": "Community Pulse",
+      "weight": 1
+    },
+    {
+      "source": "Auto",
+      "target": "This",
+      "weight": 2
+    },
+    {
+      "source": "Auto",
+      "target": "Free Talk Friday",
+      "weight": 1
+    },
+    {
+      "source": "Auto",
+      "target": "Something",
+      "weight": 1
+    },
+    {
+      "source": "Auto",
+      "target": "Example Topics",
+      "weight": 2
+    },
+    {
+      "source": "Auto",
+      "target": "New Python Release",
+      "weight": 1
+    },
+    {
+      "source": "Auto",
+      "target": "Open Mic",
+      "weight": 1
+    },
+    {
+      "source": "Auto",
+      "target": "Hot Takes",
+      "weight": 1
+    },
+    {
+      "source": "Auto",
+      "target": "Community Events",
+      "weight": 1
+    },
+    {
+      "source": "Auto",
+      "target": "Meta Discussions",
+      "weight": 1
+    },
+    {
+      "source": "Auto",
+      "target": "Python Careers",
+      "weight": 1
+    },
+    {
+      "source": "Auto",
+      "target": "Interview Tips",
+      "weight": 1
+    },
+    {
+      "source": "Auto",
+      "target": "Career Talk",
+      "weight": 1
+    },
+    {
+      "source": "Auto",
+      "target": "Certifications",
+      "weight": 1
+    },
+    {
+      "source": "Auto",
+      "target": "Career Paths",
+      "weight": 1
+    },
+    {
+      "source": "Auto",
+      "target": "Courses",
+      "weight": 1
+    },
+    {
+      "source": "Auto",
+      "target": "Please",
+      "weight": 1
+    },
+    {
+      "source": "Auto",
+      "target": "Workplace Tools",
+      "weight": 1
+    },
+    {
+      "source": "Auto",
+      "target": "What Python",
+      "weight": 1
+    },
+    {
+      "source": "Auto",
+      "target": "Thursday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "Auto",
+      "target": "Course Recommendations",
+      "weight": 1
+    },
+    {
+      "source": "Auto",
+      "target": "Education",
+      "weight": 1
+    },
+    {
+      "source": "Auto",
+      "target": "Jobs",
+      "weight": 1
+    },
+    {
+      "source": "Auto",
+      "target": "Are Python",
+      "weight": 1
+    },
+    {
+      "source": "Auto",
+      "target": "Professional Use",
+      "weight": 1
+    },
+    {
+      "source": "Auto",
+      "target": "Furthering Education",
+      "weight": 1
+    },
+    {
+      "source": "Auto",
+      "target": "Workplace Chat",
+      "weight": 1
+    },
+    {
+      "source": "Discuss",
+      "target": "Machine Learning Model",
+      "weight": 1
+    },
+    {
+      "source": "Discuss",
+      "target": "Moderator",
+      "weight": 3
+    },
+    {
+      "source": "Discuss",
+      "target": "Sunday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "Discuss",
+      "target": "Raspberry Pi",
+      "weight": 1
+    },
+    {
+      "source": "Discuss",
+      "target": "Happy",
+      "weight": 3
+    },
+    {
+      "source": "Discuss",
+      "target": "Inspire",
+      "weight": 1
+    },
+    {
+      "source": "Discuss",
+      "target": "Code",
+      "weight": 2
+    },
+    {
+      "source": "Discuss",
+      "target": "Week",
+      "weight": 1
+    },
+    {
+      "source": "Discuss",
+      "target": "Python",
+      "weight": 3
+    },
+    {
+      "source": "Discuss",
+      "target": "Weekly Thread",
+      "weight": 3
+    },
+    {
+      "source": "Discuss",
+      "target": "Whether",
+      "weight": 1
+    },
+    {
+      "source": "Discuss",
+      "target": "Web Scraping",
+      "weight": 1
+    },
+    {
+      "source": "Discuss",
+      "target": "Example Shares",
+      "weight": 1
+    },
+    {
+      "source": "Discuss",
+      "target": "Automation",
+      "weight": 1
+    },
+    {
+      "source": "Discuss",
+      "target": "Learning Resources",
+      "weight": 1
+    },
+    {
+      "source": "Discuss",
+      "target": "Keep",
+      "weight": 2
+    },
+    {
+      "source": "Discuss",
+      "target": "Community Ideas",
+      "weight": 1
+    },
+    {
+      "source": "Discuss",
+      "target": "Any Python",
+      "weight": 1
+    },
+    {
+      "source": "Discuss",
+      "target": "Welcome",
+      "weight": 2
+    },
+    {
+      "source": "Discuss",
+      "target": "Friday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "Discuss",
+      "target": "Conduct",
+      "weight": 1
+    },
+    {
+      "source": "Discuss",
+      "target": "Updates",
+      "weight": 1
+    },
+    {
+      "source": "Discuss",
+      "target": "Talk Fridays",
+      "weight": 1
+    },
+    {
+      "source": "Discuss",
+      "target": "News",
+      "weight": 1
+    },
+    {
+      "source": "Discuss",
+      "target": "Reddit",
+      "weight": 1
+    },
+    {
+      "source": "Discuss",
+      "target": "Job Market",
+      "weight": 1
+    },
+    {
+      "source": "Discuss",
+      "target": "Found",
+      "weight": 1
+    },
+    {
+      "source": "Discuss",
+      "target": "Python Meta",
+      "weight": 1
+    },
+    {
+      "source": "Discuss",
+      "target": "Free",
+      "weight": 1
+    },
+    {
+      "source": "Discuss",
+      "target": "Community Pulse",
+      "weight": 1
+    },
+    {
+      "source": "Discuss",
+      "target": "This",
+      "weight": 2
+    },
+    {
+      "source": "Discuss",
+      "target": "Free Talk Friday",
+      "weight": 1
+    },
+    {
+      "source": "Discuss",
+      "target": "Something",
+      "weight": 1
+    },
+    {
+      "source": "Discuss",
+      "target": "Example Topics",
+      "weight": 2
+    },
+    {
+      "source": "Discuss",
+      "target": "New Python Release",
+      "weight": 1
+    },
+    {
+      "source": "Discuss",
+      "target": "Open Mic",
+      "weight": 1
+    },
+    {
+      "source": "Discuss",
+      "target": "Hot Takes",
+      "weight": 1
+    },
+    {
+      "source": "Discuss",
+      "target": "Community Events",
+      "weight": 1
+    },
+    {
+      "source": "Discuss",
+      "target": "Meta Discussions",
+      "weight": 1
+    },
+    {
+      "source": "Discuss",
+      "target": "Python Careers",
+      "weight": 1
+    },
+    {
+      "source": "Discuss",
+      "target": "Interview Tips",
+      "weight": 1
+    },
+    {
+      "source": "Discuss",
+      "target": "Career Talk",
+      "weight": 1
+    },
+    {
+      "source": "Discuss",
+      "target": "Certifications",
+      "weight": 1
+    },
+    {
+      "source": "Discuss",
+      "target": "Career Paths",
+      "weight": 1
+    },
+    {
+      "source": "Discuss",
+      "target": "Courses",
+      "weight": 1
+    },
+    {
+      "source": "Discuss",
+      "target": "Please",
+      "weight": 1
+    },
+    {
+      "source": "Discuss",
+      "target": "Workplace Tools",
+      "weight": 1
+    },
+    {
+      "source": "Discuss",
+      "target": "What Python",
+      "weight": 1
+    },
+    {
+      "source": "Discuss",
+      "target": "Thursday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "Discuss",
+      "target": "Course Recommendations",
+      "weight": 1
+    },
+    {
+      "source": "Discuss",
+      "target": "Education",
+      "weight": 1
+    },
+    {
+      "source": "Discuss",
+      "target": "Jobs",
+      "weight": 1
+    },
+    {
+      "source": "Discuss",
+      "target": "Are Python",
+      "weight": 1
+    },
+    {
+      "source": "Discuss",
+      "target": "Professional Use",
+      "weight": 1
+    },
+    {
+      "source": "Discuss",
+      "target": "Furthering Education",
+      "weight": 1
+    },
+    {
+      "source": "Discuss",
+      "target": "Workplace Chat",
+      "weight": 1
+    },
+    {
+      "source": "Machine Learning Model",
+      "target": "Moderator",
+      "weight": 1
+    },
+    {
+      "source": "Machine Learning Model",
+      "target": "Sunday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "Machine Learning Model",
+      "target": "Raspberry Pi",
+      "weight": 1
+    },
+    {
+      "source": "Machine Learning Model",
+      "target": "Happy",
+      "weight": 1
+    },
+    {
+      "source": "Machine Learning Model",
+      "target": "Inspire",
+      "weight": 1
+    },
+    {
+      "source": "Machine Learning Model",
+      "target": "Code",
+      "weight": 1
+    },
+    {
+      "source": "Machine Learning Model",
+      "target": "Week",
+      "weight": 1
+    },
+    {
+      "source": "Machine Learning Model",
+      "target": "Python",
+      "weight": 1
+    },
+    {
+      "source": "Machine Learning Model",
+      "target": "Weekly Thread",
+      "weight": 1
+    },
+    {
+      "source": "Machine Learning Model",
+      "target": "Whether",
+      "weight": 1
+    },
+    {
+      "source": "Machine Learning Model",
+      "target": "Web Scraping",
+      "weight": 1
+    },
+    {
+      "source": "Machine Learning Model",
+      "target": "Example Shares",
+      "weight": 1
+    },
+    {
+      "source": "Machine Learning Model",
+      "target": "Automation",
+      "weight": 1
+    },
+    {
+      "source": "Moderator",
+      "target": "Sunday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "Moderator",
+      "target": "Raspberry Pi",
+      "weight": 1
+    },
+    {
+      "source": "Moderator",
+      "target": "Happy",
+      "weight": 3
+    },
+    {
+      "source": "Moderator",
+      "target": "Inspire",
+      "weight": 1
+    },
+    {
+      "source": "Moderator",
+      "target": "Code",
+      "weight": 2
+    },
+    {
+      "source": "Moderator",
+      "target": "Week",
+      "weight": 1
+    },
+    {
+      "source": "Moderator",
+      "target": "Python",
+      "weight": 3
+    },
+    {
+      "source": "Moderator",
+      "target": "Weekly Thread",
+      "weight": 3
+    },
+    {
+      "source": "Moderator",
+      "target": "Whether",
+      "weight": 1
+    },
+    {
+      "source": "Moderator",
+      "target": "Web Scraping",
+      "weight": 1
+    },
+    {
+      "source": "Moderator",
+      "target": "Example Shares",
+      "weight": 1
+    },
+    {
+      "source": "Moderator",
+      "target": "Automation",
+      "weight": 1
+    },
+    {
+      "source": "Moderator",
+      "target": "Learning Resources",
+      "weight": 1
+    },
+    {
+      "source": "Moderator",
+      "target": "Keep",
+      "weight": 2
+    },
+    {
+      "source": "Moderator",
+      "target": "Community Ideas",
+      "weight": 1
+    },
+    {
+      "source": "Moderator",
+      "target": "Any Python",
+      "weight": 1
+    },
+    {
+      "source": "Moderator",
+      "target": "Welcome",
+      "weight": 2
+    },
+    {
+      "source": "Moderator",
+      "target": "Friday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "Moderator",
+      "target": "Conduct",
+      "weight": 1
+    },
+    {
+      "source": "Moderator",
+      "target": "Updates",
+      "weight": 1
+    },
+    {
+      "source": "Moderator",
+      "target": "Talk Fridays",
+      "weight": 1
+    },
+    {
+      "source": "Moderator",
+      "target": "News",
+      "weight": 1
+    },
+    {
+      "source": "Moderator",
+      "target": "Reddit",
+      "weight": 1
+    },
+    {
+      "source": "Moderator",
+      "target": "Job Market",
+      "weight": 1
+    },
+    {
+      "source": "Moderator",
+      "target": "Found",
+      "weight": 1
+    },
+    {
+      "source": "Moderator",
+      "target": "Python Meta",
+      "weight": 1
+    },
+    {
+      "source": "Moderator",
+      "target": "Free",
+      "weight": 1
+    },
+    {
+      "source": "Moderator",
+      "target": "Community Pulse",
+      "weight": 1
+    },
+    {
+      "source": "Moderator",
+      "target": "This",
+      "weight": 2
+    },
+    {
+      "source": "Moderator",
+      "target": "Free Talk Friday",
+      "weight": 1
+    },
+    {
+      "source": "Moderator",
+      "target": "Something",
+      "weight": 1
+    },
+    {
+      "source": "Moderator",
+      "target": "Example Topics",
+      "weight": 2
+    },
+    {
+      "source": "Moderator",
+      "target": "New Python Release",
+      "weight": 1
+    },
+    {
+      "source": "Moderator",
+      "target": "Open Mic",
+      "weight": 1
+    },
+    {
+      "source": "Moderator",
+      "target": "Hot Takes",
+      "weight": 1
+    },
+    {
+      "source": "Moderator",
+      "target": "Community Events",
+      "weight": 1
+    },
+    {
+      "source": "Moderator",
+      "target": "Meta Discussions",
+      "weight": 1
+    },
+    {
+      "source": "Moderator",
+      "target": "Python Careers",
+      "weight": 1
+    },
+    {
+      "source": "Moderator",
+      "target": "Interview Tips",
+      "weight": 1
+    },
+    {
+      "source": "Moderator",
+      "target": "Career Talk",
+      "weight": 1
+    },
+    {
+      "source": "Moderator",
+      "target": "Certifications",
+      "weight": 1
+    },
+    {
+      "source": "Moderator",
+      "target": "Career Paths",
+      "weight": 1
+    },
+    {
+      "source": "Moderator",
+      "target": "Courses",
+      "weight": 1
+    },
+    {
+      "source": "Moderator",
+      "target": "Please",
+      "weight": 1
+    },
+    {
+      "source": "Moderator",
+      "target": "Workplace Tools",
+      "weight": 1
+    },
+    {
+      "source": "Moderator",
+      "target": "What Python",
+      "weight": 1
+    },
+    {
+      "source": "Moderator",
+      "target": "Thursday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "Moderator",
+      "target": "Course Recommendations",
+      "weight": 1
+    },
+    {
+      "source": "Moderator",
+      "target": "Education",
+      "weight": 1
+    },
+    {
+      "source": "Moderator",
+      "target": "Jobs",
+      "weight": 1
+    },
+    {
+      "source": "Moderator",
+      "target": "Are Python",
+      "weight": 1
+    },
+    {
+      "source": "Moderator",
+      "target": "Professional Use",
+      "weight": 1
+    },
+    {
+      "source": "Moderator",
+      "target": "Furthering Education",
+      "weight": 1
+    },
+    {
+      "source": "Moderator",
+      "target": "Workplace Chat",
+      "weight": 1
+    },
+    {
+      "source": "Sunday Daily Thread",
+      "target": "Raspberry Pi",
+      "weight": 1
+    },
+    {
+      "source": "Sunday Daily Thread",
+      "target": "Happy",
+      "weight": 1
+    },
+    {
+      "source": "Sunday Daily Thread",
+      "target": "Inspire",
+      "weight": 1
+    },
+    {
+      "source": "Sunday Daily Thread",
+      "target": "Code",
+      "weight": 1
+    },
+    {
+      "source": "Sunday Daily Thread",
+      "target": "Week",
+      "weight": 1
+    },
+    {
+      "source": "Sunday Daily Thread",
+      "target": "Python",
+      "weight": 1
+    },
+    {
+      "source": "Sunday Daily Thread",
+      "target": "Weekly Thread",
+      "weight": 1
+    },
+    {
+      "source": "Sunday Daily Thread",
+      "target": "Whether",
+      "weight": 1
+    },
+    {
+      "source": "Sunday Daily Thread",
+      "target": "Web Scraping",
+      "weight": 1
+    },
+    {
+      "source": "Sunday Daily Thread",
+      "target": "Example Shares",
+      "weight": 1
+    },
+    {
+      "source": "Sunday Daily Thread",
+      "target": "Automation",
+      "weight": 1
+    },
+    {
+      "source": "Raspberry Pi",
+      "target": "Happy",
+      "weight": 1
+    },
+    {
+      "source": "Raspberry Pi",
+      "target": "Inspire",
+      "weight": 1
+    },
+    {
+      "source": "Raspberry Pi",
+      "target": "Code",
+      "weight": 1
+    },
+    {
+      "source": "Raspberry Pi",
+      "target": "Week",
+      "weight": 1
+    },
+    {
+      "source": "Raspberry Pi",
+      "target": "Python",
+      "weight": 1
+    },
+    {
+      "source": "Raspberry Pi",
+      "target": "Weekly Thread",
+      "weight": 1
+    },
+    {
+      "source": "Raspberry Pi",
+      "target": "Whether",
+      "weight": 1
+    },
+    {
+      "source": "Raspberry Pi",
+      "target": "Web Scraping",
+      "weight": 1
+    },
+    {
+      "source": "Raspberry Pi",
+      "target": "Example Shares",
+      "weight": 1
+    },
+    {
+      "source": "Raspberry Pi",
+      "target": "Automation",
+      "weight": 1
+    },
+    {
+      "source": "Happy",
+      "target": "Inspire",
+      "weight": 1
+    },
+    {
+      "source": "Happy",
+      "target": "Code",
+      "weight": 2
+    },
+    {
+      "source": "Happy",
+      "target": "Week",
+      "weight": 1
+    },
+    {
+      "source": "Happy",
+      "target": "Python",
+      "weight": 3
+    },
+    {
+      "source": "Happy",
+      "target": "Weekly Thread",
+      "weight": 3
+    },
+    {
+      "source": "Happy",
+      "target": "Whether",
+      "weight": 1
+    },
+    {
+      "source": "Happy",
+      "target": "Web Scraping",
+      "weight": 1
+    },
+    {
+      "source": "Happy",
+      "target": "Example Shares",
+      "weight": 1
+    },
+    {
+      "source": "Happy",
+      "target": "Automation",
+      "weight": 1
+    },
+    {
+      "source": "Happy",
+      "target": "Learning Resources",
+      "weight": 1
+    },
+    {
+      "source": "Happy",
+      "target": "Keep",
+      "weight": 2
+    },
+    {
+      "source": "Happy",
+      "target": "Community Ideas",
+      "weight": 1
+    },
+    {
+      "source": "Happy",
+      "target": "Any Python",
+      "weight": 1
+    },
+    {
+      "source": "Happy",
+      "target": "Welcome",
+      "weight": 2
+    },
+    {
+      "source": "Happy",
+      "target": "Friday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "Happy",
+      "target": "Conduct",
+      "weight": 1
+    },
+    {
+      "source": "Happy",
+      "target": "Updates",
+      "weight": 1
+    },
+    {
+      "source": "Happy",
+      "target": "Talk Fridays",
+      "weight": 1
+    },
+    {
+      "source": "Happy",
+      "target": "News",
+      "weight": 1
+    },
+    {
+      "source": "Happy",
+      "target": "Reddit",
+      "weight": 1
+    },
+    {
+      "source": "Happy",
+      "target": "Job Market",
+      "weight": 1
+    },
+    {
+      "source": "Happy",
+      "target": "Found",
+      "weight": 1
+    },
+    {
+      "source": "Happy",
+      "target": "Python Meta",
+      "weight": 1
+    },
+    {
+      "source": "Happy",
+      "target": "Free",
+      "weight": 1
+    },
+    {
+      "source": "Happy",
+      "target": "Community Pulse",
+      "weight": 1
+    },
+    {
+      "source": "Happy",
+      "target": "This",
+      "weight": 2
+    },
+    {
+      "source": "Happy",
+      "target": "Free Talk Friday",
+      "weight": 1
+    },
+    {
+      "source": "Happy",
+      "target": "Something",
+      "weight": 1
+    },
+    {
+      "source": "Happy",
+      "target": "Example Topics",
+      "weight": 2
+    },
+    {
+      "source": "Happy",
+      "target": "New Python Release",
+      "weight": 1
+    },
+    {
+      "source": "Happy",
+      "target": "Open Mic",
+      "weight": 1
+    },
+    {
+      "source": "Happy",
+      "target": "Hot Takes",
+      "weight": 1
+    },
+    {
+      "source": "Happy",
+      "target": "Community Events",
+      "weight": 1
+    },
+    {
+      "source": "Happy",
+      "target": "Meta Discussions",
+      "weight": 1
+    },
+    {
+      "source": "Happy",
+      "target": "Python Careers",
+      "weight": 1
+    },
+    {
+      "source": "Happy",
+      "target": "Interview Tips",
+      "weight": 1
+    },
+    {
+      "source": "Happy",
+      "target": "Career Talk",
+      "weight": 1
+    },
+    {
+      "source": "Happy",
+      "target": "Certifications",
+      "weight": 1
+    },
+    {
+      "source": "Happy",
+      "target": "Career Paths",
+      "weight": 1
+    },
+    {
+      "source": "Happy",
+      "target": "Courses",
+      "weight": 1
+    },
+    {
+      "source": "Happy",
+      "target": "Please",
+      "weight": 1
+    },
+    {
+      "source": "Happy",
+      "target": "Workplace Tools",
+      "weight": 1
+    },
+    {
+      "source": "Happy",
+      "target": "What Python",
+      "weight": 1
+    },
+    {
+      "source": "Happy",
+      "target": "Thursday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "Happy",
+      "target": "Course Recommendations",
+      "weight": 1
+    },
+    {
+      "source": "Happy",
+      "target": "Education",
+      "weight": 1
+    },
+    {
+      "source": "Happy",
+      "target": "Jobs",
+      "weight": 1
+    },
+    {
+      "source": "Happy",
+      "target": "Are Python",
+      "weight": 1
+    },
+    {
+      "source": "Happy",
+      "target": "Professional Use",
+      "weight": 1
+    },
+    {
+      "source": "Happy",
+      "target": "Furthering Education",
+      "weight": 1
+    },
+    {
+      "source": "Happy",
+      "target": "Workplace Chat",
+      "weight": 1
+    },
+    {
+      "source": "Inspire",
+      "target": "Code",
+      "weight": 1
+    },
+    {
+      "source": "Inspire",
+      "target": "Week",
+      "weight": 1
+    },
+    {
+      "source": "Inspire",
+      "target": "Python",
+      "weight": 1
+    },
+    {
+      "source": "Inspire",
+      "target": "Weekly Thread",
+      "weight": 1
+    },
+    {
+      "source": "Inspire",
+      "target": "Whether",
+      "weight": 1
+    },
+    {
+      "source": "Inspire",
+      "target": "Web Scraping",
+      "weight": 1
+    },
+    {
+      "source": "Inspire",
+      "target": "Example Shares",
+      "weight": 1
+    },
+    {
+      "source": "Inspire",
+      "target": "Automation",
+      "weight": 1
+    },
+    {
+      "source": "Code",
+      "target": "Week",
+      "weight": 1
+    },
+    {
+      "source": "Code",
+      "target": "Python",
+      "weight": 2
+    },
+    {
+      "source": "Code",
+      "target": "Weekly Thread",
+      "weight": 2
+    },
+    {
+      "source": "Code",
+      "target": "Whether",
+      "weight": 1
+    },
+    {
+      "source": "Code",
+      "target": "Web Scraping",
+      "weight": 1
+    },
+    {
+      "source": "Code",
+      "target": "Example Shares",
+      "weight": 1
+    },
+    {
+      "source": "Code",
+      "target": "Automation",
+      "weight": 1
+    },
+    {
+      "source": "Code",
+      "target": "Learning Resources",
+      "weight": 1
+    },
+    {
+      "source": "Code",
+      "target": "Keep",
+      "weight": 1
+    },
+    {
+      "source": "Code",
+      "target": "Community Ideas",
+      "weight": 1
+    },
+    {
+      "source": "Code",
+      "target": "Any Python",
+      "weight": 1
+    },
+    {
+      "source": "Code",
+      "target": "Welcome",
+      "weight": 1
+    },
+    {
+      "source": "Code",
+      "target": "Friday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "Code",
+      "target": "Conduct",
+      "weight": 1
+    },
+    {
+      "source": "Code",
+      "target": "Updates",
+      "weight": 1
+    },
+    {
+      "source": "Code",
+      "target": "Talk Fridays",
+      "weight": 1
+    },
+    {
+      "source": "Code",
+      "target": "News",
+      "weight": 1
+    },
+    {
+      "source": "Code",
+      "target": "Reddit",
+      "weight": 1
+    },
+    {
+      "source": "Code",
+      "target": "Job Market",
+      "weight": 1
+    },
+    {
+      "source": "Code",
+      "target": "Found",
+      "weight": 1
+    },
+    {
+      "source": "Code",
+      "target": "Python Meta",
+      "weight": 1
+    },
+    {
+      "source": "Code",
+      "target": "Free",
+      "weight": 1
+    },
+    {
+      "source": "Code",
+      "target": "Community Pulse",
+      "weight": 1
+    },
+    {
+      "source": "Code",
+      "target": "This",
+      "weight": 1
+    },
+    {
+      "source": "Code",
+      "target": "Free Talk Friday",
+      "weight": 1
+    },
+    {
+      "source": "Code",
+      "target": "Something",
+      "weight": 1
+    },
+    {
+      "source": "Code",
+      "target": "Example Topics",
+      "weight": 1
+    },
+    {
+      "source": "Code",
+      "target": "New Python Release",
+      "weight": 1
+    },
+    {
+      "source": "Code",
+      "target": "Open Mic",
+      "weight": 1
+    },
+    {
+      "source": "Code",
+      "target": "Hot Takes",
+      "weight": 1
+    },
+    {
+      "source": "Code",
+      "target": "Community Events",
+      "weight": 1
+    },
+    {
+      "source": "Code",
+      "target": "Meta Discussions",
+      "weight": 1
+    },
+    {
+      "source": "Week",
+      "target": "Python",
+      "weight": 1
+    },
+    {
+      "source": "Week",
+      "target": "Weekly Thread",
+      "weight": 1
+    },
+    {
+      "source": "Week",
+      "target": "Whether",
+      "weight": 1
+    },
+    {
+      "source": "Week",
+      "target": "Web Scraping",
+      "weight": 1
+    },
+    {
+      "source": "Week",
+      "target": "Example Shares",
+      "weight": 1
+    },
+    {
+      "source": "Week",
+      "target": "Automation",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Weekly Thread",
+      "weight": 3
+    },
+    {
+      "source": "Python",
+      "target": "Whether",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Web Scraping",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Example Shares",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Automation",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Learning Resources",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Keep",
+      "weight": 2
+    },
+    {
+      "source": "Python",
+      "target": "Community Ideas",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Any Python",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Welcome",
+      "weight": 2
+    },
+    {
+      "source": "Python",
+      "target": "Friday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Conduct",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Updates",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Talk Fridays",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "News",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Reddit",
+      "weight": 2
+    },
+    {
+      "source": "Python",
+      "target": "Job Market",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Found",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Python Meta",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Free",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Community Pulse",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "This",
+      "weight": 2
+    },
+    {
+      "source": "Python",
+      "target": "Free Talk Friday",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Something",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Example Topics",
+      "weight": 2
+    },
+    {
+      "source": "Python",
+      "target": "New Python Release",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Open Mic",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Hot Takes",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Community Events",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Meta Discussions",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "With Open",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Endowed",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "About",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Sorry",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Well",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Should",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Open",
+      "weight": 2
+    },
+    {
+      "source": "Python",
+      "target": "Wizard",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Astral",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Will",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Mediocre",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Scallion",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Chicago",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Django",
+      "weight": 2
+    },
+    {
+      "source": "Python",
+      "target": "August",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Early",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Python Careers",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Interview Tips",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Career Talk",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Certifications",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Career Paths",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Courses",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Please",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Workplace Tools",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "What Python",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Thursday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Course Recommendations",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Education",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Jobs",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Are Python",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Professional Use",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Furthering Education",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Workplace Chat",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Business",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Hopeful",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Linked",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Real",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Toptal",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Fast",
+      "weight": 2
+    },
+    {
+      "source": "Python",
+      "target": "Upwork",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Next",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Supply",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "They",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "More",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Because",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Giacomelli",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Both",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "That",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "These",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Things",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Curious",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Config",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Telemetry",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Logging",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Bridging Python",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Handler",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Complete Guide",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Collector",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Logging Module",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Significant",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Book",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Nova",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Backend",
+      "weight": 1
+    },
+    {
+      "source": "Python",
+      "target": "Open Source Contribution",
+      "weight": 1
+    },
+    {
+      "source": "Weekly Thread",
+      "target": "Whether",
+      "weight": 1
+    },
+    {
+      "source": "Weekly Thread",
+      "target": "Web Scraping",
+      "weight": 1
+    },
+    {
+      "source": "Weekly Thread",
+      "target": "Example Shares",
+      "weight": 1
+    },
+    {
+      "source": "Weekly Thread",
+      "target": "Automation",
+      "weight": 1
+    },
+    {
+      "source": "Weekly Thread",
+      "target": "Learning Resources",
+      "weight": 1
+    },
+    {
+      "source": "Weekly Thread",
+      "target": "Keep",
+      "weight": 2
+    },
+    {
+      "source": "Weekly Thread",
+      "target": "Community Ideas",
+      "weight": 1
+    },
+    {
+      "source": "Weekly Thread",
+      "target": "Any Python",
+      "weight": 1
+    },
+    {
+      "source": "Weekly Thread",
+      "target": "Welcome",
+      "weight": 2
+    },
+    {
+      "source": "Weekly Thread",
+      "target": "Friday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "Weekly Thread",
+      "target": "Conduct",
+      "weight": 1
+    },
+    {
+      "source": "Weekly Thread",
+      "target": "Updates",
+      "weight": 1
+    },
+    {
+      "source": "Weekly Thread",
+      "target": "Talk Fridays",
+      "weight": 1
+    },
+    {
+      "source": "Weekly Thread",
+      "target": "News",
+      "weight": 1
+    },
+    {
+      "source": "Weekly Thread",
+      "target": "Reddit",
+      "weight": 1
+    },
+    {
+      "source": "Weekly Thread",
+      "target": "Job Market",
+      "weight": 1
+    },
+    {
+      "source": "Weekly Thread",
+      "target": "Found",
+      "weight": 1
+    },
+    {
+      "source": "Weekly Thread",
+      "target": "Python Meta",
+      "weight": 1
+    },
+    {
+      "source": "Weekly Thread",
+      "target": "Free",
+      "weight": 1
+    },
+    {
+      "source": "Weekly Thread",
+      "target": "Community Pulse",
+      "weight": 1
+    },
+    {
+      "source": "Weekly Thread",
+      "target": "This",
+      "weight": 2
+    },
+    {
+      "source": "Weekly Thread",
+      "target": "Free Talk Friday",
+      "weight": 1
+    },
+    {
+      "source": "Weekly Thread",
+      "target": "Something",
+      "weight": 1
+    },
+    {
+      "source": "Weekly Thread",
+      "target": "Example Topics",
+      "weight": 2
+    },
+    {
+      "source": "Weekly Thread",
+      "target": "New Python Release",
+      "weight": 1
+    },
+    {
+      "source": "Weekly Thread",
+      "target": "Open Mic",
+      "weight": 1
+    },
+    {
+      "source": "Weekly Thread",
+      "target": "Hot Takes",
+      "weight": 1
+    },
+    {
+      "source": "Weekly Thread",
+      "target": "Community Events",
+      "weight": 1
+    },
+    {
+      "source": "Weekly Thread",
+      "target": "Meta Discussions",
+      "weight": 1
+    },
+    {
+      "source": "Weekly Thread",
+      "target": "Python Careers",
+      "weight": 1
+    },
+    {
+      "source": "Weekly Thread",
+      "target": "Interview Tips",
+      "weight": 1
+    },
+    {
+      "source": "Weekly Thread",
+      "target": "Career Talk",
+      "weight": 1
+    },
+    {
+      "source": "Weekly Thread",
+      "target": "Certifications",
+      "weight": 1
+    },
+    {
+      "source": "Weekly Thread",
+      "target": "Career Paths",
+      "weight": 1
+    },
+    {
+      "source": "Weekly Thread",
+      "target": "Courses",
+      "weight": 1
+    },
+    {
+      "source": "Weekly Thread",
+      "target": "Please",
+      "weight": 1
+    },
+    {
+      "source": "Weekly Thread",
+      "target": "Workplace Tools",
+      "weight": 1
+    },
+    {
+      "source": "Weekly Thread",
+      "target": "What Python",
+      "weight": 1
+    },
+    {
+      "source": "Weekly Thread",
+      "target": "Thursday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "Weekly Thread",
+      "target": "Course Recommendations",
+      "weight": 1
+    },
+    {
+      "source": "Weekly Thread",
+      "target": "Education",
+      "weight": 1
+    },
+    {
+      "source": "Weekly Thread",
+      "target": "Jobs",
+      "weight": 1
+    },
+    {
+      "source": "Weekly Thread",
+      "target": "Are Python",
+      "weight": 1
+    },
+    {
+      "source": "Weekly Thread",
+      "target": "Professional Use",
+      "weight": 1
+    },
+    {
+      "source": "Weekly Thread",
+      "target": "Furthering Education",
+      "weight": 1
+    },
+    {
+      "source": "Weekly Thread",
+      "target": "Workplace Chat",
+      "weight": 1
+    },
+    {
+      "source": "Whether",
+      "target": "Web Scraping",
+      "weight": 1
+    },
+    {
+      "source": "Whether",
+      "target": "Example Shares",
+      "weight": 1
+    },
+    {
+      "source": "Whether",
+      "target": "Automation",
+      "weight": 1
+    },
+    {
+      "source": "Web Scraping",
+      "target": "Example Shares",
+      "weight": 1
+    },
+    {
+      "source": "Web Scraping",
+      "target": "Automation",
+      "weight": 1
+    },
+    {
+      "source": "Example Shares",
+      "target": "Automation",
+      "weight": 1
+    },
+    {
+      "source": "Learning Resources",
+      "target": "Keep",
+      "weight": 1
+    },
+    {
+      "source": "Learning Resources",
+      "target": "Community Ideas",
+      "weight": 1
+    },
+    {
+      "source": "Learning Resources",
+      "target": "Any Python",
+      "weight": 1
+    },
+    {
+      "source": "Learning Resources",
+      "target": "Welcome",
+      "weight": 1
+    },
+    {
+      "source": "Learning Resources",
+      "target": "Friday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "Learning Resources",
+      "target": "Conduct",
+      "weight": 1
+    },
+    {
+      "source": "Learning Resources",
+      "target": "Updates",
+      "weight": 1
+    },
+    {
+      "source": "Learning Resources",
+      "target": "Talk Fridays",
+      "weight": 1
+    },
+    {
+      "source": "Learning Resources",
+      "target": "News",
+      "weight": 1
+    },
+    {
+      "source": "Learning Resources",
+      "target": "Reddit",
+      "weight": 1
+    },
+    {
+      "source": "Learning Resources",
+      "target": "Job Market",
+      "weight": 1
+    },
+    {
+      "source": "Learning Resources",
+      "target": "Found",
+      "weight": 1
+    },
+    {
+      "source": "Learning Resources",
+      "target": "Python Meta",
+      "weight": 1
+    },
+    {
+      "source": "Learning Resources",
+      "target": "Free",
+      "weight": 1
+    },
+    {
+      "source": "Learning Resources",
+      "target": "Community Pulse",
+      "weight": 1
+    },
+    {
+      "source": "Learning Resources",
+      "target": "This",
+      "weight": 1
+    },
+    {
+      "source": "Learning Resources",
+      "target": "Free Talk Friday",
+      "weight": 1
+    },
+    {
+      "source": "Learning Resources",
+      "target": "Something",
+      "weight": 1
+    },
+    {
+      "source": "Learning Resources",
+      "target": "Example Topics",
+      "weight": 1
+    },
+    {
+      "source": "Learning Resources",
+      "target": "New Python Release",
+      "weight": 1
+    },
+    {
+      "source": "Learning Resources",
+      "target": "Open Mic",
+      "weight": 1
+    },
+    {
+      "source": "Learning Resources",
+      "target": "Hot Takes",
+      "weight": 1
+    },
+    {
+      "source": "Learning Resources",
+      "target": "Community Events",
+      "weight": 1
+    },
+    {
+      "source": "Learning Resources",
+      "target": "Meta Discussions",
+      "weight": 1
+    },
+    {
+      "source": "Keep",
+      "target": "Community Ideas",
+      "weight": 1
+    },
+    {
+      "source": "Keep",
+      "target": "Any Python",
+      "weight": 1
+    },
+    {
+      "source": "Keep",
+      "target": "Welcome",
+      "weight": 2
+    },
+    {
+      "source": "Keep",
+      "target": "Friday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "Keep",
+      "target": "Conduct",
+      "weight": 1
+    },
+    {
+      "source": "Keep",
+      "target": "Updates",
+      "weight": 1
+    },
+    {
+      "source": "Keep",
+      "target": "Talk Fridays",
+      "weight": 1
+    },
+    {
+      "source": "Keep",
+      "target": "News",
+      "weight": 1
+    },
+    {
+      "source": "Keep",
+      "target": "Reddit",
+      "weight": 1
+    },
+    {
+      "source": "Keep",
+      "target": "Job Market",
+      "weight": 1
+    },
+    {
+      "source": "Keep",
+      "target": "Found",
+      "weight": 1
+    },
+    {
+      "source": "Keep",
+      "target": "Python Meta",
+      "weight": 1
+    },
+    {
+      "source": "Keep",
+      "target": "Free",
+      "weight": 1
+    },
+    {
+      "source": "Keep",
+      "target": "Community Pulse",
+      "weight": 1
+    },
+    {
+      "source": "Keep",
+      "target": "This",
+      "weight": 2
+    },
+    {
+      "source": "Keep",
+      "target": "Free Talk Friday",
+      "weight": 1
+    },
+    {
+      "source": "Keep",
+      "target": "Something",
+      "weight": 1
+    },
+    {
+      "source": "Keep",
+      "target": "Example Topics",
+      "weight": 2
+    },
+    {
+      "source": "Keep",
+      "target": "New Python Release",
+      "weight": 1
+    },
+    {
+      "source": "Keep",
+      "target": "Open Mic",
+      "weight": 1
+    },
+    {
+      "source": "Keep",
+      "target": "Hot Takes",
+      "weight": 1
+    },
+    {
+      "source": "Keep",
+      "target": "Community Events",
+      "weight": 1
+    },
+    {
+      "source": "Keep",
+      "target": "Meta Discussions",
+      "weight": 1
+    },
+    {
+      "source": "Keep",
+      "target": "Python Careers",
+      "weight": 1
+    },
+    {
+      "source": "Keep",
+      "target": "Interview Tips",
+      "weight": 1
+    },
+    {
+      "source": "Keep",
+      "target": "Career Talk",
+      "weight": 1
+    },
+    {
+      "source": "Keep",
+      "target": "Certifications",
+      "weight": 1
+    },
+    {
+      "source": "Keep",
+      "target": "Career Paths",
+      "weight": 1
+    },
+    {
+      "source": "Keep",
+      "target": "Courses",
+      "weight": 1
+    },
+    {
+      "source": "Keep",
+      "target": "Please",
+      "weight": 1
+    },
+    {
+      "source": "Keep",
+      "target": "Workplace Tools",
+      "weight": 1
+    },
+    {
+      "source": "Keep",
+      "target": "What Python",
+      "weight": 1
+    },
+    {
+      "source": "Keep",
+      "target": "Thursday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "Keep",
+      "target": "Course Recommendations",
+      "weight": 1
+    },
+    {
+      "source": "Keep",
+      "target": "Education",
+      "weight": 1
+    },
+    {
+      "source": "Keep",
+      "target": "Jobs",
+      "weight": 1
+    },
+    {
+      "source": "Keep",
+      "target": "Are Python",
+      "weight": 1
+    },
+    {
+      "source": "Keep",
+      "target": "Professional Use",
+      "weight": 1
+    },
+    {
+      "source": "Keep",
+      "target": "Furthering Education",
+      "weight": 1
+    },
+    {
+      "source": "Keep",
+      "target": "Workplace Chat",
+      "weight": 1
+    },
+    {
+      "source": "Community Ideas",
+      "target": "Any Python",
+      "weight": 1
+    },
+    {
+      "source": "Community Ideas",
+      "target": "Welcome",
+      "weight": 1
+    },
+    {
+      "source": "Community Ideas",
+      "target": "Friday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "Community Ideas",
+      "target": "Conduct",
+      "weight": 1
+    },
+    {
+      "source": "Community Ideas",
+      "target": "Updates",
+      "weight": 1
+    },
+    {
+      "source": "Community Ideas",
+      "target": "Talk Fridays",
+      "weight": 1
+    },
+    {
+      "source": "Community Ideas",
+      "target": "News",
+      "weight": 1
+    },
+    {
+      "source": "Community Ideas",
+      "target": "Reddit",
+      "weight": 1
+    },
+    {
+      "source": "Community Ideas",
+      "target": "Job Market",
+      "weight": 1
+    },
+    {
+      "source": "Community Ideas",
+      "target": "Found",
+      "weight": 1
+    },
+    {
+      "source": "Community Ideas",
+      "target": "Python Meta",
+      "weight": 1
+    },
+    {
+      "source": "Community Ideas",
+      "target": "Free",
+      "weight": 1
+    },
+    {
+      "source": "Community Ideas",
+      "target": "Community Pulse",
+      "weight": 1
+    },
+    {
+      "source": "Community Ideas",
+      "target": "This",
+      "weight": 1
+    },
+    {
+      "source": "Community Ideas",
+      "target": "Free Talk Friday",
+      "weight": 1
+    },
+    {
+      "source": "Community Ideas",
+      "target": "Something",
+      "weight": 1
+    },
+    {
+      "source": "Community Ideas",
+      "target": "Example Topics",
+      "weight": 1
+    },
+    {
+      "source": "Community Ideas",
+      "target": "New Python Release",
+      "weight": 1
+    },
+    {
+      "source": "Community Ideas",
+      "target": "Open Mic",
+      "weight": 1
+    },
+    {
+      "source": "Community Ideas",
+      "target": "Hot Takes",
+      "weight": 1
+    },
+    {
+      "source": "Community Ideas",
+      "target": "Community Events",
+      "weight": 1
+    },
+    {
+      "source": "Community Ideas",
+      "target": "Meta Discussions",
+      "weight": 1
+    },
+    {
+      "source": "Any Python",
+      "target": "Welcome",
+      "weight": 1
+    },
+    {
+      "source": "Any Python",
+      "target": "Friday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "Any Python",
+      "target": "Conduct",
+      "weight": 1
+    },
+    {
+      "source": "Any Python",
+      "target": "Updates",
+      "weight": 1
+    },
+    {
+      "source": "Any Python",
+      "target": "Talk Fridays",
+      "weight": 1
+    },
+    {
+      "source": "Any Python",
+      "target": "News",
+      "weight": 1
+    },
+    {
+      "source": "Any Python",
+      "target": "Reddit",
+      "weight": 1
+    },
+    {
+      "source": "Any Python",
+      "target": "Job Market",
+      "weight": 1
+    },
+    {
+      "source": "Any Python",
+      "target": "Found",
+      "weight": 1
+    },
+    {
+      "source": "Any Python",
+      "target": "Python Meta",
+      "weight": 1
+    },
+    {
+      "source": "Any Python",
+      "target": "Free",
+      "weight": 1
+    },
+    {
+      "source": "Any Python",
+      "target": "Community Pulse",
+      "weight": 1
+    },
+    {
+      "source": "Any Python",
+      "target": "This",
+      "weight": 1
+    },
+    {
+      "source": "Any Python",
+      "target": "Free Talk Friday",
+      "weight": 1
+    },
+    {
+      "source": "Any Python",
+      "target": "Something",
+      "weight": 1
+    },
+    {
+      "source": "Any Python",
+      "target": "Example Topics",
+      "weight": 1
+    },
+    {
+      "source": "Any Python",
+      "target": "New Python Release",
+      "weight": 1
+    },
+    {
+      "source": "Any Python",
+      "target": "Open Mic",
+      "weight": 1
+    },
+    {
+      "source": "Any Python",
+      "target": "Hot Takes",
+      "weight": 1
+    },
+    {
+      "source": "Any Python",
+      "target": "Community Events",
+      "weight": 1
+    },
+    {
+      "source": "Any Python",
+      "target": "Meta Discussions",
+      "weight": 1
+    },
+    {
+      "source": "Welcome",
+      "target": "Friday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "Welcome",
+      "target": "Conduct",
+      "weight": 1
+    },
+    {
+      "source": "Welcome",
+      "target": "Updates",
+      "weight": 1
+    },
+    {
+      "source": "Welcome",
+      "target": "Talk Fridays",
+      "weight": 1
+    },
+    {
+      "source": "Welcome",
+      "target": "News",
+      "weight": 1
+    },
+    {
+      "source": "Welcome",
+      "target": "Reddit",
+      "weight": 1
+    },
+    {
+      "source": "Welcome",
+      "target": "Job Market",
+      "weight": 1
+    },
+    {
+      "source": "Welcome",
+      "target": "Found",
+      "weight": 1
+    },
+    {
+      "source": "Welcome",
+      "target": "Python Meta",
+      "weight": 1
+    },
+    {
+      "source": "Welcome",
+      "target": "Free",
+      "weight": 1
+    },
+    {
+      "source": "Welcome",
+      "target": "Community Pulse",
+      "weight": 1
+    },
+    {
+      "source": "Welcome",
+      "target": "This",
+      "weight": 2
+    },
+    {
+      "source": "Welcome",
+      "target": "Free Talk Friday",
+      "weight": 1
+    },
+    {
+      "source": "Welcome",
+      "target": "Something",
+      "weight": 1
+    },
+    {
+      "source": "Welcome",
+      "target": "Example Topics",
+      "weight": 2
+    },
+    {
+      "source": "Welcome",
+      "target": "New Python Release",
+      "weight": 1
+    },
+    {
+      "source": "Welcome",
+      "target": "Open Mic",
+      "weight": 1
+    },
+    {
+      "source": "Welcome",
+      "target": "Hot Takes",
+      "weight": 1
+    },
+    {
+      "source": "Welcome",
+      "target": "Community Events",
+      "weight": 1
+    },
+    {
+      "source": "Welcome",
+      "target": "Meta Discussions",
+      "weight": 1
+    },
+    {
+      "source": "Welcome",
+      "target": "Python Careers",
+      "weight": 1
+    },
+    {
+      "source": "Welcome",
+      "target": "Interview Tips",
+      "weight": 1
+    },
+    {
+      "source": "Welcome",
+      "target": "Career Talk",
+      "weight": 1
+    },
+    {
+      "source": "Welcome",
+      "target": "Certifications",
+      "weight": 1
+    },
+    {
+      "source": "Welcome",
+      "target": "Career Paths",
+      "weight": 1
+    },
+    {
+      "source": "Welcome",
+      "target": "Courses",
+      "weight": 1
+    },
+    {
+      "source": "Welcome",
+      "target": "Please",
+      "weight": 1
+    },
+    {
+      "source": "Welcome",
+      "target": "Workplace Tools",
+      "weight": 1
+    },
+    {
+      "source": "Welcome",
+      "target": "What Python",
+      "weight": 1
+    },
+    {
+      "source": "Welcome",
+      "target": "Thursday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "Welcome",
+      "target": "Course Recommendations",
+      "weight": 1
+    },
+    {
+      "source": "Welcome",
+      "target": "Education",
+      "weight": 1
+    },
+    {
+      "source": "Welcome",
+      "target": "Jobs",
+      "weight": 1
+    },
+    {
+      "source": "Welcome",
+      "target": "Are Python",
+      "weight": 1
+    },
+    {
+      "source": "Welcome",
+      "target": "Professional Use",
+      "weight": 1
+    },
+    {
+      "source": "Welcome",
+      "target": "Furthering Education",
+      "weight": 1
+    },
+    {
+      "source": "Welcome",
+      "target": "Workplace Chat",
+      "weight": 1
+    },
+    {
+      "source": "Friday Daily Thread",
+      "target": "Conduct",
+      "weight": 1
+    },
+    {
+      "source": "Friday Daily Thread",
+      "target": "Updates",
+      "weight": 1
+    },
+    {
+      "source": "Friday Daily Thread",
+      "target": "Talk Fridays",
+      "weight": 1
+    },
+    {
+      "source": "Friday Daily Thread",
+      "target": "News",
+      "weight": 1
+    },
+    {
+      "source": "Friday Daily Thread",
+      "target": "Reddit",
+      "weight": 1
+    },
+    {
+      "source": "Friday Daily Thread",
+      "target": "Job Market",
+      "weight": 1
+    },
+    {
+      "source": "Friday Daily Thread",
+      "target": "Found",
+      "weight": 1
+    },
+    {
+      "source": "Friday Daily Thread",
+      "target": "Python Meta",
+      "weight": 1
+    },
+    {
+      "source": "Friday Daily Thread",
+      "target": "Free",
+      "weight": 1
+    },
+    {
+      "source": "Friday Daily Thread",
+      "target": "Community Pulse",
+      "weight": 1
+    },
+    {
+      "source": "Friday Daily Thread",
+      "target": "This",
+      "weight": 1
+    },
+    {
+      "source": "Friday Daily Thread",
+      "target": "Free Talk Friday",
+      "weight": 1
+    },
+    {
+      "source": "Friday Daily Thread",
+      "target": "Something",
+      "weight": 1
+    },
+    {
+      "source": "Friday Daily Thread",
+      "target": "Example Topics",
+      "weight": 1
+    },
+    {
+      "source": "Friday Daily Thread",
+      "target": "New Python Release",
+      "weight": 1
+    },
+    {
+      "source": "Friday Daily Thread",
+      "target": "Open Mic",
+      "weight": 1
+    },
+    {
+      "source": "Friday Daily Thread",
+      "target": "Hot Takes",
+      "weight": 1
+    },
+    {
+      "source": "Friday Daily Thread",
+      "target": "Community Events",
+      "weight": 1
+    },
+    {
+      "source": "Friday Daily Thread",
+      "target": "Meta Discussions",
+      "weight": 1
+    },
+    {
+      "source": "Conduct",
+      "target": "Updates",
+      "weight": 1
+    },
+    {
+      "source": "Conduct",
+      "target": "Talk Fridays",
+      "weight": 1
+    },
+    {
+      "source": "Conduct",
+      "target": "News",
+      "weight": 1
+    },
+    {
+      "source": "Conduct",
+      "target": "Reddit",
+      "weight": 1
+    },
+    {
+      "source": "Conduct",
+      "target": "Job Market",
+      "weight": 1
+    },
+    {
+      "source": "Conduct",
+      "target": "Found",
+      "weight": 1
+    },
+    {
+      "source": "Conduct",
+      "target": "Python Meta",
+      "weight": 1
+    },
+    {
+      "source": "Conduct",
+      "target": "Free",
+      "weight": 1
+    },
+    {
+      "source": "Conduct",
+      "target": "Community Pulse",
+      "weight": 1
+    },
+    {
+      "source": "Conduct",
+      "target": "This",
+      "weight": 1
+    },
+    {
+      "source": "Conduct",
+      "target": "Free Talk Friday",
+      "weight": 1
+    },
+    {
+      "source": "Conduct",
+      "target": "Something",
+      "weight": 1
+    },
+    {
+      "source": "Conduct",
+      "target": "Example Topics",
+      "weight": 1
+    },
+    {
+      "source": "Conduct",
+      "target": "New Python Release",
+      "weight": 1
+    },
+    {
+      "source": "Conduct",
+      "target": "Open Mic",
+      "weight": 1
+    },
+    {
+      "source": "Conduct",
+      "target": "Hot Takes",
+      "weight": 1
+    },
+    {
+      "source": "Conduct",
+      "target": "Community Events",
+      "weight": 1
+    },
+    {
+      "source": "Conduct",
+      "target": "Meta Discussions",
+      "weight": 1
+    },
+    {
+      "source": "Updates",
+      "target": "Talk Fridays",
+      "weight": 1
+    },
+    {
+      "source": "Updates",
+      "target": "News",
+      "weight": 1
+    },
+    {
+      "source": "Updates",
+      "target": "Reddit",
+      "weight": 1
+    },
+    {
+      "source": "Updates",
+      "target": "Job Market",
+      "weight": 1
+    },
+    {
+      "source": "Updates",
+      "target": "Found",
+      "weight": 1
+    },
+    {
+      "source": "Updates",
+      "target": "Python Meta",
+      "weight": 1
+    },
+    {
+      "source": "Updates",
+      "target": "Free",
+      "weight": 1
+    },
+    {
+      "source": "Updates",
+      "target": "Community Pulse",
+      "weight": 1
+    },
+    {
+      "source": "Updates",
+      "target": "This",
+      "weight": 1
+    },
+    {
+      "source": "Updates",
+      "target": "Free Talk Friday",
+      "weight": 1
+    },
+    {
+      "source": "Updates",
+      "target": "Something",
+      "weight": 1
+    },
+    {
+      "source": "Updates",
+      "target": "Example Topics",
+      "weight": 1
+    },
+    {
+      "source": "Updates",
+      "target": "New Python Release",
+      "weight": 1
+    },
+    {
+      "source": "Updates",
+      "target": "Open Mic",
+      "weight": 1
+    },
+    {
+      "source": "Updates",
+      "target": "Hot Takes",
+      "weight": 1
+    },
+    {
+      "source": "Updates",
+      "target": "Community Events",
+      "weight": 1
+    },
+    {
+      "source": "Updates",
+      "target": "Meta Discussions",
+      "weight": 1
+    },
+    {
+      "source": "Talk Fridays",
+      "target": "News",
+      "weight": 1
+    },
+    {
+      "source": "Talk Fridays",
+      "target": "Reddit",
+      "weight": 1
+    },
+    {
+      "source": "Talk Fridays",
+      "target": "Job Market",
+      "weight": 1
+    },
+    {
+      "source": "Talk Fridays",
+      "target": "Found",
+      "weight": 1
+    },
+    {
+      "source": "Talk Fridays",
+      "target": "Python Meta",
+      "weight": 1
+    },
+    {
+      "source": "Talk Fridays",
+      "target": "Free",
+      "weight": 1
+    },
+    {
+      "source": "Talk Fridays",
+      "target": "Community Pulse",
+      "weight": 1
+    },
+    {
+      "source": "Talk Fridays",
+      "target": "This",
+      "weight": 1
+    },
+    {
+      "source": "Talk Fridays",
+      "target": "Free Talk Friday",
+      "weight": 1
+    },
+    {
+      "source": "Talk Fridays",
+      "target": "Something",
+      "weight": 1
+    },
+    {
+      "source": "Talk Fridays",
+      "target": "Example Topics",
+      "weight": 1
+    },
+    {
+      "source": "Talk Fridays",
+      "target": "New Python Release",
+      "weight": 1
+    },
+    {
+      "source": "Talk Fridays",
+      "target": "Open Mic",
+      "weight": 1
+    },
+    {
+      "source": "Talk Fridays",
+      "target": "Hot Takes",
+      "weight": 1
+    },
+    {
+      "source": "Talk Fridays",
+      "target": "Community Events",
+      "weight": 1
+    },
+    {
+      "source": "Talk Fridays",
+      "target": "Meta Discussions",
+      "weight": 1
+    },
+    {
+      "source": "News",
+      "target": "Reddit",
+      "weight": 1
+    },
+    {
+      "source": "News",
+      "target": "Job Market",
+      "weight": 1
+    },
+    {
+      "source": "News",
+      "target": "Found",
+      "weight": 1
+    },
+    {
+      "source": "News",
+      "target": "Python Meta",
+      "weight": 1
+    },
+    {
+      "source": "News",
+      "target": "Free",
+      "weight": 1
+    },
+    {
+      "source": "News",
+      "target": "Community Pulse",
+      "weight": 1
+    },
+    {
+      "source": "News",
+      "target": "This",
+      "weight": 1
+    },
+    {
+      "source": "News",
+      "target": "Free Talk Friday",
+      "weight": 1
+    },
+    {
+      "source": "News",
+      "target": "Something",
+      "weight": 1
+    },
+    {
+      "source": "News",
+      "target": "Example Topics",
+      "weight": 1
+    },
+    {
+      "source": "News",
+      "target": "New Python Release",
+      "weight": 1
+    },
+    {
+      "source": "News",
+      "target": "Open Mic",
+      "weight": 1
+    },
+    {
+      "source": "News",
+      "target": "Hot Takes",
+      "weight": 1
+    },
+    {
+      "source": "News",
+      "target": "Community Events",
+      "weight": 1
+    },
+    {
+      "source": "News",
+      "target": "Meta Discussions",
+      "weight": 1
+    },
+    {
+      "source": "Reddit",
+      "target": "Job Market",
+      "weight": 1
+    },
+    {
+      "source": "Reddit",
+      "target": "Found",
+      "weight": 1
+    },
+    {
+      "source": "Reddit",
+      "target": "Python Meta",
+      "weight": 1
+    },
+    {
+      "source": "Reddit",
+      "target": "Free",
+      "weight": 1
+    },
+    {
+      "source": "Reddit",
+      "target": "Community Pulse",
+      "weight": 1
+    },
+    {
+      "source": "Reddit",
+      "target": "This",
+      "weight": 1
+    },
+    {
+      "source": "Reddit",
+      "target": "Free Talk Friday",
+      "weight": 1
+    },
+    {
+      "source": "Reddit",
+      "target": "Something",
+      "weight": 1
+    },
+    {
+      "source": "Reddit",
+      "target": "Example Topics",
+      "weight": 1
+    },
+    {
+      "source": "Reddit",
+      "target": "New Python Release",
+      "weight": 1
+    },
+    {
+      "source": "Reddit",
+      "target": "Open Mic",
+      "weight": 1
+    },
+    {
+      "source": "Reddit",
+      "target": "Hot Takes",
+      "weight": 1
+    },
+    {
+      "source": "Reddit",
+      "target": "Community Events",
+      "weight": 1
+    },
+    {
+      "source": "Reddit",
+      "target": "Meta Discussions",
+      "weight": 1
+    },
+    {
+      "source": "Reddit",
+      "target": "With Open",
+      "weight": 1
+    },
+    {
+      "source": "Reddit",
+      "target": "Endowed",
+      "weight": 1
+    },
+    {
+      "source": "Reddit",
+      "target": "About",
+      "weight": 1
+    },
+    {
+      "source": "Reddit",
+      "target": "Sorry",
+      "weight": 1
+    },
+    {
+      "source": "Reddit",
+      "target": "Well",
+      "weight": 1
+    },
+    {
+      "source": "Reddit",
+      "target": "Should",
+      "weight": 1
+    },
+    {
+      "source": "Reddit",
+      "target": "Open",
+      "weight": 1
+    },
+    {
+      "source": "Reddit",
+      "target": "Wizard",
+      "weight": 1
+    },
+    {
+      "source": "Reddit",
+      "target": "Astral",
+      "weight": 1
+    },
+    {
+      "source": "Reddit",
+      "target": "Will",
+      "weight": 1
+    },
+    {
+      "source": "Job Market",
+      "target": "Found",
+      "weight": 1
+    },
+    {
+      "source": "Job Market",
+      "target": "Python Meta",
+      "weight": 1
+    },
+    {
+      "source": "Job Market",
+      "target": "Free",
+      "weight": 1
+    },
+    {
+      "source": "Job Market",
+      "target": "Community Pulse",
+      "weight": 1
+    },
+    {
+      "source": "Job Market",
+      "target": "This",
+      "weight": 1
+    },
+    {
+      "source": "Job Market",
+      "target": "Free Talk Friday",
+      "weight": 1
+    },
+    {
+      "source": "Job Market",
+      "target": "Something",
+      "weight": 1
+    },
+    {
+      "source": "Job Market",
+      "target": "Example Topics",
+      "weight": 1
+    },
+    {
+      "source": "Job Market",
+      "target": "New Python Release",
+      "weight": 1
+    },
+    {
+      "source": "Job Market",
+      "target": "Open Mic",
+      "weight": 1
+    },
+    {
+      "source": "Job Market",
+      "target": "Hot Takes",
+      "weight": 1
+    },
+    {
+      "source": "Job Market",
+      "target": "Community Events",
+      "weight": 1
+    },
+    {
+      "source": "Job Market",
+      "target": "Meta Discussions",
+      "weight": 1
+    },
+    {
+      "source": "Found",
+      "target": "Python Meta",
+      "weight": 1
+    },
+    {
+      "source": "Found",
+      "target": "Free",
+      "weight": 1
+    },
+    {
+      "source": "Found",
+      "target": "Community Pulse",
+      "weight": 1
+    },
+    {
+      "source": "Found",
+      "target": "This",
+      "weight": 1
+    },
+    {
+      "source": "Found",
+      "target": "Free Talk Friday",
+      "weight": 1
+    },
+    {
+      "source": "Found",
+      "target": "Something",
+      "weight": 1
+    },
+    {
+      "source": "Found",
+      "target": "Example Topics",
+      "weight": 1
+    },
+    {
+      "source": "Found",
+      "target": "New Python Release",
+      "weight": 1
+    },
+    {
+      "source": "Found",
+      "target": "Open Mic",
+      "weight": 1
+    },
+    {
+      "source": "Found",
+      "target": "Hot Takes",
+      "weight": 1
+    },
+    {
+      "source": "Found",
+      "target": "Community Events",
+      "weight": 1
+    },
+    {
+      "source": "Found",
+      "target": "Meta Discussions",
+      "weight": 1
+    },
+    {
+      "source": "Python Meta",
+      "target": "Free",
+      "weight": 1
+    },
+    {
+      "source": "Python Meta",
+      "target": "Community Pulse",
+      "weight": 1
+    },
+    {
+      "source": "Python Meta",
+      "target": "This",
+      "weight": 1
+    },
+    {
+      "source": "Python Meta",
+      "target": "Free Talk Friday",
+      "weight": 1
+    },
+    {
+      "source": "Python Meta",
+      "target": "Something",
+      "weight": 1
+    },
+    {
+      "source": "Python Meta",
+      "target": "Example Topics",
+      "weight": 1
+    },
+    {
+      "source": "Python Meta",
+      "target": "New Python Release",
+      "weight": 1
+    },
+    {
+      "source": "Python Meta",
+      "target": "Open Mic",
+      "weight": 1
+    },
+    {
+      "source": "Python Meta",
+      "target": "Hot Takes",
+      "weight": 1
+    },
+    {
+      "source": "Python Meta",
+      "target": "Community Events",
+      "weight": 1
+    },
+    {
+      "source": "Python Meta",
+      "target": "Meta Discussions",
+      "weight": 1
+    },
+    {
+      "source": "Free",
+      "target": "Community Pulse",
+      "weight": 1
+    },
+    {
+      "source": "Free",
+      "target": "This",
+      "weight": 1
+    },
+    {
+      "source": "Free",
+      "target": "Free Talk Friday",
+      "weight": 1
+    },
+    {
+      "source": "Free",
+      "target": "Something",
+      "weight": 1
+    },
+    {
+      "source": "Free",
+      "target": "Example Topics",
+      "weight": 1
+    },
+    {
+      "source": "Free",
+      "target": "New Python Release",
+      "weight": 1
+    },
+    {
+      "source": "Free",
+      "target": "Open Mic",
+      "weight": 1
+    },
+    {
+      "source": "Free",
+      "target": "Hot Takes",
+      "weight": 1
+    },
+    {
+      "source": "Free",
+      "target": "Community Events",
+      "weight": 1
+    },
+    {
+      "source": "Free",
+      "target": "Meta Discussions",
+      "weight": 1
+    },
+    {
+      "source": "Community Pulse",
+      "target": "This",
+      "weight": 1
+    },
+    {
+      "source": "Community Pulse",
+      "target": "Free Talk Friday",
+      "weight": 1
+    },
+    {
+      "source": "Community Pulse",
+      "target": "Something",
+      "weight": 1
+    },
+    {
+      "source": "Community Pulse",
+      "target": "Example Topics",
+      "weight": 1
+    },
+    {
+      "source": "Community Pulse",
+      "target": "New Python Release",
+      "weight": 1
+    },
+    {
+      "source": "Community Pulse",
+      "target": "Open Mic",
+      "weight": 1
+    },
+    {
+      "source": "Community Pulse",
+      "target": "Hot Takes",
+      "weight": 1
+    },
+    {
+      "source": "Community Pulse",
+      "target": "Community Events",
+      "weight": 1
+    },
+    {
+      "source": "Community Pulse",
+      "target": "Meta Discussions",
+      "weight": 1
+    },
+    {
+      "source": "This",
+      "target": "Free Talk Friday",
+      "weight": 1
+    },
+    {
+      "source": "This",
+      "target": "Something",
+      "weight": 1
+    },
+    {
+      "source": "This",
+      "target": "Example Topics",
+      "weight": 2
+    },
+    {
+      "source": "This",
+      "target": "New Python Release",
+      "weight": 1
+    },
+    {
+      "source": "This",
+      "target": "Open Mic",
+      "weight": 1
+    },
+    {
+      "source": "This",
+      "target": "Hot Takes",
+      "weight": 1
+    },
+    {
+      "source": "This",
+      "target": "Community Events",
+      "weight": 1
+    },
+    {
+      "source": "This",
+      "target": "Meta Discussions",
+      "weight": 1
+    },
+    {
+      "source": "This",
+      "target": "Python Careers",
+      "weight": 1
+    },
+    {
+      "source": "This",
+      "target": "Interview Tips",
+      "weight": 1
+    },
+    {
+      "source": "This",
+      "target": "Career Talk",
+      "weight": 1
+    },
+    {
+      "source": "This",
+      "target": "Certifications",
+      "weight": 1
+    },
+    {
+      "source": "This",
+      "target": "Career Paths",
+      "weight": 1
+    },
+    {
+      "source": "This",
+      "target": "Courses",
+      "weight": 1
+    },
+    {
+      "source": "This",
+      "target": "Please",
+      "weight": 1
+    },
+    {
+      "source": "This",
+      "target": "Workplace Tools",
+      "weight": 1
+    },
+    {
+      "source": "This",
+      "target": "What Python",
+      "weight": 1
+    },
+    {
+      "source": "This",
+      "target": "Thursday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "This",
+      "target": "Course Recommendations",
+      "weight": 1
+    },
+    {
+      "source": "This",
+      "target": "Education",
+      "weight": 1
+    },
+    {
+      "source": "This",
+      "target": "Jobs",
+      "weight": 1
+    },
+    {
+      "source": "This",
+      "target": "Are Python",
+      "weight": 1
+    },
+    {
+      "source": "This",
+      "target": "Professional Use",
+      "weight": 1
+    },
+    {
+      "source": "This",
+      "target": "Furthering Education",
+      "weight": 1
+    },
+    {
+      "source": "This",
+      "target": "Workplace Chat",
+      "weight": 1
+    },
+    {
+      "source": "Free Talk Friday",
+      "target": "Something",
+      "weight": 1
+    },
+    {
+      "source": "Free Talk Friday",
+      "target": "Example Topics",
+      "weight": 1
+    },
+    {
+      "source": "Free Talk Friday",
+      "target": "New Python Release",
+      "weight": 1
+    },
+    {
+      "source": "Free Talk Friday",
+      "target": "Open Mic",
+      "weight": 1
+    },
+    {
+      "source": "Free Talk Friday",
+      "target": "Hot Takes",
+      "weight": 1
+    },
+    {
+      "source": "Free Talk Friday",
+      "target": "Community Events",
+      "weight": 1
+    },
+    {
+      "source": "Free Talk Friday",
+      "target": "Meta Discussions",
+      "weight": 1
+    },
+    {
+      "source": "Something",
+      "target": "Example Topics",
+      "weight": 1
+    },
+    {
+      "source": "Something",
+      "target": "New Python Release",
+      "weight": 1
+    },
+    {
+      "source": "Something",
+      "target": "Open Mic",
+      "weight": 1
+    },
+    {
+      "source": "Something",
+      "target": "Hot Takes",
+      "weight": 1
+    },
+    {
+      "source": "Something",
+      "target": "Community Events",
+      "weight": 1
+    },
+    {
+      "source": "Something",
+      "target": "Meta Discussions",
+      "weight": 1
+    },
+    {
+      "source": "Example Topics",
+      "target": "New Python Release",
+      "weight": 1
+    },
+    {
+      "source": "Example Topics",
+      "target": "Open Mic",
+      "weight": 1
+    },
+    {
+      "source": "Example Topics",
+      "target": "Hot Takes",
+      "weight": 1
+    },
+    {
+      "source": "Example Topics",
+      "target": "Community Events",
+      "weight": 1
+    },
+    {
+      "source": "Example Topics",
+      "target": "Meta Discussions",
+      "weight": 1
+    },
+    {
+      "source": "Example Topics",
+      "target": "Python Careers",
+      "weight": 1
+    },
+    {
+      "source": "Example Topics",
+      "target": "Interview Tips",
+      "weight": 1
+    },
+    {
+      "source": "Example Topics",
+      "target": "Career Talk",
+      "weight": 1
+    },
+    {
+      "source": "Example Topics",
+      "target": "Certifications",
+      "weight": 1
+    },
+    {
+      "source": "Example Topics",
+      "target": "Career Paths",
+      "weight": 1
+    },
+    {
+      "source": "Example Topics",
+      "target": "Courses",
+      "weight": 1
+    },
+    {
+      "source": "Example Topics",
+      "target": "Please",
+      "weight": 1
+    },
+    {
+      "source": "Example Topics",
+      "target": "Workplace Tools",
+      "weight": 1
+    },
+    {
+      "source": "Example Topics",
+      "target": "What Python",
+      "weight": 1
+    },
+    {
+      "source": "Example Topics",
+      "target": "Thursday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "Example Topics",
+      "target": "Course Recommendations",
+      "weight": 1
+    },
+    {
+      "source": "Example Topics",
+      "target": "Education",
+      "weight": 1
+    },
+    {
+      "source": "Example Topics",
+      "target": "Jobs",
+      "weight": 1
+    },
+    {
+      "source": "Example Topics",
+      "target": "Are Python",
+      "weight": 1
+    },
+    {
+      "source": "Example Topics",
+      "target": "Professional Use",
+      "weight": 1
+    },
+    {
+      "source": "Example Topics",
+      "target": "Furthering Education",
+      "weight": 1
+    },
+    {
+      "source": "Example Topics",
+      "target": "Workplace Chat",
+      "weight": 1
+    },
+    {
+      "source": "New Python Release",
+      "target": "Open Mic",
+      "weight": 1
+    },
+    {
+      "source": "New Python Release",
+      "target": "Hot Takes",
+      "weight": 1
+    },
+    {
+      "source": "New Python Release",
+      "target": "Community Events",
+      "weight": 1
+    },
+    {
+      "source": "New Python Release",
+      "target": "Meta Discussions",
+      "weight": 1
+    },
+    {
+      "source": "Open Mic",
+      "target": "Hot Takes",
+      "weight": 1
+    },
+    {
+      "source": "Open Mic",
+      "target": "Community Events",
+      "weight": 1
+    },
+    {
+      "source": "Open Mic",
+      "target": "Meta Discussions",
+      "weight": 1
+    },
+    {
+      "source": "Hot Takes",
+      "target": "Community Events",
+      "weight": 1
+    },
+    {
+      "source": "Hot Takes",
+      "target": "Meta Discussions",
+      "weight": 1
+    },
+    {
+      "source": "Community Events",
+      "target": "Meta Discussions",
+      "weight": 1
+    },
+    {
+      "source": "With Open",
+      "target": "Endowed",
+      "weight": 1
+    },
+    {
+      "source": "With Open",
+      "target": "About",
+      "weight": 1
+    },
+    {
+      "source": "With Open",
+      "target": "Sorry",
+      "weight": 1
+    },
+    {
+      "source": "With Open",
+      "target": "Well",
+      "weight": 1
+    },
+    {
+      "source": "With Open",
+      "target": "Should",
+      "weight": 1
+    },
+    {
+      "source": "With Open",
+      "target": "Open",
+      "weight": 1
+    },
+    {
+      "source": "With Open",
+      "target": "Wizard",
+      "weight": 1
+    },
+    {
+      "source": "With Open",
+      "target": "Astral",
+      "weight": 1
+    },
+    {
+      "source": "With Open",
+      "target": "Will",
+      "weight": 1
+    },
+    {
+      "source": "Endowed",
+      "target": "About",
+      "weight": 1
+    },
+    {
+      "source": "Endowed",
+      "target": "Sorry",
+      "weight": 1
+    },
+    {
+      "source": "Endowed",
+      "target": "Well",
+      "weight": 1
+    },
+    {
+      "source": "Endowed",
+      "target": "Should",
+      "weight": 1
+    },
+    {
+      "source": "Endowed",
+      "target": "Open",
+      "weight": 1
+    },
+    {
+      "source": "Endowed",
+      "target": "Wizard",
+      "weight": 1
+    },
+    {
+      "source": "Endowed",
+      "target": "Astral",
+      "weight": 1
+    },
+    {
+      "source": "Endowed",
+      "target": "Will",
+      "weight": 1
+    },
+    {
+      "source": "About",
+      "target": "Sorry",
+      "weight": 1
+    },
+    {
+      "source": "About",
+      "target": "Well",
+      "weight": 1
+    },
+    {
+      "source": "About",
+      "target": "Should",
+      "weight": 1
+    },
+    {
+      "source": "About",
+      "target": "Open",
+      "weight": 1
+    },
+    {
+      "source": "About",
+      "target": "Wizard",
+      "weight": 1
+    },
+    {
+      "source": "About",
+      "target": "Astral",
+      "weight": 1
+    },
+    {
+      "source": "About",
+      "target": "Will",
+      "weight": 1
+    },
+    {
+      "source": "Sorry",
+      "target": "Well",
+      "weight": 1
+    },
+    {
+      "source": "Sorry",
+      "target": "Should",
+      "weight": 1
+    },
+    {
+      "source": "Sorry",
+      "target": "Open",
+      "weight": 1
+    },
+    {
+      "source": "Sorry",
+      "target": "Wizard",
+      "weight": 1
+    },
+    {
+      "source": "Sorry",
+      "target": "Astral",
+      "weight": 1
+    },
+    {
+      "source": "Sorry",
+      "target": "Will",
+      "weight": 1
+    },
+    {
+      "source": "Well",
+      "target": "Should",
+      "weight": 1
+    },
+    {
+      "source": "Well",
+      "target": "Open",
+      "weight": 1
+    },
+    {
+      "source": "Well",
+      "target": "Wizard",
+      "weight": 1
+    },
+    {
+      "source": "Well",
+      "target": "Astral",
+      "weight": 1
+    },
+    {
+      "source": "Well",
+      "target": "Will",
+      "weight": 1
+    },
+    {
+      "source": "Should",
+      "target": "Open",
+      "weight": 1
+    },
+    {
+      "source": "Should",
+      "target": "Wizard",
+      "weight": 1
+    },
+    {
+      "source": "Should",
+      "target": "Astral",
+      "weight": 1
+    },
+    {
+      "source": "Should",
+      "target": "Will",
+      "weight": 1
+    },
+    {
+      "source": "Open",
+      "target": "Wizard",
+      "weight": 1
+    },
+    {
+      "source": "Open",
+      "target": "Astral",
+      "weight": 1
+    },
+    {
+      "source": "Open",
+      "target": "Will",
+      "weight": 1
+    },
+    {
+      "source": "Open",
+      "target": "Curious",
+      "weight": 1
+    },
+    {
+      "source": "Open",
+      "target": "Config",
+      "weight": 1
+    },
+    {
+      "source": "Open",
+      "target": "Telemetry",
+      "weight": 1
+    },
+    {
+      "source": "Open",
+      "target": "Logging",
+      "weight": 1
+    },
+    {
+      "source": "Open",
+      "target": "Bridging Python",
+      "weight": 1
+    },
+    {
+      "source": "Open",
+      "target": "Handler",
+      "weight": 1
+    },
+    {
+      "source": "Open",
+      "target": "Complete Guide",
+      "weight": 1
+    },
+    {
+      "source": "Open",
+      "target": "Collector",
+      "weight": 1
+    },
+    {
+      "source": "Open",
+      "target": "Logging Module",
+      "weight": 1
+    },
+    {
+      "source": "Open",
+      "target": "Benchmark",
+      "weight": 1
+    },
+    {
+      "source": "Open",
+      "target": "Points",
+      "weight": 1
+    },
+    {
+      "source": "Open",
+      "target": "Comments",
+      "weight": 1
+    },
+    {
+      "source": "Open",
+      "target": "Article",
+      "weight": 1
+    },
+    {
+      "source": "Open",
+      "target": "Tops",
+      "weight": 1
+    },
+    {
+      "source": "Open",
+      "target": "Architectural",
+      "weight": 1
+    },
+    {
+      "source": "Open",
+      "target": "Antigravity",
+      "weight": 1
+    },
+    {
+      "source": "Wizard",
+      "target": "Astral",
+      "weight": 1
+    },
+    {
+      "source": "Wizard",
+      "target": "Will",
+      "weight": 1
+    },
+    {
+      "source": "Astral",
+      "target": "Will",
+      "weight": 1
+    },
+    {
+      "source": "Mediocre",
+      "target": "Scallion",
+      "weight": 1
+    },
+    {
+      "source": "Mediocre",
+      "target": "Chicago",
+      "weight": 1
+    },
+    {
+      "source": "Mediocre",
+      "target": "Django",
+      "weight": 1
+    },
+    {
+      "source": "Mediocre",
+      "target": "August",
+      "weight": 1
+    },
+    {
+      "source": "Mediocre",
+      "target": "Early",
+      "weight": 1
+    },
+    {
+      "source": "Scallion",
+      "target": "Chicago",
+      "weight": 1
+    },
+    {
+      "source": "Scallion",
+      "target": "Django",
+      "weight": 1
+    },
+    {
+      "source": "Scallion",
+      "target": "August",
+      "weight": 1
+    },
+    {
+      "source": "Scallion",
+      "target": "Early",
+      "weight": 1
+    },
+    {
+      "source": "Chicago",
+      "target": "Django",
+      "weight": 1
+    },
+    {
+      "source": "Chicago",
+      "target": "August",
+      "weight": 1
+    },
+    {
+      "source": "Chicago",
+      "target": "Early",
+      "weight": 1
+    },
+    {
+      "source": "Django",
+      "target": "August",
+      "weight": 1
+    },
+    {
+      "source": "Django",
+      "target": "Early",
+      "weight": 1
+    },
+    {
+      "source": "Django",
+      "target": "Business",
+      "weight": 1
+    },
+    {
+      "source": "Django",
+      "target": "Hopeful",
+      "weight": 1
+    },
+    {
+      "source": "Django",
+      "target": "Linked",
+      "weight": 1
+    },
+    {
+      "source": "Django",
+      "target": "Real",
+      "weight": 1
+    },
+    {
+      "source": "Django",
+      "target": "Toptal",
+      "weight": 1
+    },
+    {
+      "source": "Django",
+      "target": "Fast",
+      "weight": 1
+    },
+    {
+      "source": "Django",
+      "target": "Upwork",
+      "weight": 1
+    },
+    {
+      "source": "Django",
+      "target": "Next",
+      "weight": 1
+    },
+    {
+      "source": "August",
+      "target": "Early",
+      "weight": 1
+    },
+    {
+      "source": "Python Careers",
+      "target": "Interview Tips",
+      "weight": 1
+    },
+    {
+      "source": "Python Careers",
+      "target": "Career Talk",
+      "weight": 1
+    },
+    {
+      "source": "Python Careers",
+      "target": "Certifications",
+      "weight": 1
+    },
+    {
+      "source": "Python Careers",
+      "target": "Career Paths",
+      "weight": 1
+    },
+    {
+      "source": "Python Careers",
+      "target": "Courses",
+      "weight": 1
+    },
+    {
+      "source": "Python Careers",
+      "target": "Please",
+      "weight": 1
+    },
+    {
+      "source": "Python Careers",
+      "target": "Workplace Tools",
+      "weight": 1
+    },
+    {
+      "source": "Python Careers",
+      "target": "What Python",
+      "weight": 1
+    },
+    {
+      "source": "Python Careers",
+      "target": "Thursday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "Python Careers",
+      "target": "Course Recommendations",
+      "weight": 1
+    },
+    {
+      "source": "Python Careers",
+      "target": "Education",
+      "weight": 1
+    },
+    {
+      "source": "Python Careers",
+      "target": "Jobs",
+      "weight": 1
+    },
+    {
+      "source": "Python Careers",
+      "target": "Are Python",
+      "weight": 1
+    },
+    {
+      "source": "Python Careers",
+      "target": "Professional Use",
+      "weight": 1
+    },
+    {
+      "source": "Python Careers",
+      "target": "Furthering Education",
+      "weight": 1
+    },
+    {
+      "source": "Python Careers",
+      "target": "Workplace Chat",
+      "weight": 1
+    },
+    {
+      "source": "Interview Tips",
+      "target": "Career Talk",
+      "weight": 1
+    },
+    {
+      "source": "Interview Tips",
+      "target": "Certifications",
+      "weight": 1
+    },
+    {
+      "source": "Interview Tips",
+      "target": "Career Paths",
+      "weight": 1
+    },
+    {
+      "source": "Interview Tips",
+      "target": "Courses",
+      "weight": 1
+    },
+    {
+      "source": "Interview Tips",
+      "target": "Please",
+      "weight": 1
+    },
+    {
+      "source": "Interview Tips",
+      "target": "Workplace Tools",
+      "weight": 1
+    },
+    {
+      "source": "Interview Tips",
+      "target": "What Python",
+      "weight": 1
+    },
+    {
+      "source": "Interview Tips",
+      "target": "Thursday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "Interview Tips",
+      "target": "Course Recommendations",
+      "weight": 1
+    },
+    {
+      "source": "Interview Tips",
+      "target": "Education",
+      "weight": 1
+    },
+    {
+      "source": "Interview Tips",
+      "target": "Jobs",
+      "weight": 1
+    },
+    {
+      "source": "Interview Tips",
+      "target": "Are Python",
+      "weight": 1
+    },
+    {
+      "source": "Interview Tips",
+      "target": "Professional Use",
+      "weight": 1
+    },
+    {
+      "source": "Interview Tips",
+      "target": "Furthering Education",
+      "weight": 1
+    },
+    {
+      "source": "Interview Tips",
+      "target": "Workplace Chat",
+      "weight": 1
+    },
+    {
+      "source": "Career Talk",
+      "target": "Certifications",
+      "weight": 1
+    },
+    {
+      "source": "Career Talk",
+      "target": "Career Paths",
+      "weight": 1
+    },
+    {
+      "source": "Career Talk",
+      "target": "Courses",
+      "weight": 1
+    },
+    {
+      "source": "Career Talk",
+      "target": "Please",
+      "weight": 1
+    },
+    {
+      "source": "Career Talk",
+      "target": "Workplace Tools",
+      "weight": 1
+    },
+    {
+      "source": "Career Talk",
+      "target": "What Python",
+      "weight": 1
+    },
+    {
+      "source": "Career Talk",
+      "target": "Thursday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "Career Talk",
+      "target": "Course Recommendations",
+      "weight": 1
+    },
+    {
+      "source": "Career Talk",
+      "target": "Education",
+      "weight": 1
+    },
+    {
+      "source": "Career Talk",
+      "target": "Jobs",
+      "weight": 1
+    },
+    {
+      "source": "Career Talk",
+      "target": "Are Python",
+      "weight": 1
+    },
+    {
+      "source": "Career Talk",
+      "target": "Professional Use",
+      "weight": 1
+    },
+    {
+      "source": "Career Talk",
+      "target": "Furthering Education",
+      "weight": 1
+    },
+    {
+      "source": "Career Talk",
+      "target": "Workplace Chat",
+      "weight": 1
+    },
+    {
+      "source": "Certifications",
+      "target": "Career Paths",
+      "weight": 1
+    },
+    {
+      "source": "Certifications",
+      "target": "Courses",
+      "weight": 1
+    },
+    {
+      "source": "Certifications",
+      "target": "Please",
+      "weight": 1
+    },
+    {
+      "source": "Certifications",
+      "target": "Workplace Tools",
+      "weight": 1
+    },
+    {
+      "source": "Certifications",
+      "target": "What Python",
+      "weight": 1
+    },
+    {
+      "source": "Certifications",
+      "target": "Thursday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "Certifications",
+      "target": "Course Recommendations",
+      "weight": 1
+    },
+    {
+      "source": "Certifications",
+      "target": "Education",
+      "weight": 1
+    },
+    {
+      "source": "Certifications",
+      "target": "Jobs",
+      "weight": 1
+    },
+    {
+      "source": "Certifications",
+      "target": "Are Python",
+      "weight": 1
+    },
+    {
+      "source": "Certifications",
+      "target": "Professional Use",
+      "weight": 1
+    },
+    {
+      "source": "Certifications",
+      "target": "Furthering Education",
+      "weight": 1
+    },
+    {
+      "source": "Certifications",
+      "target": "Workplace Chat",
+      "weight": 1
+    },
+    {
+      "source": "Career Paths",
+      "target": "Courses",
+      "weight": 1
+    },
+    {
+      "source": "Career Paths",
+      "target": "Please",
+      "weight": 1
+    },
+    {
+      "source": "Career Paths",
+      "target": "Workplace Tools",
+      "weight": 1
+    },
+    {
+      "source": "Career Paths",
+      "target": "What Python",
+      "weight": 1
+    },
+    {
+      "source": "Career Paths",
+      "target": "Thursday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "Career Paths",
+      "target": "Course Recommendations",
+      "weight": 1
+    },
+    {
+      "source": "Career Paths",
+      "target": "Education",
+      "weight": 1
+    },
+    {
+      "source": "Career Paths",
+      "target": "Jobs",
+      "weight": 1
+    },
+    {
+      "source": "Career Paths",
+      "target": "Are Python",
+      "weight": 1
+    },
+    {
+      "source": "Career Paths",
+      "target": "Professional Use",
+      "weight": 1
+    },
+    {
+      "source": "Career Paths",
+      "target": "Furthering Education",
+      "weight": 1
+    },
+    {
+      "source": "Career Paths",
+      "target": "Workplace Chat",
+      "weight": 1
+    },
+    {
+      "source": "Courses",
+      "target": "Please",
+      "weight": 1
+    },
+    {
+      "source": "Courses",
+      "target": "Workplace Tools",
+      "weight": 1
+    },
+    {
+      "source": "Courses",
+      "target": "What Python",
+      "weight": 1
+    },
+    {
+      "source": "Courses",
+      "target": "Thursday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "Courses",
+      "target": "Course Recommendations",
+      "weight": 1
+    },
+    {
+      "source": "Courses",
+      "target": "Education",
+      "weight": 1
+    },
+    {
+      "source": "Courses",
+      "target": "Jobs",
+      "weight": 1
+    },
+    {
+      "source": "Courses",
+      "target": "Are Python",
+      "weight": 1
+    },
+    {
+      "source": "Courses",
+      "target": "Professional Use",
+      "weight": 1
+    },
+    {
+      "source": "Courses",
+      "target": "Furthering Education",
+      "weight": 1
+    },
+    {
+      "source": "Courses",
+      "target": "Workplace Chat",
+      "weight": 1
+    },
+    {
+      "source": "Please",
+      "target": "Workplace Tools",
+      "weight": 1
+    },
+    {
+      "source": "Please",
+      "target": "What Python",
+      "weight": 1
+    },
+    {
+      "source": "Please",
+      "target": "Thursday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "Please",
+      "target": "Course Recommendations",
+      "weight": 1
+    },
+    {
+      "source": "Please",
+      "target": "Education",
+      "weight": 1
+    },
+    {
+      "source": "Please",
+      "target": "Jobs",
+      "weight": 1
+    },
+    {
+      "source": "Please",
+      "target": "Are Python",
+      "weight": 1
+    },
+    {
+      "source": "Please",
+      "target": "Professional Use",
+      "weight": 1
+    },
+    {
+      "source": "Please",
+      "target": "Furthering Education",
+      "weight": 1
+    },
+    {
+      "source": "Please",
+      "target": "Workplace Chat",
+      "weight": 1
+    },
+    {
+      "source": "Workplace Tools",
+      "target": "What Python",
+      "weight": 1
+    },
+    {
+      "source": "Workplace Tools",
+      "target": "Thursday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "Workplace Tools",
+      "target": "Course Recommendations",
+      "weight": 1
+    },
+    {
+      "source": "Workplace Tools",
+      "target": "Education",
+      "weight": 1
+    },
+    {
+      "source": "Workplace Tools",
+      "target": "Jobs",
+      "weight": 1
+    },
+    {
+      "source": "Workplace Tools",
+      "target": "Are Python",
+      "weight": 1
+    },
+    {
+      "source": "Workplace Tools",
+      "target": "Professional Use",
+      "weight": 1
+    },
+    {
+      "source": "Workplace Tools",
+      "target": "Furthering Education",
+      "weight": 1
+    },
+    {
+      "source": "Workplace Tools",
+      "target": "Workplace Chat",
+      "weight": 1
+    },
+    {
+      "source": "What Python",
+      "target": "Thursday Daily Thread",
+      "weight": 1
+    },
+    {
+      "source": "What Python",
+      "target": "Course Recommendations",
+      "weight": 1
+    },
+    {
+      "source": "What Python",
+      "target": "Education",
+      "weight": 1
+    },
+    {
+      "source": "What Python",
+      "target": "Jobs",
+      "weight": 1
+    },
+    {
+      "source": "What Python",
+      "target": "Are Python",
+      "weight": 1
+    },
+    {
+      "source": "What Python",
+      "target": "Professional Use",
+      "weight": 1
+    },
+    {
+      "source": "What Python",
+      "target": "Furthering Education",
+      "weight": 1
+    },
+    {
+      "source": "What Python",
+      "target": "Workplace Chat",
+      "weight": 1
+    },
+    {
+      "source": "Thursday Daily Thread",
+      "target": "Course Recommendations",
+      "weight": 1
+    },
+    {
+      "source": "Thursday Daily Thread",
+      "target": "Education",
+      "weight": 1
+    },
+    {
+      "source": "Thursday Daily Thread",
+      "target": "Jobs",
+      "weight": 1
+    },
+    {
+      "source": "Thursday Daily Thread",
+      "target": "Are Python",
+      "weight": 1
+    },
+    {
+      "source": "Thursday Daily Thread",
+      "target": "Professional Use",
+      "weight": 1
+    },
+    {
+      "source": "Thursday Daily Thread",
+      "target": "Furthering Education",
+      "weight": 1
+    },
+    {
+      "source": "Thursday Daily Thread",
+      "target": "Workplace Chat",
+      "weight": 1
+    },
+    {
+      "source": "Course Recommendations",
+      "target": "Education",
+      "weight": 1
+    },
+    {
+      "source": "Course Recommendations",
+      "target": "Jobs",
+      "weight": 1
+    },
+    {
+      "source": "Course Recommendations",
+      "target": "Are Python",
+      "weight": 1
+    },
+    {
+      "source": "Course Recommendations",
+      "target": "Professional Use",
+      "weight": 1
+    },
+    {
+      "source": "Course Recommendations",
+      "target": "Furthering Education",
+      "weight": 1
+    },
+    {
+      "source": "Course Recommendations",
+      "target": "Workplace Chat",
+      "weight": 1
+    },
+    {
+      "source": "Education",
+      "target": "Jobs",
+      "weight": 1
+    },
+    {
+      "source": "Education",
+      "target": "Are Python",
+      "weight": 1
+    },
+    {
+      "source": "Education",
+      "target": "Professional Use",
+      "weight": 1
+    },
+    {
+      "source": "Education",
+      "target": "Furthering Education",
+      "weight": 1
+    },
+    {
+      "source": "Education",
+      "target": "Workplace Chat",
+      "weight": 1
+    },
+    {
+      "source": "Jobs",
+      "target": "Are Python",
+      "weight": 1
+    },
+    {
+      "source": "Jobs",
+      "target": "Professional Use",
+      "weight": 1
+    },
+    {
+      "source": "Jobs",
+      "target": "Furthering Education",
+      "weight": 1
+    },
+    {
+      "source": "Jobs",
+      "target": "Workplace Chat",
+      "weight": 1
+    },
+    {
+      "source": "Are Python",
+      "target": "Professional Use",
+      "weight": 1
+    },
+    {
+      "source": "Are Python",
+      "target": "Furthering Education",
+      "weight": 1
+    },
+    {
+      "source": "Are Python",
+      "target": "Workplace Chat",
+      "weight": 1
+    },
+    {
+      "source": "Professional Use",
+      "target": "Furthering Education",
+      "weight": 1
+    },
+    {
+      "source": "Professional Use",
+      "target": "Workplace Chat",
+      "weight": 1
+    },
+    {
+      "source": "Furthering Education",
+      "target": "Workplace Chat",
+      "weight": 1
+    },
+    {
+      "source": "Business",
+      "target": "Hopeful",
+      "weight": 1
+    },
+    {
+      "source": "Business",
+      "target": "Linked",
+      "weight": 1
+    },
+    {
+      "source": "Business",
+      "target": "Real",
+      "weight": 1
+    },
+    {
+      "source": "Business",
+      "target": "Toptal",
+      "weight": 1
+    },
+    {
+      "source": "Business",
+      "target": "Fast",
+      "weight": 1
+    },
+    {
+      "source": "Business",
+      "target": "Upwork",
+      "weight": 1
+    },
+    {
+      "source": "Business",
+      "target": "Next",
+      "weight": 1
+    },
+    {
+      "source": "Hopeful",
+      "target": "Linked",
+      "weight": 1
+    },
+    {
+      "source": "Hopeful",
+      "target": "Real",
+      "weight": 1
+    },
+    {
+      "source": "Hopeful",
+      "target": "Toptal",
+      "weight": 1
+    },
+    {
+      "source": "Hopeful",
+      "target": "Fast",
+      "weight": 1
+    },
+    {
+      "source": "Hopeful",
+      "target": "Upwork",
+      "weight": 1
+    },
+    {
+      "source": "Hopeful",
+      "target": "Next",
+      "weight": 1
+    },
+    {
+      "source": "Linked",
+      "target": "Real",
+      "weight": 1
+    },
+    {
+      "source": "Linked",
+      "target": "Toptal",
+      "weight": 1
+    },
+    {
+      "source": "Linked",
+      "target": "Fast",
+      "weight": 1
+    },
+    {
+      "source": "Linked",
+      "target": "Upwork",
+      "weight": 1
+    },
+    {
+      "source": "Linked",
+      "target": "Next",
+      "weight": 1
+    },
+    {
+      "source": "Real",
+      "target": "Toptal",
+      "weight": 1
+    },
+    {
+      "source": "Real",
+      "target": "Fast",
+      "weight": 1
+    },
+    {
+      "source": "Real",
+      "target": "Upwork",
+      "weight": 1
+    },
+    {
+      "source": "Real",
+      "target": "Next",
+      "weight": 1
+    },
+    {
+      "source": "Toptal",
+      "target": "Fast",
+      "weight": 1
+    },
+    {
+      "source": "Toptal",
+      "target": "Upwork",
+      "weight": 1
+    },
+    {
+      "source": "Toptal",
+      "target": "Next",
+      "weight": 1
+    },
+    {
+      "source": "Fast",
+      "target": "Upwork",
+      "weight": 1
+    },
+    {
+      "source": "Fast",
+      "target": "Next",
+      "weight": 1
+    },
+    {
+      "source": "Fast",
+      "target": "Nova",
+      "weight": 1
+    },
+    {
+      "source": "Fast",
+      "target": "Backend",
+      "weight": 1
+    },
+    {
+      "source": "Fast",
+      "target": "Open Source Contribution",
+      "weight": 1
+    },
+    {
+      "source": "Upwork",
+      "target": "Next",
+      "weight": 1
+    },
+    {
+      "source": "Supply",
+      "target": "They",
+      "weight": 1
+    },
+    {
+      "source": "Supply",
+      "target": "More",
+      "weight": 1
+    },
+    {
+      "source": "Supply",
+      "target": "Because",
+      "weight": 1
+    },
+    {
+      "source": "Supply",
+      "target": "Giacomelli",
+      "weight": 1
+    },
+    {
+      "source": "Supply",
+      "target": "Both",
+      "weight": 1
+    },
+    {
+      "source": "Supply",
+      "target": "That",
+      "weight": 1
+    },
+    {
+      "source": "Supply",
+      "target": "These",
+      "weight": 1
+    },
+    {
+      "source": "Supply",
+      "target": "Things",
+      "weight": 1
+    },
+    {
+      "source": "They",
+      "target": "More",
+      "weight": 1
+    },
+    {
+      "source": "They",
+      "target": "Because",
+      "weight": 1
+    },
+    {
+      "source": "They",
+      "target": "Giacomelli",
+      "weight": 1
+    },
+    {
+      "source": "They",
+      "target": "Both",
+      "weight": 1
+    },
+    {
+      "source": "They",
+      "target": "That",
+      "weight": 1
+    },
+    {
+      "source": "They",
+      "target": "These",
+      "weight": 1
+    },
+    {
+      "source": "They",
+      "target": "Things",
+      "weight": 1
+    },
+    {
+      "source": "More",
+      "target": "Because",
+      "weight": 1
+    },
+    {
+      "source": "More",
+      "target": "Giacomelli",
+      "weight": 1
+    },
+    {
+      "source": "More",
+      "target": "Both",
+      "weight": 1
+    },
+    {
+      "source": "More",
+      "target": "That",
+      "weight": 1
+    },
+    {
+      "source": "More",
+      "target": "These",
+      "weight": 1
+    },
+    {
+      "source": "More",
+      "target": "Things",
+      "weight": 1
+    },
+    {
+      "source": "Because",
+      "target": "Giacomelli",
+      "weight": 1
+    },
+    {
+      "source": "Because",
+      "target": "Both",
+      "weight": 1
+    },
+    {
+      "source": "Because",
+      "target": "That",
+      "weight": 1
+    },
+    {
+      "source": "Because",
+      "target": "These",
+      "weight": 1
+    },
+    {
+      "source": "Because",
+      "target": "Things",
+      "weight": 1
+    },
+    {
+      "source": "Giacomelli",
+      "target": "Both",
+      "weight": 1
+    },
+    {
+      "source": "Giacomelli",
+      "target": "That",
+      "weight": 1
+    },
+    {
+      "source": "Giacomelli",
+      "target": "These",
+      "weight": 1
+    },
+    {
+      "source": "Giacomelli",
+      "target": "Things",
+      "weight": 1
+    },
+    {
+      "source": "Both",
+      "target": "That",
+      "weight": 1
+    },
+    {
+      "source": "Both",
+      "target": "These",
+      "weight": 1
+    },
+    {
+      "source": "Both",
+      "target": "Things",
+      "weight": 1
+    },
+    {
+      "source": "That",
+      "target": "These",
+      "weight": 1
+    },
+    {
+      "source": "That",
+      "target": "Things",
+      "weight": 1
+    },
+    {
+      "source": "These",
+      "target": "Things",
+      "weight": 1
+    },
+    {
+      "source": "Curious",
+      "target": "Config",
+      "weight": 1
+    },
+    {
+      "source": "Curious",
+      "target": "Telemetry",
+      "weight": 1
+    },
+    {
+      "source": "Curious",
+      "target": "Logging",
+      "weight": 1
+    },
+    {
+      "source": "Curious",
+      "target": "Bridging Python",
+      "weight": 1
+    },
+    {
+      "source": "Curious",
+      "target": "Handler",
+      "weight": 1
+    },
+    {
+      "source": "Curious",
+      "target": "Complete Guide",
+      "weight": 1
+    },
+    {
+      "source": "Curious",
+      "target": "Collector",
+      "weight": 1
+    },
+    {
+      "source": "Curious",
+      "target": "Logging Module",
+      "weight": 1
+    },
+    {
+      "source": "Config",
+      "target": "Telemetry",
+      "weight": 1
+    },
+    {
+      "source": "Config",
+      "target": "Logging",
+      "weight": 1
+    },
+    {
+      "source": "Config",
+      "target": "Bridging Python",
+      "weight": 1
+    },
+    {
+      "source": "Config",
+      "target": "Handler",
+      "weight": 1
+    },
+    {
+      "source": "Config",
+      "target": "Complete Guide",
+      "weight": 1
+    },
+    {
+      "source": "Config",
+      "target": "Collector",
+      "weight": 1
+    },
+    {
+      "source": "Config",
+      "target": "Logging Module",
+      "weight": 1
+    },
+    {
+      "source": "Telemetry",
+      "target": "Logging",
+      "weight": 1
+    },
+    {
+      "source": "Telemetry",
+      "target": "Bridging Python",
+      "weight": 1
+    },
+    {
+      "source": "Telemetry",
+      "target": "Handler",
+      "weight": 1
+    },
+    {
+      "source": "Telemetry",
+      "target": "Complete Guide",
+      "weight": 1
+    },
+    {
+      "source": "Telemetry",
+      "target": "Collector",
+      "weight": 1
+    },
+    {
+      "source": "Telemetry",
+      "target": "Logging Module",
+      "weight": 1
+    },
+    {
+      "source": "Logging",
+      "target": "Bridging Python",
+      "weight": 1
+    },
+    {
+      "source": "Logging",
+      "target": "Handler",
+      "weight": 1
+    },
+    {
+      "source": "Logging",
+      "target": "Complete Guide",
+      "weight": 1
+    },
+    {
+      "source": "Logging",
+      "target": "Collector",
+      "weight": 1
+    },
+    {
+      "source": "Logging",
+      "target": "Logging Module",
+      "weight": 1
+    },
+    {
+      "source": "Bridging Python",
+      "target": "Handler",
+      "weight": 1
+    },
+    {
+      "source": "Bridging Python",
+      "target": "Complete Guide",
+      "weight": 1
+    },
+    {
+      "source": "Bridging Python",
+      "target": "Collector",
+      "weight": 1
+    },
+    {
+      "source": "Bridging Python",
+      "target": "Logging Module",
+      "weight": 1
+    },
+    {
+      "source": "Handler",
+      "target": "Complete Guide",
+      "weight": 1
+    },
+    {
+      "source": "Handler",
+      "target": "Collector",
+      "weight": 1
+    },
+    {
+      "source": "Handler",
+      "target": "Logging Module",
+      "weight": 1
+    },
+    {
+      "source": "Complete Guide",
+      "target": "Collector",
+      "weight": 1
+    },
+    {
+      "source": "Complete Guide",
+      "target": "Logging Module",
+      "weight": 1
+    },
+    {
+      "source": "Collector",
+      "target": "Logging Module",
+      "weight": 1
+    },
+    {
+      "source": "Significant",
+      "target": "Book",
+      "weight": 1
+    },
+    {
+      "source": "Nova",
+      "target": "Backend",
+      "weight": 1
+    },
+    {
+      "source": "Nova",
+      "target": "Open Source Contribution",
+      "weight": 1
+    },
+    {
+      "source": "Backend",
+      "target": "Open Source Contribution",
+      "weight": 1
+    },
+    {
+      "source": "We All Lost",
+      "target": "Points",
+      "weight": 1
+    },
+    {
+      "source": "We All Lost",
+      "target": "Comments",
+      "weight": 1
+    },
+    {
+      "source": "We All Lost",
+      "target": "Article",
+      "weight": 1
+    },
+    {
+      "source": "We All Lost",
+      "target": "Court Against Elon Musk",
+      "weight": 1
+    },
+    {
+      "source": "We All Lost",
+      "target": "Sam Altman Won",
+      "weight": 1
+    },
+    {
+      "source": "Points",
+      "target": "Comments",
+      "weight": 10
+    },
+    {
+      "source": "Points",
+      "target": "Article",
+      "weight": 10
+    },
+    {
+      "source": "Points",
+      "target": "Court Against Elon Musk",
+      "weight": 1
+    },
+    {
+      "source": "Points",
+      "target": "Sam Altman Won",
+      "weight": 1
+    },
+    {
+      "source": "Points",
+      "target": "Steam",
+      "weight": 1
+    },
+    {
+      "source": "Points",
+      "target": "Valve",
+      "weight": 1
+    },
+    {
+      "source": "Points",
+      "target": "Circle Medical",
+      "weight": 1
+    },
+    {
+      "source": "Points",
+      "target": "Mobile Engineer",
+      "weight": 1
+    },
+    {
+      "source": "Points",
+      "target": "Is Hiring",
+      "weight": 1
+    },
+    {
+      "source": "Points",
+      "target": "Ones Who Didn",
+      "weight": 1
+    },
+    {
+      "source": "Points",
+      "target": "Will Lose",
+      "weight": 1
+    },
+    {
+      "source": "Points",
+      "target": "The Companies Cutting Headcount",
+      "weight": 1
+    },
+    {
+      "source": "Points",
+      "target": "Breakthroughs",
+      "weight": 1
+    },
+    {
+      "source": "Points",
+      "target": "Blog",
+      "weight": 1
+    },
+    {
+      "source": "Points",
+      "target": "Anna",
+      "weight": 1
+    },
+    {
+      "source": "Points",
+      "target": "Shadow",
+      "weight": 1
+    },
+    {
+      "source": "Points",
+      "target": "Browser",
+      "weight": 1
+    },
+    {
+      "source": "Points",
+      "target": "Codes",
+      "weight": 1
+    },
+    {
+      "source": "Points",
+      "target": "Chess Invariants",
+      "weight": 1
+    },
+    {
+      "source": "Points",
+      "target": "Benchmark",
+      "weight": 1
+    },
+    {
+      "source": "Points",
+      "target": "Tops",
+      "weight": 1
+    },
+    {
+      "source": "Points",
+      "target": "Architectural",
+      "weight": 1
+    },
+    {
+      "source": "Points",
+      "target": "Antigravity",
+      "weight": 1
+    },
+    {
+      "source": "Points",
+      "target": "Apple",
+      "weight": 1
+    },
+    {
+      "source": "Comments",
+      "target": "Article",
+      "weight": 10
+    },
+    {
+      "source": "Comments",
+      "target": "Court Against Elon Musk",
+      "weight": 1
+    },
+    {
+      "source": "Comments",
+      "target": "Sam Altman Won",
+      "weight": 1
+    },
+    {
+      "source": "Comments",
+      "target": "Steam",
+      "weight": 1
+    },
+    {
+      "source": "Comments",
+      "target": "Valve",
+      "weight": 1
+    },
+    {
+      "source": "Comments",
+      "target": "Circle Medical",
+      "weight": 1
+    },
+    {
+      "source": "Comments",
+      "target": "Mobile Engineer",
+      "weight": 1
+    },
+    {
+      "source": "Comments",
+      "target": "Is Hiring",
+      "weight": 1
+    },
+    {
+      "source": "Comments",
+      "target": "Ones Who Didn",
+      "weight": 1
+    },
+    {
+      "source": "Comments",
+      "target": "Will Lose",
+      "weight": 1
+    },
+    {
+      "source": "Comments",
+      "target": "The Companies Cutting Headcount",
+      "weight": 1
+    },
+    {
+      "source": "Comments",
+      "target": "Breakthroughs",
+      "weight": 1
+    },
+    {
+      "source": "Comments",
+      "target": "Blog",
+      "weight": 1
+    },
+    {
+      "source": "Comments",
+      "target": "Anna",
+      "weight": 1
+    },
+    {
+      "source": "Comments",
+      "target": "Shadow",
+      "weight": 1
+    },
+    {
+      "source": "Comments",
+      "target": "Browser",
+      "weight": 1
+    },
+    {
+      "source": "Comments",
+      "target": "Codes",
+      "weight": 1
+    },
+    {
+      "source": "Comments",
+      "target": "Chess Invariants",
+      "weight": 1
+    },
+    {
+      "source": "Comments",
+      "target": "Benchmark",
+      "weight": 1
+    },
+    {
+      "source": "Comments",
+      "target": "Tops",
+      "weight": 1
+    },
+    {
+      "source": "Comments",
+      "target": "Architectural",
+      "weight": 1
+    },
+    {
+      "source": "Comments",
+      "target": "Antigravity",
+      "weight": 1
+    },
+    {
+      "source": "Comments",
+      "target": "Apple",
+      "weight": 1
+    },
+    {
+      "source": "Article",
+      "target": "Court Against Elon Musk",
+      "weight": 1
+    },
+    {
+      "source": "Article",
+      "target": "Sam Altman Won",
+      "weight": 1
+    },
+    {
+      "source": "Article",
+      "target": "Steam",
+      "weight": 1
+    },
+    {
+      "source": "Article",
+      "target": "Valve",
+      "weight": 1
+    },
+    {
+      "source": "Article",
+      "target": "Circle Medical",
+      "weight": 1
+    },
+    {
+      "source": "Article",
+      "target": "Mobile Engineer",
+      "weight": 1
+    },
+    {
+      "source": "Article",
+      "target": "Is Hiring",
+      "weight": 1
+    },
+    {
+      "source": "Article",
+      "target": "Ones Who Didn",
+      "weight": 1
+    },
+    {
+      "source": "Article",
+      "target": "Will Lose",
+      "weight": 1
+    },
+    {
+      "source": "Article",
+      "target": "The Companies Cutting Headcount",
+      "weight": 1
+    },
+    {
+      "source": "Article",
+      "target": "Breakthroughs",
+      "weight": 1
+    },
+    {
+      "source": "Article",
+      "target": "Blog",
+      "weight": 1
+    },
+    {
+      "source": "Article",
+      "target": "Anna",
+      "weight": 1
+    },
+    {
+      "source": "Article",
+      "target": "Shadow",
+      "weight": 1
+    },
+    {
+      "source": "Article",
+      "target": "Browser",
+      "weight": 1
+    },
+    {
+      "source": "Article",
+      "target": "Codes",
+      "weight": 1
+    },
+    {
+      "source": "Article",
+      "target": "Chess Invariants",
+      "weight": 1
+    },
+    {
+      "source": "Article",
+      "target": "Benchmark",
+      "weight": 1
+    },
+    {
+      "source": "Article",
+      "target": "Tops",
+      "weight": 1
+    },
+    {
+      "source": "Article",
+      "target": "Architectural",
+      "weight": 1
+    },
+    {
+      "source": "Article",
+      "target": "Antigravity",
+      "weight": 1
+    },
+    {
+      "source": "Article",
+      "target": "Apple",
+      "weight": 1
+    },
+    {
+      "source": "Court Against Elon Musk",
+      "target": "Sam Altman Won",
+      "weight": 1
+    },
+    {
+      "source": "Steam",
+      "target": "Valve",
+      "weight": 1
+    },
+    {
+      "source": "Circle Medical",
+      "target": "Mobile Engineer",
+      "weight": 1
+    },
+    {
+      "source": "Circle Medical",
+      "target": "Is Hiring",
+      "weight": 1
+    },
+    {
+      "source": "Mobile Engineer",
+      "target": "Is Hiring",
+      "weight": 1
+    },
+    {
+      "source": "Ones Who Didn",
+      "target": "Will Lose",
+      "weight": 1
+    },
+    {
+      "source": "Ones Who Didn",
+      "target": "The Companies Cutting Headcount",
+      "weight": 1
+    },
+    {
+      "source": "Will Lose",
+      "target": "The Companies Cutting Headcount",
+      "weight": 1
+    },
+    {
+      "source": "Blog",
+      "target": "Anna",
+      "weight": 1
+    },
+    {
+      "source": "Shadow",
+      "target": "Browser",
+      "weight": 1
+    },
+    {
+      "source": "Shadow",
+      "target": "Codes",
+      "weight": 1
+    },
+    {
+      "source": "Browser",
+      "target": "Codes",
+      "weight": 1
+    },
+    {
+      "source": "Benchmark",
+      "target": "Tops",
+      "weight": 1
+    },
+    {
+      "source": "Benchmark",
+      "target": "Architectural",
+      "weight": 1
+    },
+    {
+      "source": "Benchmark",
+      "target": "Antigravity",
+      "weight": 1
+    },
+    {
+      "source": "Tops",
+      "target": "Architectural",
+      "weight": 1
+    },
+    {
+      "source": "Tops",
+      "target": "Antigravity",
+      "weight": 1
+    },
+    {
+      "source": "Architectural",
+      "target": "Antigravity",
+      "weight": 1
+    },
+    {
+      "source": "Ebola",
+      "target": "Bundibugyo",
+      "weight": 1
+    },
+    {
+      "source": "Parents",
+      "target": "Southport",
+      "weight": 1
+    },
+    {
+      "source": "February",
+      "target": "Andrew",
+      "weight": 1
+    },
+    {
+      "source": "Amazon",
+      "target": "Stop",
+      "weight": 1
+    },
+    {
+      "source": "Amazon",
+      "target": "John Boumphrey",
+      "weight": 1
+    },
+    {
+      "source": "Stop",
+      "target": "John Boumphrey",
+      "weight": 1
+    },
+    {
+      "source": "Guardiola",
+      "target": "Pep Guardiola",
+      "weight": 1
+    },
+    {
+      "source": "Guardiola",
+      "target": "Man City",
+      "weight": 1
+    },
+    {
+      "source": "Guardiola",
+      "target": "Manchester City",
+      "weight": 1
+    },
+    {
+      "source": "Pep Guardiola",
+      "target": "Man City",
+      "weight": 1
+    },
+    {
+      "source": "Pep Guardiola",
+      "target": "Manchester City",
+      "weight": 1
+    },
+    {
+      "source": "Man City",
+      "target": "Manchester City",
+      "weight": 1
+    },
+    {
+      "source": "Samuel Dodsworth",
+      "target": "Rico Gedel",
+      "weight": 1
+    },
+    {
+      "source": "Samuel Dodsworth",
+      "target": "Jury",
+      "weight": 1
+    },
+    {
+      "source": "Samuel Dodsworth",
+      "target": "Ian Watkins",
+      "weight": 1
+    },
+    {
+      "source": "Samuel Dodsworth",
+      "target": "Leeds Crown Court",
+      "weight": 1
+    },
+    {
+      "source": "Rico Gedel",
+      "target": "Jury",
+      "weight": 1
+    },
+    {
+      "source": "Rico Gedel",
+      "target": "Ian Watkins",
+      "weight": 1
+    },
+    {
+      "source": "Rico Gedel",
+      "target": "Leeds Crown Court",
+      "weight": 1
+    },
+    {
+      "source": "Jury",
+      "target": "Ian Watkins",
+      "weight": 1
+    },
+    {
+      "source": "Jury",
+      "target": "Leeds Crown Court",
+      "weight": 1
+    },
+    {
+      "source": "Ian Watkins",
+      "target": "Leeds Crown Court",
+      "weight": 1
+    },
+    {
+      "source": "Thursday",
+      "target": "Poland President Trump",
+      "weight": 1
+    },
+    {
+      "source": "Thursday",
+      "target": "Nato",
+      "weight": 1
+    },
+    {
+      "source": "Poland President Trump",
+      "target": "Nato",
+      "weight": 1
+    },
+    {
+      "source": "Ofcom",
+      "target": "Channel",
+      "weight": 1
+    },
+    {
+      "source": "Ofcom",
+      "target": "Married",
+      "weight": 1
+    },
+    {
+      "source": "Ofcom",
+      "target": "Michael Grade Michael Grade",
+      "weight": 1
+    },
+    {
+      "source": "Ofcom",
+      "target": "First Sight",
+      "weight": 1
+    },
+    {
+      "source": "Ofcom",
+      "target": "Reality",
+      "weight": 1
+    },
+    {
+      "source": "Channel",
+      "target": "Married",
+      "weight": 1
+    },
+    {
+      "source": "Channel",
+      "target": "Michael Grade Michael Grade",
+      "weight": 1
+    },
+    {
+      "source": "Channel",
+      "target": "First Sight",
+      "weight": 1
+    },
+    {
+      "source": "Channel",
+      "target": "Reality",
+      "weight": 1
+    },
+    {
+      "source": "Married",
+      "target": "Michael Grade Michael Grade",
+      "weight": 1
+    },
+    {
+      "source": "Married",
+      "target": "First Sight",
+      "weight": 1
+    },
+    {
+      "source": "Married",
+      "target": "Reality",
+      "weight": 1
+    },
+    {
+      "source": "Michael Grade Michael Grade",
+      "target": "First Sight",
+      "weight": 1
+    },
+    {
+      "source": "Michael Grade Michael Grade",
+      "target": "Reality",
+      "weight": 1
+    },
+    {
+      "source": "First Sight",
+      "target": "Reality",
+      "weight": 1
+    },
+    {
+      "source": "Jess Phillips The",
+      "target": "Rape",
+      "weight": 1
+    }
+  ]
+}

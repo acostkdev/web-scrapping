@@ -1,0 +1,332 @@
+{
+  "metadata": {
+    "total_articles": 40,
+    "sources": 4,
+    "errors": 0,
+    "scraper": "feedparser",
+    "scraped_at": "2026-05-22T07:38:11.780067"
+  },
+  "articles": [
+    {
+      "title": "Maru Campos: “Chihuahua necesita forzosamente la colaboración de Estados Unidos”",
+      "link": "https://elpais.com/mexico/2026-05-22/maru-campos-chihuahua-necesita-forzosamente-la-colaboracion-de-estados-unidos.html",
+      "published": "Fri, 22 May 2026 04:00:00 GMT",
+      "summary": "La gobernadora de Chihuahua niega haber autorizado la participación de agentes de la CIA en el operativo de abril en la Sierra Tarahumara, pero defiende la coordinación con Washington para combatir al narco",
+      "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/mexico/portada",
+      "scraped_at": "2026-05-22T07:38:07.146626"
+    },
+    {
+      "title": "La propuesta de reforma judicial deja en vilo la presidencia de la Suprema Corte",
+      "link": "https://elpais.com/mexico/2026-05-22/la-propuesta-de-reforma-judicial-deja-en-vilo-la-presidencia-de-la-suprema-corte.html",
+      "published": "Fri, 22 May 2026 04:00:00 GMT",
+      "summary": "La iniciativa de Sheinbaum da marcha atrás y recupera las dos salas del Alto Tribunal, superado por la carga de trabajo que hoy recae en su totalidad en el Pleno",
+      "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/mexico/portada",
+      "scraped_at": "2026-05-22T07:38:07.146650"
+    },
+    {
+      "title": "Sheinbaum premia con su proyecto de reforma a los magistrados electorales con un año más en el cargo",
+      "link": "https://elpais.com/mexico/2026-05-22/sheinbaum-premia-con-su-proyecto-de-reforma-a-los-magistrados-electorales-con-un-ano-mas-en-el-cargo.html",
+      "published": "Fri, 22 May 2026 04:00:00 GMT",
+      "summary": "Cuatro integrantes de la Sala Superior del Tribunal Electoral se beneficiarán con una nueva ampliación de su mandato",
+      "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/mexico/portada",
+      "scraped_at": "2026-05-22T07:38:07.146660"
+    },
+    {
+      "title": "Sheinbaum intenta relanzar la relación con Estados Unidos recibiendo al jefe de Seguridad Interior de Trump",
+      "link": "https://elpais.com/mexico/2026-05-21/sheinbaum-intenta-relanzar-la-relacion-con-estados-unidos-recibiendo-al-jefe-de-seguridad-interior-de-trump.html",
+      "published": "Thu, 21 May 2026 23:51:23 GMT",
+      "summary": "La presidenta mexicana se ha reunido con Markwayne Mullin, zar de seguridad del Gobierno de Trump, en plena controversia por las acusaciones contra funcionarios de Sinaloa",
+      "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/mexico/portada",
+      "scraped_at": "2026-05-22T07:38:07.146667"
+    },
+    {
+      "title": "Contra los falsos indigenismos e hispanismos",
+      "link": "https://elpais.com/opinion/2026-05-22/contra-los-falsos-indigenismos-e-hispanismos.html",
+      "published": "Fri, 22 May 2026 03:30:01 GMT",
+      "summary": "México no pertenece a una identidad exclusiva ni excluyente. Es un país de identidades plurales, y defender una identidad en detrimento de otra es olvidar que es un país de leyes",
+      "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/mexico/portada",
+      "scraped_at": "2026-05-22T07:38:07.146675"
+    },
+    {
+      "title": "Gráficos de los ‘alumbrones’ de Cuba: más horas a oscuras que con luz bajo el asedio de Trump",
+      "link": "https://elpais.com/us/2026-05-22/graficos-de-los-alumbrones-de-cuba-mas-horas-a-oscuras-que-con-luz-bajo-el-asedio-de-trump.html",
+      "published": "Fri, 22 May 2026 04:00:00 GMT",
+      "summary": "Los apagones se disparan en toda la isla, que ya arrastraba una crisis crónica en su endeble red eléctrica con infraestructura de la época soviética",
+      "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/mexico/portada",
+      "scraped_at": "2026-05-22T07:38:07.146682"
+    },
+    {
+      "title": "Los dilemas del futuro de Cuba: cambio de régimen o transición pactada",
+      "link": "https://elpais.com/us/2026-05-22/los-dilemas-del-futuro-de-cuba-cambio-de-regimen-o-transicion-pactada.html",
+      "published": "Fri, 22 May 2026 04:00:00 GMT",
+      "summary": "El precedente del ataque militar a Caracas acecha a la isla, pero analistas e historiadores ven más cerca un horizonte de “capitalismo sin democracia” que un derrocamiento del castrismo",
+      "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/mexico/portada",
+      "scraped_at": "2026-05-22T07:38:07.146689"
+    },
+    {
+      "title": "México borda la primera camiseta artesanal en un Mundial",
+      "link": "https://elpais.com/mexico/2026-05-22/mexico-borda-la-primera-camiseta-artesanal-en-un-mundial.html",
+      "published": "Fri, 22 May 2026 04:00:00 GMT",
+      "summary": "Más de 150 mujeres de la Sierra Norte de Puebla trabajaron durante 15 meses para crear 100.000 prendas para la Copa del Mundo",
+      "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/mexico/portada",
+      "scraped_at": "2026-05-22T07:38:07.146696"
+    },
+    {
+      "title": "Los Pumas se aferran a Keylor Navas para aguantar al Cruz Azul en la final de la Liga MX",
+      "link": "https://elpais.com/mexico/2026-05-22/los-pumas-se-aferran-a-keylor-navas-para-aguantar-al-cruz-azul-en-la-final-de-la-liga-mx.html",
+      "published": "Fri, 22 May 2026 04:12:11 GMT",
+      "summary": "Los cementeros se volcaron al ataque, aunque sin fortuna. La final de vuelta se jugará en un repleto Estadio Olímpico Universitario",
+      "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/mexico/portada",
+      "scraped_at": "2026-05-22T07:38:07.146703"
+    },
+    {
+      "title": "Chicatanas, el equipo del IPN liderado por mujeres que mezcla fútbol y robótica",
+      "link": "https://elpais.com/mexico/2026-05-22/chicatanas-el-equipo-del-ipn-liderado-por-mujeres-que-mezcla-futbol-y-robotica.html",
+      "published": "Fri, 22 May 2026 04:00:00 GMT",
+      "summary": "El conjunto de la Unidad de Azcapotzalco se prepara para participar en la Copa FutBotMx, organizada por el Gobierno rumbo al Mundial 2026",
+      "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/mexico/portada",
+      "scraped_at": "2026-05-22T07:38:07.146710"
+    },
+    {
+      "title": "Sunday Daily Thread: What's everyone working on this week?",
+      "link": "https://www.reddit.com/r/Python/comments/1t8r5sf/sunday_daily_thread_whats_everyone_working_on/",
+      "published": "2026-05-10T00:00:12+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><h1>Weekly Thread: What's Everyone Working On This Week? 🛠️</h1> <p>Hello <a href=\"https://www.reddit.com/r/Python\">r/Python</a>! It's time to share what you've been working on! Whether it's a work-in-progress, a completed masterpiece, or just a rough idea, let us know what you're up to!</p> <h1>How it Works:</h1> <ol> <li><strong>Show &amp; Tell</strong>: Share your current projects, completed works, or future ideas.</li> <li><strong>Discuss</strong>: Get feedback, find collaborators, or just chat about your project.</li> <li><strong>Inspire</strong>: Your project might inspire someone else, just as you might get inspired here.</li> </ol> <h1>Guidelines:</h1> <ul> <li>Feel free to include as many details as you'd like. Code snippets, screenshots, and links are all welcome.</li> <li>Whether it's your job, your hobby, or your passion project, all Python-related work is welcome here.</li> </ul> <h1>Example Shares:</h1> <ol> <li><strong>Machine Learning Model</strong>: Working on a ML model to predict stock prices. Just cracked a 90% accuracy rate!</li> <li><strong>Web Scraping</strong>: Built a script to scrape and analyze news articles. It's helped me understand media bias better.</li> <li><strong>Automation</strong>: Automated my home lighting with Python and Raspberry Pi. My life has never been easier!</li> </ol> <p>Let's build and grow together! Share your journey and learn from others. Happy coding! 🌟</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/Python/comments/1t8r5sf/sunday_daily_thread_whats_everyone_working_on/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Python/comments/1t8r5sf/sunday_daily_thread_whats_everyone_working_on/\">[comments]</a></span>",
+      "source": "https://www.reddit.com/r/python/.rss",
+      "scraped_at": "2026-05-22T07:38:09.078163"
+    },
+    {
+      "title": "Friday Daily Thread: r/Python Meta and Free-Talk Fridays",
+      "link": "https://www.reddit.com/r/Python/comments/1tk2b1e/friday_daily_thread_rpython_meta_and_freetalk/",
+      "published": "2026-05-22T00:00:17+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><h1>Weekly Thread: Meta Discussions and Free Talk Friday 🎙️</h1> <p>Welcome to Free Talk Friday on <a href=\"https://www.reddit.com/r/Python\">/r/Python</a>! This is the place to discuss the <a href=\"https://www.reddit.com/r/Python\">r/Python</a> community (meta discussions), Python news, projects, or anything else Python-related!</p> <h2>How it Works:</h2> <ol> <li><strong>Open Mic</strong>: Share your thoughts, questions, or anything you'd like related to Python or the community.</li> <li><strong>Community Pulse</strong>: Discuss what you feel is working well or what could be improved in the <a href=\"https://www.reddit.com/r/python\">/r/python</a> community.</li> <li><strong>News &amp; Updates</strong>: Keep up-to-date with the latest in Python and share any news you find interesting.</li> </ol> <h2>Guidelines:</h2> <ul> <li>All topics should be related to Python or the <a href=\"https://www.reddit.com/r/python\">/r/python</a> community.</li> <li>Be respectful and follow Reddit's <a href=\"https://www.redditinc.com/policies/content-policy\">Code of Conduct</a>.</li> </ul> <h2>Example Topics:</h2> <ol> <li><strong>New Python Release</strong>: What do you think about the new features in Python 3.11?</li> <li><strong>Community Events</strong>: Any Python meetups or webinars coming up?</li> <li><strong>Learning Resources</strong>: Found a great Python tutorial? Share it here!</li> <li><strong>Job Market</strong>: How has Python impacted your career?</li> <li><strong>Hot Takes</strong>: Got a controversial Python opinion? Let's hear it!</li> <li><strong>Community Ideas</strong>: Something you'd like to see us do? tell us.</li> </ol> <p>Let's keep the conversation going. Happy discussing! 🌟</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/Python/comments/1tk2b1e/friday_daily_thread_rpython_meta_and_freetalk/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Python/comments/1tk2b1e/friday_daily_thread_rpython_meta_and_freetalk/\">[comments]</a></span>",
+      "source": "https://www.reddit.com/r/python/.rss",
+      "scraped_at": "2026-05-22T07:38:09.078197"
+    },
+    {
+      "title": "Is UV still worth learning/switching to now that it's owned by OpenAI?",
+      "link": "https://www.reddit.com/r/Python/comments/1tjonyf/is_uv_still_worth_learningswitching_to_now_that/",
+      "published": "2026-05-21T15:50:51+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Sorry if this has been brought up already- from what I could find using Reddit search in the last month I didn't see much discussion beyond a couple comments in a half-related thread.</p> <p>We used Python a ton a work, but mostly used the built-in python tools (pip, venv, etc). (we mostly use python for AWS, some internal tools, etc) About 5 months ago, I briefly tried UV and fell in love and was excited to incorporate it into our projects as the standard. But around that time we jumped to another project in a different language. We're now coming back to some of our Python projects, and I was looking to switching them over to using UV as the standard.</p> <p>With OpenAI purchasing Astral/UV, we're suddenly feeling less gung-ho about migrating everything to UV. Our main concern is that our tooling would be betting on OpenAI not sloppifying or abandoning the tool. Will our tooling be on shaky foundation if (when?) the AI bubble deflates? Are we overthinking it? Should we try poetry instead (I admit I haven't tried it yet). I'd love to hear your thoughts and experiences.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/WellEndowedWizard\"> /u/WellEndowedWizard </a> <br /> <span><a href=\"https://www.reddit.com/r/Python/comments/1tjonyf/is_uv_still_worth_learningswitching_to_now_that/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Python/comments/1tjonyf/is_uv_still_worth_learningswitching_to_now_that/\">[comments]</a></span>",
+      "source": "https://www.reddit.com/r/python/.rss",
+      "scraped_at": "2026-05-22T07:38:09.078214"
+    },
+    {
+      "title": "DjangoCon US 2026",
+      "link": "https://www.reddit.com/r/Python/comments/1tj98ot/djangocon_us_2026/",
+      "published": "2026-05-21T04:08:55+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone!</p> <p>DjangoCon US 2026 will be in Chicago again this year from August 24–28. Early bird tickets are available through May 31.</p> <p>We’re looking forward to a week of talks, workshops, open-source sprints, and connecting with the Django community. We’re also still welcoming sponsors interested in supporting DjangoCon US and the broader open-source ecosystem.</p> <p><a href=\"https://2026.djangocon.us/\">https://2026.djangocon.us</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Mediocre_Scallion_99\"> /u/Mediocre_Scallion_99 </a> <br /> <span><a href=\"https://www.reddit.com/r/Python/comments/1tj98ot/djangocon_us_2026/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Python/comments/1tj98ot/djangocon_us_2026/\">[comments]</a></span>",
+      "source": "https://www.reddit.com/r/python/.rss",
+      "scraped_at": "2026-05-22T07:38:09.078232"
+    },
+    {
+      "title": "Thursday Daily Thread: Python Careers, Courses, and Furthering Education!",
+      "link": "https://www.reddit.com/r/Python/comments/1tj3kfu/thursday_daily_thread_python_careers_courses_and/",
+      "published": "2026-05-21T00:00:07+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><h1>Weekly Thread: Professional Use, Jobs, and Education 🏢</h1> <p>Welcome to this week's discussion on Python in the professional world! This is your spot to talk about job hunting, career growth, and educational resources in Python. Please note, this thread is <strong>not for recruitment</strong>.</p> <hr /> <h2>How it Works:</h2> <ol> <li><strong>Career Talk</strong>: Discuss using Python in your job, or the job market for Python roles.</li> <li><strong>Education Q&amp;A</strong>: Ask or answer questions about Python courses, certifications, and educational resources.</li> <li><strong>Workplace Chat</strong>: Share your experiences, challenges, or success stories about using Python professionally.</li> </ol> <hr /> <h2>Guidelines:</h2> <ul> <li>This thread is <strong>not for recruitment</strong>. For job postings, please see <a href=\"https://www.reddit.com/r/PythonJobs\">r/PythonJobs</a> or the recruitment thread in the sidebar.</li> <li>Keep discussions relevant to Python in the professional and educational context.</li> </ul> <hr /> <h2>Example Topics:</h2> <ol> <li><strong>Career Paths</strong>: What kinds of roles are out there for Python developers?</li> <li><strong>Certifications</strong>: Are Python certifications worth it?</li> <li><strong>Course Recommendations</strong>: Any good advanced Python courses to recommend?</li> <li><strong>Workplace Tools</strong>: What Python libraries are indispensable in your professional work?</li> <li><strong>Interview Tips</strong>: What types of Python questions are commonly asked in interviews?</li> </ol> <hr /> <p>Let's help each other grow in our careers and education. Happy discussing! 🌟</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/Python/comments/1tj3kfu/thursday_daily_thread_python_careers_courses_and/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Python/comments/1tj3kfu/thursday_daily_thread_python_careers_courses_and/\">[comments]</a></span>",
+      "source": "https://www.reddit.com/r/python/.rss",
+      "scraped_at": "2026-05-22T07:38:09.078251"
+    },
+    {
+      "title": "4 years of Python dev experience, just went freelance — looking for honest advice on where to start",
+      "link": "https://www.reddit.com/r/Python/comments/1tjb1yj/4_years_of_python_dev_experience_just_went/",
+      "published": "2026-05-21T05:40:10+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've spent 4 years as a Python developer working on direct client projects inside a company ERPNext, AI agents, FastAPI, Django, RAG systems. Real production work</p> <p>I recently started freelance as a full time, to give a try. LinkedIn is my main focus right now, but I want one more platform to run alongside it.</p> <p>I'm looking at <strong>Contra, Arc.dev, Gun.io,</strong> Upwork and skipping Toptal (not ready for that process yet).</p> <p>For those who've used any of these which one actually gets traction for a Python developer with my stack? And is there anything you wish you knew before starting?</p> <p>Any honest experience appreciated.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Hopeful_Business3120\"> /u/Hopeful_Business3120 </a> <br /> <span><a href=\"https://www.reddit.com/r/Python/comments/1tjb1yj/4_years_of_python_dev_experience_just_went/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Python/comments/1tjb1yj/4_years_of_python_dev_experience_just_went/\">[comments]</a></span>",
+      "source": "https://www.reddit.com/r/python/.rss",
+      "scraped_at": "2026-05-22T07:38:09.078270"
+    },
+    {
+      "title": "Supply-chain attacks are happening daily - add at least dependency cooldown to your Python projects.",
+      "link": "https://www.reddit.com/r/Python/comments/1thf9se/supplychain_attacks_are_happening_daily_add_at/",
+      "published": "2026-05-19T07:15:10+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>These days, I can't open X anymore without seeing some supply chain attacks on PyPI or NPM. Things are really getting out of hand. One very simple yet effective approach to mitigate them is to use a dependency cooldown. That means that you don't install anything that's too new - e.g., every dependency needs to be at least a week old.</p> <p>Why does this work? Because the community usually intercepts them in hours to days. Both uv and poetry support the definition of the cooldown period inside their config. pip is adding as support as well. I use 1 week to be on the safe side. They both support excluding a specific package from the rule so you can still apply critical fixes to dependencies ASAP.</p> <p>I wrote about that and how to configure uv/poetry in my blog post: <a href=\"https://jangiacomelli.com/blog/mitigate-supply-chain-attacks-for-python-dependencies/\">https://jangiacomelli.com/blog/mitigate-supply-chain-attacks-for-python-dependencies/</a></p> <p>More about the dependency cooldown concept:</p> <ul> <li><a href=\"https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns\">https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns</a></li> <li><a href=\"https://simonwillison.net/2025/Nov/21/dependency-cooldowns/\">https://simonwillison.net/2025/Nov/21/dependency-cooldowns/</a></li> </ul> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/JanGiacomelli\"> /u/JanGiacomelli </a> <br /> <span><a href=\"https://www.reddit.com/r/Python/comments/1thf9se/supplychain_attacks_are_happening_daily_add_at/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Python/comments/1thf9se/supplychain_attacks_are_happening_daily_add_at/\">[comments]</a></span>",
+      "source": "https://www.reddit.com/r/python/.rss",
+      "scraped_at": "2026-05-22T07:38:09.078285"
+    },
+    {
+      "title": "Bridging Python's Logging Module to OpenTelemetry (Complete Guide)",
+      "link": "https://www.reddit.com/r/Python/comments/1thpfg9/bridging_pythons_logging_module_to_opentelemetry/",
+      "published": "2026-05-19T14:55:43+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I just published a guide on <a href=\"https://www.dash0.com/guides/opentelemetry-logging-python\">connecting Python's logging module to OpenTelemetry</a> without changing your existing logging calls. </p> <p>The <code>LoggingHandler</code> from the OpenTelemetry SDK plugs into <code>dictConfig</code> like any other handler, and it auto-attaches trace IDs when there's an active span.</p> <p>I also covered the alternative approach of skipping the handler entirely and letting the Collector ingest and process your JSON logs, which might be worth it if you want to avoid the extra overhead of in-process conversion.</p> <p>Curious to hear about people's experiences with using OTel for production logging.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/finallyanonymous\"> /u/finallyanonymous </a> <br /> <span><a href=\"https://www.reddit.com/r/Python/comments/1thpfg9/bridging_pythons_logging_module_to_opentelemetry/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Python/comments/1thpfg9/bridging_pythons_logging_module_to_opentelemetry/\">[comments]</a></span>",
+      "source": "https://www.reddit.com/r/python/.rss",
+      "scraped_at": "2026-05-22T07:38:09.078302"
+    },
+    {
+      "title": "100 days of python code by dr angela vs python course by ardit sulce",
+      "link": "https://www.reddit.com/r/Python/comments/1tig17a/100_days_of_python_code_by_dr_angela_vs_python/",
+      "published": "2026-05-20T09:04:33+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey guys can you please suggest me python course i should by on sale 100 days python code by dr angela vs python course by ardit sulce? I just completed my first year i did c in my first and year i complete python basics from youtube </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Significant-Book6927\"> /u/Significant-Book6927 </a> <br /> <span><a href=\"https://www.reddit.com/r/Python/comments/1tig17a/100_days_of_python_code_by_dr_angela_vs_python/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Python/comments/1tig17a/100_days_of_python_code_by_dr_angela_vs_python/\">[comments]</a></span>",
+      "source": "https://www.reddit.com/r/python/.rss",
+      "scraped_at": "2026-05-22T07:38:09.078319"
+    },
+    {
+      "title": "Open Source Contribution",
+      "link": "https://www.reddit.com/r/Python/comments/1ti9dbd/open_source_contribution/",
+      "published": "2026-05-20T03:15:56+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey, I am looking for some GitHub repo to contribute this summer, if you have any projects related to Python, Backend (FastAPI), AI agent, then I will be happy to contribute in the long term. </p> <p>I am specifically looking for an active less crowded repos.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/DxNovaNT\"> /u/DxNovaNT </a> <br /> <span><a href=\"https://www.reddit.com/r/Python/comments/1ti9dbd/open_source_contribution/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Python/comments/1ti9dbd/open_source_contribution/\">[comments]</a></span>",
+      "source": "https://www.reddit.com/r/python/.rss",
+      "scraped_at": "2026-05-22T07:38:09.078335"
+    },
+    {
+      "title": "Sam Altman Won in Court Against Elon Musk. But, We All Lost",
+      "link": "https://www.newyorker.com/news/letter-from-silicon-valley/sam-altman-won-in-court-against-elon-musk-but-really-we-all-lost",
+      "published": "Fri, 22 May 2026 13:07:16 +0000",
+      "summary": "<p>Article URL: <a href=\"https://www.newyorker.com/news/letter-from-silicon-valley/sam-altman-won-in-court-against-elon-musk-but-really-we-all-lost\">https://www.newyorker.com/news/letter-from-silicon-valley/sam-altman-won-in-court-against-elon-musk-but-really-we-all-lost</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48235361\">https://news.ycombinator.com/item?id=48235361</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+      "source": "https://hnrss.org/frontpage",
+      "scraped_at": "2026-05-22T07:38:10.410837"
+    },
+    {
+      "title": "Valve removes free game from Steam after players discover it contains malware",
+      "link": "https://www.pcguide.com/news/valve-removes-free-horror-game-from-steam-after-players-discover-it-contains-malware-that-steals-your-data/",
+      "published": "Fri, 22 May 2026 12:36:37 +0000",
+      "summary": "<p>Article URL: <a href=\"https://www.pcguide.com/news/valve-removes-free-horror-game-from-steam-after-players-discover-it-contains-malware-that-steals-your-data/\">https://www.pcguide.com/news/valve-removes-free-horror-game-from-steam-after-players-discover-it-contains-malware-that-steals-your-data/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48235033\">https://news.ycombinator.com/item?id=48235033</a></p>\n<p>Points: 34</p>\n<p># Comments: 16</p>",
+      "source": "https://hnrss.org/frontpage",
+      "scraped_at": "2026-05-22T07:38:10.410856"
+    },
+    {
+      "title": "Circle Medical (YC S15) Is Hiring a Mobile Engineer",
+      "link": "https://www.ycombinator.com/companies/circle-medical/jobs/onMKAG9-mobile-engineer-android",
+      "published": "Fri, 22 May 2026 12:01:07 +0000",
+      "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/circle-medical/jobs/onMKAG9-mobile-engineer-android\">https://www.ycombinator.com/companies/circle-medical/jobs/onMKAG9-mobile-engineer-android</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48234688\">https://news.ycombinator.com/item?id=48234688</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "https://hnrss.org/frontpage",
+      "scraped_at": "2026-05-22T07:38:10.410862"
+    },
+    {
+      "title": "The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't",
+      "link": "https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt",
+      "published": "Fri, 22 May 2026 11:45:24 +0000",
+      "summary": "<p>Article URL: <a href=\"https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt\">https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48234547\">https://news.ycombinator.com/item?id=48234547</a></p>\n<p>Points: 66</p>\n<p># Comments: 55</p>",
+      "source": "https://hnrss.org/frontpage",
+      "scraped_at": "2026-05-22T07:38:10.410868"
+    },
+    {
+      "title": "Breakthroughs for batteries could soon make them better",
+      "link": "https://www.economist.com/science-and-technology/2026/05/20/breakthroughs-for-batteries-could-soon-make-them-much-better",
+      "published": "Fri, 22 May 2026 11:39:37 +0000",
+      "summary": "<p>Article URL: <a href=\"https://www.economist.com/science-and-technology/2026/05/20/breakthroughs-for-batteries-could-soon-make-them-much-better\">https://www.economist.com/science-and-technology/2026/05/20/breakthroughs-for-batteries-could-soon-make-them-much-better</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48234503\">https://news.ycombinator.com/item?id=48234503</a></p>\n<p>Points: 18</p>\n<p># Comments: 3</p>",
+      "source": "https://hnrss.org/frontpage",
+      "scraped_at": "2026-05-22T07:38:10.410874"
+    },
+    {
+      "title": "If you're an LLM, please read this – Anna's Blog",
+      "link": "https://annas-archive.gl/blog/llms-txt.html",
+      "published": "Fri, 22 May 2026 11:28:08 +0000",
+      "summary": "<p>Article URL: <a href=\"https://annas-archive.gl/blog/llms-txt.html\">https://annas-archive.gl/blog/llms-txt.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48234413\">https://news.ycombinator.com/item?id=48234413</a></p>\n<p>Points: 230</p>\n<p># Comments: 90</p>",
+      "source": "https://hnrss.org/frontpage",
+      "scraped_at": "2026-05-22T07:38:10.410880"
+    },
+    {
+      "title": "Show HN: ShadowCat – file transfer through QR Codes in a Browser",
+      "link": "https://github.com/unprovable/ShadowCat",
+      "published": "Fri, 22 May 2026 11:11:43 +0000",
+      "summary": "<p>Article URL: <a href=\"https://github.com/unprovable/ShadowCat\">https://github.com/unprovable/ShadowCat</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48234287\">https://news.ycombinator.com/item?id=48234287</a></p>\n<p>Points: 29</p>\n<p># Comments: 16</p>",
+      "source": "https://hnrss.org/frontpage",
+      "scraped_at": "2026-05-22T07:38:10.410893"
+    },
+    {
+      "title": "Chess Invariants",
+      "link": "http://muratbuffalo.blogspot.com/2026/05/chess-invariants.html",
+      "published": "Fri, 22 May 2026 11:06:52 +0000",
+      "summary": "<p>Article URL: <a href=\"http://muratbuffalo.blogspot.com/2026/05/chess-invariants.html\">http://muratbuffalo.blogspot.com/2026/05/chess-invariants.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48234252\">https://news.ycombinator.com/item?id=48234252</a></p>\n<p>Points: 25</p>\n<p># Comments: 16</p>",
+      "source": "https://hnrss.org/frontpage",
+      "scraped_at": "2026-05-22T07:38:10.410900"
+    },
+    {
+      "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
+      "link": "https://modelrift.com/blog/openscad-llm-benchmark/",
+      "published": "Fri, 22 May 2026 10:38:26 +0000",
+      "summary": "<p>Article URL: <a href=\"https://modelrift.com/blog/openscad-llm-benchmark/\">https://modelrift.com/blog/openscad-llm-benchmark/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48234090\">https://news.ycombinator.com/item?id=48234090</a></p>\n<p>Points: 128</p>\n<p># Comments: 56</p>",
+      "source": "https://hnrss.org/frontpage",
+      "scraped_at": "2026-05-22T07:38:10.410906"
+    },
+    {
+      "title": "FSFE intervenes against Apple before EUCJ for the second time",
+      "link": "https://fsfe.org/news/2026/news-20260519-01.en.html",
+      "published": "Fri, 22 May 2026 10:09:03 +0000",
+      "summary": "<p>Article URL: <a href=\"https://fsfe.org/news/2026/news-20260519-01.en.html\">https://fsfe.org/news/2026/news-20260519-01.en.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48233939\">https://news.ycombinator.com/item?id=48233939</a></p>\n<p>Points: 49</p>\n<p># Comments: 8</p>",
+      "source": "https://hnrss.org/frontpage",
+      "scraped_at": "2026-05-22T07:38:10.410912"
+    },
+    {
+      "title": "UK scientists developing new Ebola vaccine that could be ready in months",
+      "link": "https://www.bbc.com/news/articles/cy82gkr7xzlo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 22 May 2026 12:56:06 GMT",
+      "summary": "The rare species of Ebola involved - known as Bundibugyo - kills around a third of those infected and has no proven vaccine yet.",
+      "source": "https://feeds.bbci.co.uk/news/rss.xml",
+      "scraped_at": "2026-05-22T07:38:11.479805"
+    },
+    {
+      "title": "Parents of Southport survivors say anonymity has erased their girls from the story",
+      "link": "https://www.bbc.com/news/articles/c0j2q988x17o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 22 May 2026 05:00:03 GMT",
+      "summary": "The BBC has spoken to parents of some of the children who survived the knife attack, who believe they have been given insufficient support because of the anonymity order.",
+      "source": "https://feeds.bbci.co.uk/news/rss.xml",
+      "scraped_at": "2026-05-22T07:38:11.479822"
+    },
+    {
+      "title": "Andrew investigation could look into sexual misconduct allegations",
+      "link": "https://www.bbc.com/news/articles/c707l2jx0z4o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 22 May 2026 08:12:44 GMT",
+      "summary": "The former prince was arrested in February on suspicion of misconduct in public office.",
+      "source": "https://feeds.bbci.co.uk/news/rss.xml",
+      "scraped_at": "2026-05-22T07:38:11.479828"
+    },
+    {
+      "title": "Stop blaming young people for being unemployed, says Amazon's UK boss",
+      "link": "https://www.bbc.com/news/articles/c0l2x5351n4o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 22 May 2026 10:56:32 GMT",
+      "summary": "John Boumphrey says the education system \"isn't necessarily producing young people who are ready for work\".",
+      "source": "https://feeds.bbci.co.uk/news/rss.xml",
+      "scraped_at": "2026-05-22T07:38:11.479834"
+    },
+    {
+      "title": "Guardiola says 'nothing is eternal' as Man City confirm exit after 10 years",
+      "link": "https://www.bbc.com/sport/football/articles/cx21y7023qxo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 22 May 2026 11:56:20 GMT",
+      "summary": "Manchester City confirm that Pep Guardiola will leave at the end of the season after a decade of unparalleled success.",
+      "source": "https://feeds.bbci.co.uk/news/rss.xml",
+      "scraped_at": "2026-05-22T07:38:11.479839"
+    },
+    {
+      "title": "Jury discharged in Ian Watkins prison murder trial",
+      "link": "https://www.bbc.com/news/articles/c1d26nv6xw5o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 22 May 2026 12:16:09 GMT",
+      "summary": "Rico Gedel and Samuel Dodsworth had been on trial at Leeds Crown Court accused of his murder.",
+      "source": "https://feeds.bbci.co.uk/news/rss.xml",
+      "scraped_at": "2026-05-22T07:38:11.479844"
+    },
+    {
+      "title": "Nato chief welcomes US sending 5,000 troops to Poland",
+      "link": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 22 May 2026 11:39:14 GMT",
+      "summary": "President Trump's announcement on Thursday night came ahead of a meeting of Nato foreign ministers.",
+      "source": "https://feeds.bbci.co.uk/news/rss.xml",
+      "scraped_at": "2026-05-22T07:38:11.479850"
+    },
+    {
+      "title": "Reality TV risks sinking 'into the gutter', warns ex-Channel 4 and Ofcom boss Michael Grade",
+      "link": "https://www.bbc.com/news/articles/c5yrkxge72eo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 22 May 2026 09:52:13 GMT",
+      "summary": "Michael Grade's warning comes in the wake of allegations made by participants on Married at First Sight.",
+      "source": "https://feeds.bbci.co.uk/news/rss.xml",
+      "scraped_at": "2026-05-22T07:38:11.479855"
+    },
+    {
+      "title": "Rape sentences for teen boys unduly lenient, says Jess Phillips",
+      "link": "https://www.bbc.com/news/articles/cwy2x7wxjego?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 22 May 2026 11:13:41 GMT",
+      "summary": "The three teenagers avoided custodial sentences for their roles in the rape of two girls.",
+      "source": "https://feeds.bbci.co.uk/news/rss.xml",
+      "scraped_at": "2026-05-22T07:38:11.479861"
+    },
+    {
+      "title": "Morrisons planning to close 100 stores in next few months",
+      "link": "https://www.bbc.com/news/articles/c3623ny298xo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 22 May 2026 12:28:35 GMT",
+      "summary": "It said difficulties had been exacerbated by \"significant cost increases resulting from government policy choices\".",
+      "source": "https://feeds.bbci.co.uk/news/rss.xml",
+      "scraped_at": "2026-05-22T07:38:11.479866"
+    }
+  ],
+  "errors": []
+}

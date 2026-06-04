@@ -1,0 +1,54 @@
+[
+  {
+    "consulta": "inteligencia artificial",
+    "booleano": {
+      "recuperados": 1,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "vectorial": {
+      "recuperados": 1,
+      "precision": 1.0,
+      "recall": 1.0
+    }
+  },
+  {
+    "consulta": "mercados economia",
+    "booleano": {
+      "recuperados": 0,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    "vectorial": {
+      "recuperados": 1,
+      "precision": 1.0,
+      "recall": 1.0
+    }
+  },
+  {
+    "consulta": "gobierno datos abiertos",
+    "booleano": {
+      "recuperados": 1,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "vectorial": {
+      "recuperados": 1,
+      "precision": 1.0,
+      "recall": 1.0
+    }
+  },
+  {
+    "consulta": "cientifico clima",
+    "booleano": {
+      "recuperados": 0,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    "vectorial": {
+      "recuperados": 1,
+      "precision": 1.0,
+      "recall": 1.0
+    }
+  }
+]

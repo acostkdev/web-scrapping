@@ -1,0 +1,214 @@
+{
+  "resumen": {
+    "total_mensajes": 12,
+    "participantes": 5,
+    "sentimiento_promedio": 0.3,
+    "tono": "positivo",
+    "positivos_pct": 75.0,
+    "negativos_pct": 25.0,
+    "hashtags_top": [
+      [
+        "AI",
+        2
+      ],
+      [
+        "coding",
+        1
+      ],
+      [
+        "AItools",
+        1
+      ],
+      [
+        "innovation",
+        1
+      ],
+      [
+        "AIethics",
+        1
+      ]
+    ],
+    "usuarios_activos": [
+      [
+        "@dev_laura",
+        3
+      ],
+      [
+        "@tech_mike",
+        3
+      ],
+      [
+        "@skeptic_joe",
+        2
+      ]
+    ]
+  },
+  "evolucion": [
+    {
+      "posicion": 1,
+      "sentimiento_puntual": 0.624,
+      "tendencia": 0.624
+    },
+    {
+      "posicion": 2,
+      "sentimiento_puntual": 0.361,
+      "tendencia": 0.493
+    },
+    {
+      "posicion": 3,
+      "sentimiento_puntual": -0.572,
+      "tendencia": 0.138
+    },
+    {
+      "posicion": 4,
+      "sentimiento_puntual": 0.238,
+      "tendencia": 0.009
+    },
+    {
+      "posicion": 5,
+      "sentimiento_puntual": 0.361,
+      "tendencia": 0.009
+    },
+    {
+      "posicion": 6,
+      "sentimiento_puntual": 0.88,
+      "tendencia": 0.493
+    },
+    {
+      "posicion": 7,
+      "sentimiento_puntual": -0.494,
+      "tendencia": 0.249
+    },
+    {
+      "posicion": 8,
+      "sentimiento_puntual": -0.361,
+      "tendencia": 0.008
+    },
+    {
+      "posicion": 9,
+      "sentimiento_puntual": 0.511,
+      "tendencia": -0.115
+    },
+    {
+      "posicion": 10,
+      "sentimiento_puntual": 0.624,
+      "tendencia": 0.258
+    },
+    {
+      "posicion": 11,
+      "sentimiento_puntual": 0.637,
+      "tendencia": 0.591
+    },
+    {
+      "posicion": 12,
+      "sentimiento_puntual": 0.79,
+      "tendencia": 0.684
+    }
+  ],
+  "subtemas": {
+    "0": {
+      "keywords": [
+        "ai",
+        "agree",
+        "responsible",
+        "coding",
+        "code"
+      ],
+      "n_mensajes": 6
+    },
+    "2": {
+      "keywords": [
+        "innovation",
+        "undeniable",
+        "progress",
+        "times",
+        "true"
+      ],
+      "n_mensajes": 3
+    },
+    "1": {
+      "keywords": [
+        "need",
+        "training",
+        "regulation",
+        "guidelines",
+        "urgently"
+      ],
+      "n_mensajes": 3
+    }
+  },
+  "mensajes": [
+    {
+      "usuario": "@dev_laura",
+      "texto": "Just tried the new AI coding assistant and it's amazing! #AI #coding",
+      "timestamp": "10:00",
+      "sentimiento": 0.6239
+    },
+    {
+      "usuario": "@tech_mike",
+      "texto": "I agree, the code suggestions are incredibly accurate #AI",
+      "timestamp": "10:05",
+      "sentimiento": 0.3612
+    },
+    {
+      "usuario": "@skeptic_joe",
+      "texto": "But what about job displacement? This AI thing worries me a lot",
+      "timestamp": "10:08",
+      "sentimiento": -0.5719
+    },
+    {
+      "usuario": "@dev_laura",
+      "texto": "Good point Joe, but I think it's a tool not a replacement #AItools",
+      "timestamp": "10:12",
+      "sentimiento": 0.2382
+    },
+    {
+      "usuario": "@data_sara",
+      "texto": "The real concern is bias in training data, we need better datasets",
+      "timestamp": "10:15",
+      "sentimiento": 0.3612
+    },
+    {
+      "usuario": "@tech_mike",
+      "texto": "True, but the progress is undeniable. Exciting times! #innovation",
+      "timestamp": "10:20",
+      "sentimiento": 0.8805
+    },
+    {
+      "usuario": "@skeptic_joe",
+      "texto": "I lost my freelance gig because of AI. This is terrible for workers",
+      "timestamp": "10:25",
+      "sentimiento": -0.4939
+    },
+    {
+      "usuario": "@prof_chen",
+      "texto": "Research shows AI creates more jobs than it destroys historically",
+      "timestamp": "10:30",
+      "sentimiento": -0.3612
+    },
+    {
+      "usuario": "@data_sara",
+      "texto": "We need regulation and ethical guidelines urgently #AIethics",
+      "timestamp": "10:35",
+      "sentimiento": 0.5106
+    },
+    {
+      "usuario": "@dev_laura",
+      "texto": "Totally agree with Sara. Responsible AI development is key #responsible",
+      "timestamp": "10:40",
+      "sentimiento": 0.624
+    },
+    {
+      "usuario": "@tech_mike",
+      "texto": "Companies investing in AI training for employees is the best approach",
+      "timestamp": "10:45",
+      "sentimiento": 0.6369
+    },
+    {
+      "usuario": "@prof_chen",
+      "texto": "Great discussion everyone! The future needs both innovation and responsibility",
+      "timestamp": "10:50",
+      "sentimiento": 0.7901
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "resultados": {
+    "Naive Bayes": {
+      "accuracy_mean": 0.2444,
+      "accuracy_std": 0.0629,
+      "scores": [
+        0.3333,
+        0.2,
+        0.2
+      ]
+    },
+    "SVM Lineal": {
+      "accuracy_mean": 0.1889,
+      "accuracy_std": 0.0157,
+      "scores": [
+        0.1667,
+        0.2,
+        0.2
+      ]
+    },
+    "Logistic Regression": {
+      "accuracy_mean": 0.1889,
+      "accuracy_std": 0.0157,
+      "scores": [
+        0.1667,
+        0.2,
+        0.2
+      ]
+    },
+    "Random Forest": {
+      "accuracy_mean": 0.1889,
+      "accuracy_std": 0.0157,
+      "scores": [
+        0.1667,
+        0.2,
+        0.2
+      ]
+    }
+  },
+  "mejor_modelo": "Naive Bayes"
+}

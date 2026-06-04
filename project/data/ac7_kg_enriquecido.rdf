@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:wdt="http://www.wikidata.org/prop/direct/"
+>
+  <rdf:Description rdf:about="http://simanw.org/data/categoria_tecnologia">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:label xml:lang="es">categoria_tecnologia</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q11016"/>
+    <skos:exactMatch rdf:resource="http://www.wikidata.org/entity/Q11016"/>
+    <wdt:P279>Sector economico terciario</wdt:P279>
+    <wdt:P910>Categoria: Tecnologia de la informacion</wdt:P910>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q11016">
+    <rdfs:label xml:lang="es">Tecnologia de la informacion</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://simanw.org/data/categoria_salud">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:label xml:lang="es">categoria_salud</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q159121"/>
+    <skos:exactMatch rdf:resource="http://www.wikidata.org/entity/Q159121"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://simanw.org/data/categoria_ciencia">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:label xml:lang="es">categoria_ciencia</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q336"/>
+    <skos:exactMatch rdf:resource="http://www.wikidata.org/entity/Q336"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://simanw.org/data/categoria_politica">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:label xml:lang="es">categoria_politica</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q7188"/>
+    <skos:exactMatch rdf:resource="http://www.wikidata.org/entity/Q7188"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q7188">
+    <rdfs:label xml:lang="es">Gobierno</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://simanw.org/data/categoria_economia">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:label xml:lang="es">categoria_economia</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q159810"/>
+    <skos:exactMatch rdf:resource="http://www.wikidata.org/entity/Q159810"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q159810">
+    <rdfs:label xml:lang="es">Economia</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q159121">
+    <rdfs:label xml:lang="es">Salud</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q336">
+    <rdfs:label xml:lang="es">Ciencia</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

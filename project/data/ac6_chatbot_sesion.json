@@ -1,0 +1,43 @@
+{
+  "conversacion": [
+    "Que noticias hay de tecnologia?",
+    "Cuentame mas sobre eso",
+    "Hay algo sobre inteligencia artificial?",
+    "Y algo de economia?",
+    "Dame otra noticia similar a la anterior"
+  ],
+  "estadisticas": {
+    "interacciones": 5,
+    "temas_interes": {
+      "tecnologia": 4
+    },
+    "tipos_respuesta": {
+      "directa": 1,
+      "contextual": 2,
+      "personalizada": 1,
+      "fallback": 1
+    }
+  },
+  "historial": [
+    {
+      "pregunta": "Que noticias hay de tecnologia?",
+      "tipo": "directa"
+    },
+    {
+      "pregunta": "Cuentame mas sobre eso",
+      "tipo": "contextual"
+    },
+    {
+      "pregunta": "Hay algo sobre inteligencia artificial?",
+      "tipo": "personalizada"
+    },
+    {
+      "pregunta": "Y algo de economia?",
+      "tipo": "fallback"
+    },
+    {
+      "pregunta": "Dame otra noticia similar a la anterior",
+      "tipo": "contextual"
+    }
+  ]
+}

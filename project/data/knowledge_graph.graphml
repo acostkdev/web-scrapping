@@ -1,0 +1,6274 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d0" for="node" attr.name="weight" attr.type="long"/>
+<graph edgedefault="undirected"><node id="Chihuahua">
+  <data key="d0">1</data>
+</node>
+<node id="Sierra Tarahumara">
+  <data key="d0">1</data>
+</node>
+<node id="Washington">
+  <data key="d0">1</data>
+</node>
+<node id="Estados Unidos">
+  <data key="d0">2</data>
+</node>
+<node id="Maru Campos">
+  <data key="d0">1</data>
+</node>
+<node id="Alto Tribunal">
+  <data key="d0">1</data>
+</node>
+<node id="Sheinbaum">
+  <data key="d0">3</data>
+</node>
+<node id="Pleno">
+  <data key="d0">1</data>
+</node>
+<node id="Suprema Corte La">
+  <data key="d0">1</data>
+</node>
+<node id="Cuatro">
+  <data key="d0">1</data>
+</node>
+<node id="Tribunal Electoral">
+  <data key="d0">1</data>
+</node>
+<node id="Sala Superior">
+  <data key="d0">1</data>
+</node>
+<node id="Trump">
+  <data key="d0">1</data>
+</node>
+<node id="Seguridad Interior">
+  <data key="d0">1</data>
+</node>
+<node id="Trump La">
+  <data key="d0">1</data>
+</node>
+<node id="Gobierno">
+  <data key="d0">2</data>
+</node>
+<node id="Sinaloa">
+  <data key="d0">1</data>
+</node>
+<node id="Markwayne Mullin">
+  <data key="d0">1</data>
+</node>
+<node id="México">
+  <data key="d0">2</data>
+</node>
+<node id="Contra">
+  <data key="d0">2</data>
+</node>
+<node id="Trump Los">
+  <data key="d0">1</data>
+</node>
+<node id="Cuba">
+  <data key="d0">2</data>
+</node>
+<node id="Gráficos">
+  <data key="d0">1</data>
+</node>
+<node id="Caracas">
+  <data key="d0">1</data>
+</node>
+<node id="Copa">
+  <data key="d0">1</data>
+</node>
+<node id="Puebla">
+  <data key="d0">1</data>
+</node>
+<node id="Mundo">
+  <data key="d0">1</data>
+</node>
+<node id="Mundial Más">
+  <data key="d0">1</data>
+</node>
+<node id="Sierra Norte">
+  <data key="d0">1</data>
+</node>
+<node id="Cruz Azul">
+  <data key="d0">1</data>
+</node>
+<node id="Estadio Olímpico Universitario">
+  <data key="d0">1</data>
+</node>
+<node id="Liga">
+  <data key="d0">1</data>
+</node>
+<node id="Keylor Navas">
+  <data key="d0">1</data>
+</node>
+<node id="Los Pumas">
+  <data key="d0">1</data>
+</node>
+<node id="Mundial">
+  <data key="d0">1</data>
+</node>
+<node id="Unidad">
+  <data key="d0">1</data>
+</node>
+<node id="Copa Fut">
+  <data key="d0">1</data>
+</node>
+<node id="Chicatanas">
+  <data key="d0">1</data>
+</node>
+<node id="Azcapotzalco">
+  <data key="d0">1</data>
+</node>
+<node id="Working">
+  <data key="d0">1</data>
+</node>
+<node id="Automated">
+  <data key="d0">1</data>
+</node>
+<node id="Feel">
+  <data key="d0">1</data>
+</node>
+<node id="Tell">
+  <data key="d0">1</data>
+</node>
+<node id="Share">
+  <data key="d0">3</data>
+</node>
+<node id="Your">
+  <data key="d0">1</data>
+</node>
+<node id="Built">
+  <data key="d0">1</data>
+</node>
+<node id="Just">
+  <data key="d0">1</data>
+</node>
+<node id="What">
+  <data key="d0">3</data>
+</node>
+<node id="Everyone Working On This">
+  <data key="d0">1</data>
+</node>
+<node id="Guidelines">
+  <data key="d0">3</data>
+</node>
+<node id="Works">
+  <data key="d0">3</data>
+</node>
+<node id="Show">
+  <data key="d0">2</data>
+</node>
+<node id="Hello">
+  <data key="d0">1</data>
+</node>
+<node id="Auto">
+  <data key="d0">3</data>
+</node>
+<node id="Discuss">
+  <data key="d0">3</data>
+</node>
+<node id="Machine Learning Model">
+  <data key="d0">1</data>
+</node>
+<node id="Moderator">
+  <data key="d0">3</data>
+</node>
+<node id="Sunday Daily Thread">
+  <data key="d0">1</data>
+</node>
+<node id="Raspberry Pi">
+  <data key="d0">1</data>
+</node>
+<node id="Happy">
+  <data key="d0">3</data>
+</node>
+<node id="Inspire">
+  <data key="d0">1</data>
+</node>
+<node id="Code">
+  <data key="d0">2</data>
+</node>
+<node id="Week">
+  <data key="d0">1</data>
+</node>
+<node id="Python">
+  <data key="d0">10</data>
+</node>
+<node id="Weekly Thread">
+  <data key="d0">3</data>
+</node>
+<node id="Whether">
+  <data key="d0">1</data>
+</node>
+<node id="Web Scraping">
+  <data key="d0">1</data>
+</node>
+<node id="Example Shares">
+  <data key="d0">1</data>
+</node>
+<node id="Automation">
+  <data key="d0">1</data>
+</node>
+<node id="Learning Resources">
+  <data key="d0">1</data>
+</node>
+<node id="Keep">
+  <data key="d0">2</data>
+</node>
+<node id="Community Ideas">
+  <data key="d0">1</data>
+</node>
+<node id="Any Python">
+  <data key="d0">1</data>
+</node>
+<node id="Welcome">
+  <data key="d0">2</data>
+</node>
+<node id="Friday Daily Thread">
+  <data key="d0">1</data>
+</node>
+<node id="Conduct">
+  <data key="d0">1</data>
+</node>
+<node id="Updates">
+  <data key="d0">1</data>
+</node>
+<node id="Talk Fridays">
+  <data key="d0">1</data>
+</node>
+<node id="News">
+  <data key="d0">1</data>
+</node>
+<node id="Reddit">
+  <data key="d0">2</data>
+</node>
+<node id="Job Market">
+  <data key="d0">1</data>
+</node>
+<node id="Found">
+  <data key="d0">1</data>
+</node>
+<node id="Python Meta">
+  <data key="d0">1</data>
+</node>
+<node id="Free">
+  <data key="d0">1</data>
+</node>
+<node id="Community Pulse">
+  <data key="d0">1</data>
+</node>
+<node id="This">
+  <data key="d0">2</data>
+</node>
+<node id="Free Talk Friday">
+  <data key="d0">1</data>
+</node>
+<node id="Something">
+  <data key="d0">1</data>
+</node>
+<node id="Example Topics">
+  <data key="d0">2</data>
+</node>
+<node id="New Python Release">
+  <data key="d0">1</data>
+</node>
+<node id="Open Mic">
+  <data key="d0">1</data>
+</node>
+<node id="Hot Takes">
+  <data key="d0">1</data>
+</node>
+<node id="Community Events">
+  <data key="d0">1</data>
+</node>
+<node id="Meta Discussions">
+  <data key="d0">1</data>
+</node>
+<node id="With Open">
+  <data key="d0">1</data>
+</node>
+<node id="Endowed">
+  <data key="d0">1</data>
+</node>
+<node id="About">
+  <data key="d0">1</data>
+</node>
+<node id="Sorry">
+  <data key="d0">1</data>
+</node>
+<node id="Well">
+  <data key="d0">1</data>
+</node>
+<node id="Should">
+  <data key="d0">1</data>
+</node>
+<node id="Open">
+  <data key="d0">3</data>
+</node>
+<node id="Wizard">
+  <data key="d0">1</data>
+</node>
+<node id="Astral">
+  <data key="d0">1</data>
+</node>
+<node id="Will">
+  <data key="d0">1</data>
+</node>
+<node id="Mediocre">
+  <data key="d0">1</data>
+</node>
+<node id="Scallion">
+  <data key="d0">1</data>
+</node>
+<node id="Chicago">
+  <data key="d0">1</data>
+</node>
+<node id="Django">
+  <data key="d0">2</data>
+</node>
+<node id="August">
+  <data key="d0">1</data>
+</node>
+<node id="Early">
+  <data key="d0">1</data>
+</node>
+<node id="Python Careers">
+  <data key="d0">1</data>
+</node>
+<node id="Interview Tips">
+  <data key="d0">1</data>
+</node>
+<node id="Career Talk">
+  <data key="d0">1</data>
+</node>
+<node id="Certifications">
+  <data key="d0">1</data>
+</node>
+<node id="Career Paths">
+  <data key="d0">1</data>
+</node>
+<node id="Courses">
+  <data key="d0">1</data>
+</node>
+<node id="Please">
+  <data key="d0">1</data>
+</node>
+<node id="Workplace Tools">
+  <data key="d0">1</data>
+</node>
+<node id="What Python">
+  <data key="d0">1</data>
+</node>
+<node id="Thursday Daily Thread">
+  <data key="d0">1</data>
+</node>
+<node id="Course Recommendations">
+  <data key="d0">1</data>
+</node>
+<node id="Education">
+  <data key="d0">1</data>
+</node>
+<node id="Jobs">
+  <data key="d0">1</data>
+</node>
+<node id="Are Python">
+  <data key="d0">1</data>
+</node>
+<node id="Professional Use">
+  <data key="d0">1</data>
+</node>
+<node id="Furthering Education">
+  <data key="d0">1</data>
+</node>
+<node id="Workplace Chat">
+  <data key="d0">1</data>
+</node>
+<node id="Business">
+  <data key="d0">1</data>
+</node>
+<node id="Hopeful">
+  <data key="d0">1</data>
+</node>
+<node id="Linked">
+  <data key="d0">1</data>
+</node>
+<node id="Real">
+  <data key="d0">1</data>
+</node>
+<node id="Toptal">
+  <data key="d0">1</data>
+</node>
+<node id="Fast">
+  <data key="d0">2</data>
+</node>
+<node id="Upwork">
+  <data key="d0">1</data>
+</node>
+<node id="Next">
+  <data key="d0">1</data>
+</node>
+<node id="Supply">
+  <data key="d0">1</data>
+</node>
+<node id="They">
+  <data key="d0">1</data>
+</node>
+<node id="More">
+  <data key="d0">1</data>
+</node>
+<node id="Because">
+  <data key="d0">1</data>
+</node>
+<node id="Giacomelli">
+  <data key="d0">1</data>
+</node>
+<node id="Both">
+  <data key="d0">1</data>
+</node>
+<node id="That">
+  <data key="d0">1</data>
+</node>
+<node id="These">
+  <data key="d0">1</data>
+</node>
+<node id="Things">
+  <data key="d0">1</data>
+</node>
+<node id="Curious">
+  <data key="d0">1</data>
+</node>
+<node id="Config">
+  <data key="d0">1</data>
+</node>
+<node id="Telemetry">
+  <data key="d0">1</data>
+</node>
+<node id="Logging">
+  <data key="d0">1</data>
+</node>
+<node id="Bridging Python">
+  <data key="d0">1</data>
+</node>
+<node id="Handler">
+  <data key="d0">1</data>
+</node>
+<node id="Complete Guide">
+  <data key="d0">1</data>
+</node>
+<node id="Collector">
+  <data key="d0">1</data>
+</node>
+<node id="Logging Module">
+  <data key="d0">1</data>
+</node>
+<node id="Significant">
+  <data key="d0">1</data>
+</node>
+<node id="Book">
+  <data key="d0">1</data>
+</node>
+<node id="Nova">
+  <data key="d0">1</data>
+</node>
+<node id="Backend">
+  <data key="d0">1</data>
+</node>
+<node id="Open Source Contribution">
+  <data key="d0">1</data>
+</node>
+<node id="We All Lost">
+  <data key="d0">1</data>
+</node>
+<node id="Points">
+  <data key="d0">10</data>
+</node>
+<node id="Comments">
+  <data key="d0">10</data>
+</node>
+<node id="Article">
+  <data key="d0">10</data>
+</node>
+<node id="Court Against Elon Musk">
+  <data key="d0">1</data>
+</node>
+<node id="Sam Altman Won">
+  <data key="d0">1</data>
+</node>
+<node id="Steam">
+  <data key="d0">1</data>
+</node>
+<node id="Valve">
+  <data key="d0">1</data>
+</node>
+<node id="Circle Medical">
+  <data key="d0">1</data>
+</node>
+<node id="Mobile Engineer">
+  <data key="d0">1</data>
+</node>
+<node id="Is Hiring">
+  <data key="d0">1</data>
+</node>
+<node id="Ones Who Didn">
+  <data key="d0">1</data>
+</node>
+<node id="Will Lose">
+  <data key="d0">1</data>
+</node>
+<node id="The Companies Cutting Headcount">
+  <data key="d0">1</data>
+</node>
+<node id="Breakthroughs">
+  <data key="d0">1</data>
+</node>
+<node id="Blog">
+  <data key="d0">1</data>
+</node>
+<node id="Anna">
+  <data key="d0">1</data>
+</node>
+<node id="Shadow">
+  <data key="d0">1</data>
+</node>
+<node id="Browser">
+  <data key="d0">1</data>
+</node>
+<node id="Codes">
+  <data key="d0">1</data>
+</node>
+<node id="Chess Invariants">
+  <data key="d0">1</data>
+</node>
+<node id="Benchmark">
+  <data key="d0">1</data>
+</node>
+<node id="Tops">
+  <data key="d0">1</data>
+</node>
+<node id="Architectural">
+  <data key="d0">1</data>
+</node>
+<node id="Antigravity">
+  <data key="d0">1</data>
+</node>
+<node id="Apple">
+  <data key="d0">1</data>
+</node>
+<node id="Ebola">
+  <data key="d0">1</data>
+</node>
+<node id="Bundibugyo">
+  <data key="d0">1</data>
+</node>
+<node id="Parents">
+  <data key="d0">1</data>
+</node>
+<node id="Southport">
+  <data key="d0">1</data>
+</node>
+<node id="February">
+  <data key="d0">1</data>
+</node>
+<node id="Andrew">
+  <data key="d0">1</data>
+</node>
+<node id="Amazon">
+  <data key="d0">1</data>
+</node>
+<node id="Stop">
+  <data key="d0">1</data>
+</node>
+<node id="John Boumphrey">
+  <data key="d0">1</data>
+</node>
+<node id="Guardiola">
+  <data key="d0">1</data>
+</node>
+<node id="Pep Guardiola">
+  <data key="d0">1</data>
+</node>
+<node id="Man City">
+  <data key="d0">1</data>
+</node>
+<node id="Manchester City">
+  <data key="d0">1</data>
+</node>
+<node id="Samuel Dodsworth">
+  <data key="d0">1</data>
+</node>
+<node id="Rico Gedel">
+  <data key="d0">1</data>
+</node>
+<node id="Jury">
+  <data key="d0">1</data>
+</node>
+<node id="Ian Watkins">
+  <data key="d0">1</data>
+</node>
+<node id="Leeds Crown Court">
+  <data key="d0">1</data>
+</node>
+<node id="Thursday">
+  <data key="d0">1</data>
+</node>
+<node id="Poland President Trump">
+  <data key="d0">1</data>
+</node>
+<node id="Nato">
+  <data key="d0">1</data>
+</node>
+<node id="Ofcom">
+  <data key="d0">1</data>
+</node>
+<node id="Channel">
+  <data key="d0">1</data>
+</node>
+<node id="Married">
+  <data key="d0">1</data>
+</node>
+<node id="Michael Grade Michael Grade">
+  <data key="d0">1</data>
+</node>
+<node id="First Sight">
+  <data key="d0">1</data>
+</node>
+<node id="Reality">
+  <data key="d0">1</data>
+</node>
+<node id="Jess Phillips The">
+  <data key="d0">1</data>
+</node>
+<node id="Rape">
+  <data key="d0">1</data>
+</node>
+<node id="Morrisons">
+  <data key="d0">1</data>
+</node>
+<edge source="Chihuahua" target="Sierra Tarahumara">
+  <data key="d1">1</data>
+</edge>
+<edge source="Chihuahua" target="Washington">
+  <data key="d1">1</data>
+</edge>
+<edge source="Chihuahua" target="Estados Unidos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Chihuahua" target="Maru Campos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Sierra Tarahumara" target="Washington">
+  <data key="d1">1</data>
+</edge>
+<edge source="Sierra Tarahumara" target="Estados Unidos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Sierra Tarahumara" target="Maru Campos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Washington" target="Estados Unidos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Washington" target="Maru Campos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Estados Unidos" target="Maru Campos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Estados Unidos" target="Trump">
+  <data key="d1">1</data>
+</edge>
+<edge source="Estados Unidos" target="Sheinbaum">
+  <data key="d1">1</data>
+</edge>
+<edge source="Estados Unidos" target="Seguridad Interior">
+  <data key="d1">1</data>
+</edge>
+<edge source="Estados Unidos" target="Trump La">
+  <data key="d1">1</data>
+</edge>
+<edge source="Estados Unidos" target="Gobierno">
+  <data key="d1">1</data>
+</edge>
+<edge source="Estados Unidos" target="Sinaloa">
+  <data key="d1">1</data>
+</edge>
+<edge source="Estados Unidos" target="Markwayne Mullin">
+  <data key="d1">1</data>
+</edge>
+<edge source="Alto Tribunal" target="Sheinbaum">
+  <data key="d1">1</data>
+</edge>
+<edge source="Alto Tribunal" target="Pleno">
+  <data key="d1">1</data>
+</edge>
+<edge source="Alto Tribunal" target="Suprema Corte La">
+  <data key="d1">1</data>
+</edge>
+<edge source="Sheinbaum" target="Pleno">
+  <data key="d1">1</data>
+</edge>
+<edge source="Sheinbaum" target="Suprema Corte La">
+  <data key="d1">1</data>
+</edge>
+<edge source="Sheinbaum" target="Cuatro">
+  <data key="d1">1</data>
+</edge>
+<edge source="Sheinbaum" target="Tribunal Electoral">
+  <data key="d1">1</data>
+</edge>
+<edge source="Sheinbaum" target="Sala Superior">
+  <data key="d1">1</data>
+</edge>
+<edge source="Sheinbaum" target="Trump">
+  <data key="d1">1</data>
+</edge>
+<edge source="Sheinbaum" target="Seguridad Interior">
+  <data key="d1">1</data>
+</edge>
+<edge source="Sheinbaum" target="Trump La">
+  <data key="d1">1</data>
+</edge>
+<edge source="Sheinbaum" target="Gobierno">
+  <data key="d1">1</data>
+</edge>
+<edge source="Sheinbaum" target="Sinaloa">
+  <data key="d1">1</data>
+</edge>
+<edge source="Sheinbaum" target="Markwayne Mullin">
+  <data key="d1">1</data>
+</edge>
+<edge source="Pleno" target="Suprema Corte La">
+  <data key="d1">1</data>
+</edge>
+<edge source="Cuatro" target="Tribunal Electoral">
+  <data key="d1">1</data>
+</edge>
+<edge source="Cuatro" target="Sala Superior">
+  <data key="d1">1</data>
+</edge>
+<edge source="Tribunal Electoral" target="Sala Superior">
+  <data key="d1">1</data>
+</edge>
+<edge source="Trump" target="Seguridad Interior">
+  <data key="d1">1</data>
+</edge>
+<edge source="Trump" target="Trump La">
+  <data key="d1">1</data>
+</edge>
+<edge source="Trump" target="Gobierno">
+  <data key="d1">1</data>
+</edge>
+<edge source="Trump" target="Sinaloa">
+  <data key="d1">1</data>
+</edge>
+<edge source="Trump" target="Markwayne Mullin">
+  <data key="d1">1</data>
+</edge>
+<edge source="Seguridad Interior" target="Trump La">
+  <data key="d1">1</data>
+</edge>
+<edge source="Seguridad Interior" target="Gobierno">
+  <data key="d1">1</data>
+</edge>
+<edge source="Seguridad Interior" target="Sinaloa">
+  <data key="d1">1</data>
+</edge>
+<edge source="Seguridad Interior" target="Markwayne Mullin">
+  <data key="d1">1</data>
+</edge>
+<edge source="Trump La" target="Gobierno">
+  <data key="d1">1</data>
+</edge>
+<edge source="Trump La" target="Sinaloa">
+  <data key="d1">1</data>
+</edge>
+<edge source="Trump La" target="Markwayne Mullin">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gobierno" target="Sinaloa">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gobierno" target="Markwayne Mullin">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gobierno" target="Mundial">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gobierno" target="Unidad">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gobierno" target="Copa Fut">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gobierno" target="Chicatanas">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gobierno" target="Azcapotzalco">
+  <data key="d1">1</data>
+</edge>
+<edge source="Sinaloa" target="Markwayne Mullin">
+  <data key="d1">1</data>
+</edge>
+<edge source="México" target="Contra">
+  <data key="d1">1</data>
+</edge>
+<edge source="México" target="Copa">
+  <data key="d1">1</data>
+</edge>
+<edge source="México" target="Puebla">
+  <data key="d1">1</data>
+</edge>
+<edge source="México" target="Mundo">
+  <data key="d1">1</data>
+</edge>
+<edge source="México" target="Mundial Más">
+  <data key="d1">1</data>
+</edge>
+<edge source="México" target="Sierra Norte">
+  <data key="d1">1</data>
+</edge>
+<edge source="Contra" target="Business">
+  <data key="d1">1</data>
+</edge>
+<edge source="Contra" target="Hopeful">
+  <data key="d1">1</data>
+</edge>
+<edge source="Contra" target="Linked">
+  <data key="d1">1</data>
+</edge>
+<edge source="Contra" target="Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Contra" target="Real">
+  <data key="d1">1</data>
+</edge>
+<edge source="Contra" target="Toptal">
+  <data key="d1">1</data>
+</edge>
+<edge source="Contra" target="Fast">
+  <data key="d1">1</data>
+</edge>
+<edge source="Contra" target="Upwork">
+  <data key="d1">1</data>
+</edge>
+<edge source="Contra" target="Next">
+  <data key="d1">1</data>
+</edge>
+<edge source="Contra" target="Django">
+  <data key="d1">1</data>
+</edge>
+<edge source="Trump Los" target="Cuba">
+  <data key="d1">1</data>
+</edge>
+<edge source="Trump Los" target="Gráficos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Cuba" target="Gráficos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Cuba" target="Caracas">
+  <data key="d1">1</data>
+</edge>
+<edge source="Copa" target="Puebla">
+  <data key="d1">1</data>
+</edge>
+<edge source="Copa" target="Mundo">
+  <data key="d1">1</data>
+</edge>
+<edge source="Copa" target="Mundial Más">
+  <data key="d1">1</data>
+</edge>
+<edge source="Copa" target="Sierra Norte">
+  <data key="d1">1</data>
+</edge>
+<edge source="Puebla" target="Mundo">
+  <data key="d1">1</data>
+</edge>
+<edge source="Puebla" target="Mundial Más">
+  <data key="d1">1</data>
+</edge>
+<edge source="Puebla" target="Sierra Norte">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mundo" target="Mundial Más">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mundo" target="Sierra Norte">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mundial Más" target="Sierra Norte">
+  <data key="d1">1</data>
+</edge>
+<edge source="Cruz Azul" target="Estadio Olímpico Universitario">
+  <data key="d1">1</data>
+</edge>
+<edge source="Cruz Azul" target="Liga">
+  <data key="d1">1</data>
+</edge>
+<edge source="Cruz Azul" target="Keylor Navas">
+  <data key="d1">1</data>
+</edge>
+<edge source="Cruz Azul" target="Los Pumas">
+  <data key="d1">1</data>
+</edge>
+<edge source="Estadio Olímpico Universitario" target="Liga">
+  <data key="d1">1</data>
+</edge>
+<edge source="Estadio Olímpico Universitario" target="Keylor Navas">
+  <data key="d1">1</data>
+</edge>
+<edge source="Estadio Olímpico Universitario" target="Los Pumas">
+  <data key="d1">1</data>
+</edge>
+<edge source="Liga" target="Keylor Navas">
+  <data key="d1">1</data>
+</edge>
+<edge source="Liga" target="Los Pumas">
+  <data key="d1">1</data>
+</edge>
+<edge source="Keylor Navas" target="Los Pumas">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mundial" target="Unidad">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mundial" target="Copa Fut">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mundial" target="Chicatanas">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mundial" target="Azcapotzalco">
+  <data key="d1">1</data>
+</edge>
+<edge source="Unidad" target="Copa Fut">
+  <data key="d1">1</data>
+</edge>
+<edge source="Unidad" target="Chicatanas">
+  <data key="d1">1</data>
+</edge>
+<edge source="Unidad" target="Azcapotzalco">
+  <data key="d1">1</data>
+</edge>
+<edge source="Copa Fut" target="Chicatanas">
+  <data key="d1">1</data>
+</edge>
+<edge source="Copa Fut" target="Azcapotzalco">
+  <data key="d1">1</data>
+</edge>
+<edge source="Chicatanas" target="Azcapotzalco">
+  <data key="d1">1</data>
+</edge>
+<edge source="Working" target="Automated">
+  <data key="d1">1</data>
+</edge>
+<edge source="Working" target="Feel">
+  <data key="d1">1</data>
+</edge>
+<edge source="Working" target="Tell">
+  <data key="d1">1</data>
+</edge>
+<edge source="Working" target="Share">
+  <data key="d1">1</data>
+</edge>
+<edge source="Working" target="Your">
+  <data key="d1">1</data>
+</edge>
+<edge source="Working" target="Built">
+  <data key="d1">1</data>
+</edge>
+<edge source="Working" target="Just">
+  <data key="d1">1</data>
+</edge>
+<edge source="Working" target="What">
+  <data key="d1">1</data>
+</edge>
+<edge source="Working" target="Everyone Working On This">
+  <data key="d1">1</data>
+</edge>
+<edge source="Working" target="Guidelines">
+  <data key="d1">1</data>
+</edge>
+<edge source="Working" target="Works">
+  <data key="d1">1</data>
+</edge>
+<edge source="Working" target="Show">
+  <data key="d1">1</data>
+</edge>
+<edge source="Working" target="Hello">
+  <data key="d1">1</data>
+</edge>
+<edge source="Working" target="Auto">
+  <data key="d1">1</data>
+</edge>
+<edge source="Working" target="Discuss">
+  <data key="d1">1</data>
+</edge>
+<edge source="Working" target="Machine Learning Model">
+  <data key="d1">1</data>
+</edge>
+<edge source="Working" target="Moderator">
+  <data key="d1">1</data>
+</edge>
+<edge source="Working" target="Sunday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Working" target="Raspberry Pi">
+  <data key="d1">1</data>
+</edge>
+<edge source="Working" target="Happy">
+  <data key="d1">1</data>
+</edge>
+<edge source="Working" target="Inspire">
+  <data key="d1">1</data>
+</edge>
+<edge source="Working" target="Code">
+  <data key="d1">1</data>
+</edge>
+<edge source="Working" target="Week">
+  <data key="d1">1</data>
+</edge>
+<edge source="Working" target="Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Working" target="Weekly Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Working" target="Whether">
+  <data key="d1">1</data>
+</edge>
+<edge source="Working" target="Web Scraping">
+  <data key="d1">1</data>
+</edge>
+<edge source="Working" target="Example Shares">
+  <data key="d1">1</data>
+</edge>
+<edge source="Working" target="Automation">
+  <data key="d1">1</data>
+</edge>
+<edge source="Automated" target="Feel">
+  <data key="d1">1</data>
+</edge>
+<edge source="Automated" target="Tell">
+  <data key="d1">1</data>
+</edge>
+<edge source="Automated" target="Share">
+  <data key="d1">1</data>
+</edge>
+<edge source="Automated" target="Your">
+  <data key="d1">1</data>
+</edge>
+<edge source="Automated" target="Built">
+  <data key="d1">1</data>
+</edge>
+<edge source="Automated" target="Just">
+  <data key="d1">1</data>
+</edge>
+<edge source="Automated" target="What">
+  <data key="d1">1</data>
+</edge>
+<edge source="Automated" target="Everyone Working On This">
+  <data key="d1">1</data>
+</edge>
+<edge source="Automated" target="Guidelines">
+  <data key="d1">1</data>
+</edge>
+<edge source="Automated" target="Works">
+  <data key="d1">1</data>
+</edge>
+<edge source="Automated" target="Show">
+  <data key="d1">1</data>
+</edge>
+<edge source="Automated" target="Hello">
+  <data key="d1">1</data>
+</edge>
+<edge source="Automated" target="Auto">
+  <data key="d1">1</data>
+</edge>
+<edge source="Automated" target="Discuss">
+  <data key="d1">1</data>
+</edge>
+<edge source="Automated" target="Machine Learning Model">
+  <data key="d1">1</data>
+</edge>
+<edge source="Automated" target="Moderator">
+  <data key="d1">1</data>
+</edge>
+<edge source="Automated" target="Sunday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Automated" target="Raspberry Pi">
+  <data key="d1">1</data>
+</edge>
+<edge source="Automated" target="Happy">
+  <data key="d1">1</data>
+</edge>
+<edge source="Automated" target="Inspire">
+  <data key="d1">1</data>
+</edge>
+<edge source="Automated" target="Code">
+  <data key="d1">1</data>
+</edge>
+<edge source="Automated" target="Week">
+  <data key="d1">1</data>
+</edge>
+<edge source="Automated" target="Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Automated" target="Weekly Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Automated" target="Whether">
+  <data key="d1">1</data>
+</edge>
+<edge source="Automated" target="Web Scraping">
+  <data key="d1">1</data>
+</edge>
+<edge source="Automated" target="Example Shares">
+  <data key="d1">1</data>
+</edge>
+<edge source="Automated" target="Automation">
+  <data key="d1">1</data>
+</edge>
+<edge source="Feel" target="Tell">
+  <data key="d1">1</data>
+</edge>
+<edge source="Feel" target="Share">
+  <data key="d1">1</data>
+</edge>
+<edge source="Feel" target="Your">
+  <data key="d1">1</data>
+</edge>
+<edge source="Feel" target="Built">
+  <data key="d1">1</data>
+</edge>
+<edge source="Feel" target="Just">
+  <data key="d1">1</data>
+</edge>
+<edge source="Feel" target="What">
+  <data key="d1">1</data>
+</edge>
+<edge source="Feel" target="Everyone Working On This">
+  <data key="d1">1</data>
+</edge>
+<edge source="Feel" target="Guidelines">
+  <data key="d1">1</data>
+</edge>
+<edge source="Feel" target="Works">
+  <data key="d1">1</data>
+</edge>
+<edge source="Feel" target="Show">
+  <data key="d1">1</data>
+</edge>
+<edge source="Feel" target="Hello">
+  <data key="d1">1</data>
+</edge>
+<edge source="Feel" target="Auto">
+  <data key="d1">1</data>
+</edge>
+<edge source="Feel" target="Discuss">
+  <data key="d1">1</data>
+</edge>
+<edge source="Feel" target="Machine Learning Model">
+  <data key="d1">1</data>
+</edge>
+<edge source="Feel" target="Moderator">
+  <data key="d1">1</data>
+</edge>
+<edge source="Feel" target="Sunday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Feel" target="Raspberry Pi">
+  <data key="d1">1</data>
+</edge>
+<edge source="Feel" target="Happy">
+  <data key="d1">1</data>
+</edge>
+<edge source="Feel" target="Inspire">
+  <data key="d1">1</data>
+</edge>
+<edge source="Feel" target="Code">
+  <data key="d1">1</data>
+</edge>
+<edge source="Feel" target="Week">
+  <data key="d1">1</data>
+</edge>
+<edge source="Feel" target="Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Feel" target="Weekly Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Feel" target="Whether">
+  <data key="d1">1</data>
+</edge>
+<edge source="Feel" target="Web Scraping">
+  <data key="d1">1</data>
+</edge>
+<edge source="Feel" target="Example Shares">
+  <data key="d1">1</data>
+</edge>
+<edge source="Feel" target="Automation">
+  <data key="d1">1</data>
+</edge>
+<edge source="Tell" target="Share">
+  <data key="d1">1</data>
+</edge>
+<edge source="Tell" target="Your">
+  <data key="d1">1</data>
+</edge>
+<edge source="Tell" target="Built">
+  <data key="d1">1</data>
+</edge>
+<edge source="Tell" target="Just">
+  <data key="d1">1</data>
+</edge>
+<edge source="Tell" target="What">
+  <data key="d1">1</data>
+</edge>
+<edge source="Tell" target="Everyone Working On This">
+  <data key="d1">1</data>
+</edge>
+<edge source="Tell" target="Guidelines">
+  <data key="d1">1</data>
+</edge>
+<edge source="Tell" target="Works">
+  <data key="d1">1</data>
+</edge>
+<edge source="Tell" target="Show">
+  <data key="d1">1</data>
+</edge>
+<edge source="Tell" target="Hello">
+  <data key="d1">1</data>
+</edge>
+<edge source="Tell" target="Auto">
+  <data key="d1">1</data>
+</edge>
+<edge source="Tell" target="Discuss">
+  <data key="d1">1</data>
+</edge>
+<edge source="Tell" target="Machine Learning Model">
+  <data key="d1">1</data>
+</edge>
+<edge source="Tell" target="Moderator">
+  <data key="d1">1</data>
+</edge>
+<edge source="Tell" target="Sunday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Tell" target="Raspberry Pi">
+  <data key="d1">1</data>
+</edge>
+<edge source="Tell" target="Happy">
+  <data key="d1">1</data>
+</edge>
+<edge source="Tell" target="Inspire">
+  <data key="d1">1</data>
+</edge>
+<edge source="Tell" target="Code">
+  <data key="d1">1</data>
+</edge>
+<edge source="Tell" target="Week">
+  <data key="d1">1</data>
+</edge>
+<edge source="Tell" target="Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Tell" target="Weekly Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Tell" target="Whether">
+  <data key="d1">1</data>
+</edge>
+<edge source="Tell" target="Web Scraping">
+  <data key="d1">1</data>
+</edge>
+<edge source="Tell" target="Example Shares">
+  <data key="d1">1</data>
+</edge>
+<edge source="Tell" target="Automation">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="Your">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="Built">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="Just">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="What">
+  <data key="d1">3</data>
+</edge>
+<edge source="Share" target="Everyone Working On This">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="Guidelines">
+  <data key="d1">3</data>
+</edge>
+<edge source="Share" target="Works">
+  <data key="d1">3</data>
+</edge>
+<edge source="Share" target="Show">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="Hello">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="Auto">
+  <data key="d1">3</data>
+</edge>
+<edge source="Share" target="Discuss">
+  <data key="d1">3</data>
+</edge>
+<edge source="Share" target="Machine Learning Model">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="Moderator">
+  <data key="d1">3</data>
+</edge>
+<edge source="Share" target="Sunday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="Raspberry Pi">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="Happy">
+  <data key="d1">3</data>
+</edge>
+<edge source="Share" target="Inspire">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="Code">
+  <data key="d1">2</data>
+</edge>
+<edge source="Share" target="Week">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="Python">
+  <data key="d1">3</data>
+</edge>
+<edge source="Share" target="Weekly Thread">
+  <data key="d1">3</data>
+</edge>
+<edge source="Share" target="Whether">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="Web Scraping">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="Example Shares">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="Automation">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="Learning Resources">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="Keep">
+  <data key="d1">2</data>
+</edge>
+<edge source="Share" target="Community Ideas">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="Any Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="Welcome">
+  <data key="d1">2</data>
+</edge>
+<edge source="Share" target="Friday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="Conduct">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="Updates">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="Talk Fridays">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="News">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="Reddit">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="Job Market">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="Found">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="Python Meta">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="Free">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="Community Pulse">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="This">
+  <data key="d1">2</data>
+</edge>
+<edge source="Share" target="Free Talk Friday">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="Something">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="Example Topics">
+  <data key="d1">2</data>
+</edge>
+<edge source="Share" target="New Python Release">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="Open Mic">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="Hot Takes">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="Community Events">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="Meta Discussions">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="Python Careers">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="Interview Tips">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="Career Talk">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="Certifications">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="Career Paths">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="Courses">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="Please">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="Workplace Tools">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="What Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="Thursday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="Course Recommendations">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="Jobs">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="Are Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="Professional Use">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="Furthering Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="Share" target="Workplace Chat">
+  <data key="d1">1</data>
+</edge>
+<edge source="Your" target="Built">
+  <data key="d1">1</data>
+</edge>
+<edge source="Your" target="Just">
+  <data key="d1">1</data>
+</edge>
+<edge source="Your" target="What">
+  <data key="d1">1</data>
+</edge>
+<edge source="Your" target="Everyone Working On This">
+  <data key="d1">1</data>
+</edge>
+<edge source="Your" target="Guidelines">
+  <data key="d1">1</data>
+</edge>
+<edge source="Your" target="Works">
+  <data key="d1">1</data>
+</edge>
+<edge source="Your" target="Show">
+  <data key="d1">1</data>
+</edge>
+<edge source="Your" target="Hello">
+  <data key="d1">1</data>
+</edge>
+<edge source="Your" target="Auto">
+  <data key="d1">1</data>
+</edge>
+<edge source="Your" target="Discuss">
+  <data key="d1">1</data>
+</edge>
+<edge source="Your" target="Machine Learning Model">
+  <data key="d1">1</data>
+</edge>
+<edge source="Your" target="Moderator">
+  <data key="d1">1</data>
+</edge>
+<edge source="Your" target="Sunday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Your" target="Raspberry Pi">
+  <data key="d1">1</data>
+</edge>
+<edge source="Your" target="Happy">
+  <data key="d1">1</data>
+</edge>
+<edge source="Your" target="Inspire">
+  <data key="d1">1</data>
+</edge>
+<edge source="Your" target="Code">
+  <data key="d1">1</data>
+</edge>
+<edge source="Your" target="Week">
+  <data key="d1">1</data>
+</edge>
+<edge source="Your" target="Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Your" target="Weekly Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Your" target="Whether">
+  <data key="d1">1</data>
+</edge>
+<edge source="Your" target="Web Scraping">
+  <data key="d1">1</data>
+</edge>
+<edge source="Your" target="Example Shares">
+  <data key="d1">1</data>
+</edge>
+<edge source="Your" target="Automation">
+  <data key="d1">1</data>
+</edge>
+<edge source="Built" target="Just">
+  <data key="d1">1</data>
+</edge>
+<edge source="Built" target="What">
+  <data key="d1">1</data>
+</edge>
+<edge source="Built" target="Everyone Working On This">
+  <data key="d1">1</data>
+</edge>
+<edge source="Built" target="Guidelines">
+  <data key="d1">1</data>
+</edge>
+<edge source="Built" target="Works">
+  <data key="d1">1</data>
+</edge>
+<edge source="Built" target="Show">
+  <data key="d1">1</data>
+</edge>
+<edge source="Built" target="Hello">
+  <data key="d1">1</data>
+</edge>
+<edge source="Built" target="Auto">
+  <data key="d1">1</data>
+</edge>
+<edge source="Built" target="Discuss">
+  <data key="d1">1</data>
+</edge>
+<edge source="Built" target="Machine Learning Model">
+  <data key="d1">1</data>
+</edge>
+<edge source="Built" target="Moderator">
+  <data key="d1">1</data>
+</edge>
+<edge source="Built" target="Sunday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Built" target="Raspberry Pi">
+  <data key="d1">1</data>
+</edge>
+<edge source="Built" target="Happy">
+  <data key="d1">1</data>
+</edge>
+<edge source="Built" target="Inspire">
+  <data key="d1">1</data>
+</edge>
+<edge source="Built" target="Code">
+  <data key="d1">1</data>
+</edge>
+<edge source="Built" target="Week">
+  <data key="d1">1</data>
+</edge>
+<edge source="Built" target="Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Built" target="Weekly Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Built" target="Whether">
+  <data key="d1">1</data>
+</edge>
+<edge source="Built" target="Web Scraping">
+  <data key="d1">1</data>
+</edge>
+<edge source="Built" target="Example Shares">
+  <data key="d1">1</data>
+</edge>
+<edge source="Built" target="Automation">
+  <data key="d1">1</data>
+</edge>
+<edge source="Just" target="What">
+  <data key="d1">1</data>
+</edge>
+<edge source="Just" target="Everyone Working On This">
+  <data key="d1">1</data>
+</edge>
+<edge source="Just" target="Guidelines">
+  <data key="d1">1</data>
+</edge>
+<edge source="Just" target="Works">
+  <data key="d1">1</data>
+</edge>
+<edge source="Just" target="Show">
+  <data key="d1">1</data>
+</edge>
+<edge source="Just" target="Hello">
+  <data key="d1">1</data>
+</edge>
+<edge source="Just" target="Auto">
+  <data key="d1">1</data>
+</edge>
+<edge source="Just" target="Discuss">
+  <data key="d1">1</data>
+</edge>
+<edge source="Just" target="Machine Learning Model">
+  <data key="d1">1</data>
+</edge>
+<edge source="Just" target="Moderator">
+  <data key="d1">1</data>
+</edge>
+<edge source="Just" target="Sunday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Just" target="Raspberry Pi">
+  <data key="d1">1</data>
+</edge>
+<edge source="Just" target="Happy">
+  <data key="d1">1</data>
+</edge>
+<edge source="Just" target="Inspire">
+  <data key="d1">1</data>
+</edge>
+<edge source="Just" target="Code">
+  <data key="d1">1</data>
+</edge>
+<edge source="Just" target="Week">
+  <data key="d1">1</data>
+</edge>
+<edge source="Just" target="Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Just" target="Weekly Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Just" target="Whether">
+  <data key="d1">1</data>
+</edge>
+<edge source="Just" target="Web Scraping">
+  <data key="d1">1</data>
+</edge>
+<edge source="Just" target="Example Shares">
+  <data key="d1">1</data>
+</edge>
+<edge source="Just" target="Automation">
+  <data key="d1">1</data>
+</edge>
+<edge source="What" target="Everyone Working On This">
+  <data key="d1">1</data>
+</edge>
+<edge source="What" target="Guidelines">
+  <data key="d1">3</data>
+</edge>
+<edge source="What" target="Works">
+  <data key="d1">3</data>
+</edge>
+<edge source="What" target="Show">
+  <data key="d1">1</data>
+</edge>
+<edge source="What" target="Hello">
+  <data key="d1">1</data>
+</edge>
+<edge source="What" target="Auto">
+  <data key="d1">3</data>
+</edge>
+<edge source="What" target="Discuss">
+  <data key="d1">3</data>
+</edge>
+<edge source="What" target="Machine Learning Model">
+  <data key="d1">1</data>
+</edge>
+<edge source="What" target="Moderator">
+  <data key="d1">3</data>
+</edge>
+<edge source="What" target="Sunday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="What" target="Raspberry Pi">
+  <data key="d1">1</data>
+</edge>
+<edge source="What" target="Happy">
+  <data key="d1">3</data>
+</edge>
+<edge source="What" target="Inspire">
+  <data key="d1">1</data>
+</edge>
+<edge source="What" target="Code">
+  <data key="d1">2</data>
+</edge>
+<edge source="What" target="Week">
+  <data key="d1">1</data>
+</edge>
+<edge source="What" target="Python">
+  <data key="d1">3</data>
+</edge>
+<edge source="What" target="Weekly Thread">
+  <data key="d1">3</data>
+</edge>
+<edge source="What" target="Whether">
+  <data key="d1">1</data>
+</edge>
+<edge source="What" target="Web Scraping">
+  <data key="d1">1</data>
+</edge>
+<edge source="What" target="Example Shares">
+  <data key="d1">1</data>
+</edge>
+<edge source="What" target="Automation">
+  <data key="d1">1</data>
+</edge>
+<edge source="What" target="Learning Resources">
+  <data key="d1">1</data>
+</edge>
+<edge source="What" target="Keep">
+  <data key="d1">2</data>
+</edge>
+<edge source="What" target="Community Ideas">
+  <data key="d1">1</data>
+</edge>
+<edge source="What" target="Any Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="What" target="Welcome">
+  <data key="d1">2</data>
+</edge>
+<edge source="What" target="Friday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="What" target="Conduct">
+  <data key="d1">1</data>
+</edge>
+<edge source="What" target="Updates">
+  <data key="d1">1</data>
+</edge>
+<edge source="What" target="Talk Fridays">
+  <data key="d1">1</data>
+</edge>
+<edge source="What" target="News">
+  <data key="d1">1</data>
+</edge>
+<edge source="What" target="Reddit">
+  <data key="d1">1</data>
+</edge>
+<edge source="What" target="Job Market">
+  <data key="d1">1</data>
+</edge>
+<edge source="What" target="Found">
+  <data key="d1">1</data>
+</edge>
+<edge source="What" target="Python Meta">
+  <data key="d1">1</data>
+</edge>
+<edge source="What" target="Free">
+  <data key="d1">1</data>
+</edge>
+<edge source="What" target="Community Pulse">
+  <data key="d1">1</data>
+</edge>
+<edge source="What" target="This">
+  <data key="d1">2</data>
+</edge>
+<edge source="What" target="Free Talk Friday">
+  <data key="d1">1</data>
+</edge>
+<edge source="What" target="Something">
+  <data key="d1">1</data>
+</edge>
+<edge source="What" target="Example Topics">
+  <data key="d1">2</data>
+</edge>
+<edge source="What" target="New Python Release">
+  <data key="d1">1</data>
+</edge>
+<edge source="What" target="Open Mic">
+  <data key="d1">1</data>
+</edge>
+<edge source="What" target="Hot Takes">
+  <data key="d1">1</data>
+</edge>
+<edge source="What" target="Community Events">
+  <data key="d1">1</data>
+</edge>
+<edge source="What" target="Meta Discussions">
+  <data key="d1">1</data>
+</edge>
+<edge source="What" target="Python Careers">
+  <data key="d1">1</data>
+</edge>
+<edge source="What" target="Interview Tips">
+  <data key="d1">1</data>
+</edge>
+<edge source="What" target="Career Talk">
+  <data key="d1">1</data>
+</edge>
+<edge source="What" target="Certifications">
+  <data key="d1">1</data>
+</edge>
+<edge source="What" target="Career Paths">
+  <data key="d1">1</data>
+</edge>
+<edge source="What" target="Courses">
+  <data key="d1">1</data>
+</edge>
+<edge source="What" target="Please">
+  <data key="d1">1</data>
+</edge>
+<edge source="What" target="Workplace Tools">
+  <data key="d1">1</data>
+</edge>
+<edge source="What" target="What Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="What" target="Thursday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="What" target="Course Recommendations">
+  <data key="d1">1</data>
+</edge>
+<edge source="What" target="Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="What" target="Jobs">
+  <data key="d1">1</data>
+</edge>
+<edge source="What" target="Are Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="What" target="Professional Use">
+  <data key="d1">1</data>
+</edge>
+<edge source="What" target="Furthering Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="What" target="Workplace Chat">
+  <data key="d1">1</data>
+</edge>
+<edge source="Everyone Working On This" target="Guidelines">
+  <data key="d1">1</data>
+</edge>
+<edge source="Everyone Working On This" target="Works">
+  <data key="d1">1</data>
+</edge>
+<edge source="Everyone Working On This" target="Show">
+  <data key="d1">1</data>
+</edge>
+<edge source="Everyone Working On This" target="Hello">
+  <data key="d1">1</data>
+</edge>
+<edge source="Everyone Working On This" target="Auto">
+  <data key="d1">1</data>
+</edge>
+<edge source="Everyone Working On This" target="Discuss">
+  <data key="d1">1</data>
+</edge>
+<edge source="Everyone Working On This" target="Machine Learning Model">
+  <data key="d1">1</data>
+</edge>
+<edge source="Everyone Working On This" target="Moderator">
+  <data key="d1">1</data>
+</edge>
+<edge source="Everyone Working On This" target="Sunday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Everyone Working On This" target="Raspberry Pi">
+  <data key="d1">1</data>
+</edge>
+<edge source="Everyone Working On This" target="Happy">
+  <data key="d1">1</data>
+</edge>
+<edge source="Everyone Working On This" target="Inspire">
+  <data key="d1">1</data>
+</edge>
+<edge source="Everyone Working On This" target="Code">
+  <data key="d1">1</data>
+</edge>
+<edge source="Everyone Working On This" target="Week">
+  <data key="d1">1</data>
+</edge>
+<edge source="Everyone Working On This" target="Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Everyone Working On This" target="Weekly Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Everyone Working On This" target="Whether">
+  <data key="d1">1</data>
+</edge>
+<edge source="Everyone Working On This" target="Web Scraping">
+  <data key="d1">1</data>
+</edge>
+<edge source="Everyone Working On This" target="Example Shares">
+  <data key="d1">1</data>
+</edge>
+<edge source="Everyone Working On This" target="Automation">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guidelines" target="Works">
+  <data key="d1">3</data>
+</edge>
+<edge source="Guidelines" target="Show">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guidelines" target="Hello">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guidelines" target="Auto">
+  <data key="d1">3</data>
+</edge>
+<edge source="Guidelines" target="Discuss">
+  <data key="d1">3</data>
+</edge>
+<edge source="Guidelines" target="Machine Learning Model">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guidelines" target="Moderator">
+  <data key="d1">3</data>
+</edge>
+<edge source="Guidelines" target="Sunday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guidelines" target="Raspberry Pi">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guidelines" target="Happy">
+  <data key="d1">3</data>
+</edge>
+<edge source="Guidelines" target="Inspire">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guidelines" target="Code">
+  <data key="d1">2</data>
+</edge>
+<edge source="Guidelines" target="Week">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guidelines" target="Python">
+  <data key="d1">3</data>
+</edge>
+<edge source="Guidelines" target="Weekly Thread">
+  <data key="d1">3</data>
+</edge>
+<edge source="Guidelines" target="Whether">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guidelines" target="Web Scraping">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guidelines" target="Example Shares">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guidelines" target="Automation">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guidelines" target="Learning Resources">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guidelines" target="Keep">
+  <data key="d1">2</data>
+</edge>
+<edge source="Guidelines" target="Community Ideas">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guidelines" target="Any Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guidelines" target="Welcome">
+  <data key="d1">2</data>
+</edge>
+<edge source="Guidelines" target="Friday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guidelines" target="Conduct">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guidelines" target="Updates">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guidelines" target="Talk Fridays">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guidelines" target="News">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guidelines" target="Reddit">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guidelines" target="Job Market">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guidelines" target="Found">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guidelines" target="Python Meta">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guidelines" target="Free">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guidelines" target="Community Pulse">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guidelines" target="This">
+  <data key="d1">2</data>
+</edge>
+<edge source="Guidelines" target="Free Talk Friday">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guidelines" target="Something">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guidelines" target="Example Topics">
+  <data key="d1">2</data>
+</edge>
+<edge source="Guidelines" target="New Python Release">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guidelines" target="Open Mic">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guidelines" target="Hot Takes">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guidelines" target="Community Events">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guidelines" target="Meta Discussions">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guidelines" target="Python Careers">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guidelines" target="Interview Tips">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guidelines" target="Career Talk">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guidelines" target="Certifications">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guidelines" target="Career Paths">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guidelines" target="Courses">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guidelines" target="Please">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guidelines" target="Workplace Tools">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guidelines" target="What Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guidelines" target="Thursday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guidelines" target="Course Recommendations">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guidelines" target="Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guidelines" target="Jobs">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guidelines" target="Are Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guidelines" target="Professional Use">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guidelines" target="Furthering Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guidelines" target="Workplace Chat">
+  <data key="d1">1</data>
+</edge>
+<edge source="Works" target="Show">
+  <data key="d1">1</data>
+</edge>
+<edge source="Works" target="Hello">
+  <data key="d1">1</data>
+</edge>
+<edge source="Works" target="Auto">
+  <data key="d1">3</data>
+</edge>
+<edge source="Works" target="Discuss">
+  <data key="d1">3</data>
+</edge>
+<edge source="Works" target="Machine Learning Model">
+  <data key="d1">1</data>
+</edge>
+<edge source="Works" target="Moderator">
+  <data key="d1">3</data>
+</edge>
+<edge source="Works" target="Sunday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Works" target="Raspberry Pi">
+  <data key="d1">1</data>
+</edge>
+<edge source="Works" target="Happy">
+  <data key="d1">3</data>
+</edge>
+<edge source="Works" target="Inspire">
+  <data key="d1">1</data>
+</edge>
+<edge source="Works" target="Code">
+  <data key="d1">2</data>
+</edge>
+<edge source="Works" target="Week">
+  <data key="d1">1</data>
+</edge>
+<edge source="Works" target="Python">
+  <data key="d1">3</data>
+</edge>
+<edge source="Works" target="Weekly Thread">
+  <data key="d1">3</data>
+</edge>
+<edge source="Works" target="Whether">
+  <data key="d1">1</data>
+</edge>
+<edge source="Works" target="Web Scraping">
+  <data key="d1">1</data>
+</edge>
+<edge source="Works" target="Example Shares">
+  <data key="d1">1</data>
+</edge>
+<edge source="Works" target="Automation">
+  <data key="d1">1</data>
+</edge>
+<edge source="Works" target="Learning Resources">
+  <data key="d1">1</data>
+</edge>
+<edge source="Works" target="Keep">
+  <data key="d1">2</data>
+</edge>
+<edge source="Works" target="Community Ideas">
+  <data key="d1">1</data>
+</edge>
+<edge source="Works" target="Any Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Works" target="Welcome">
+  <data key="d1">2</data>
+</edge>
+<edge source="Works" target="Friday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Works" target="Conduct">
+  <data key="d1">1</data>
+</edge>
+<edge source="Works" target="Updates">
+  <data key="d1">1</data>
+</edge>
+<edge source="Works" target="Talk Fridays">
+  <data key="d1">1</data>
+</edge>
+<edge source="Works" target="News">
+  <data key="d1">1</data>
+</edge>
+<edge source="Works" target="Reddit">
+  <data key="d1">1</data>
+</edge>
+<edge source="Works" target="Job Market">
+  <data key="d1">1</data>
+</edge>
+<edge source="Works" target="Found">
+  <data key="d1">1</data>
+</edge>
+<edge source="Works" target="Python Meta">
+  <data key="d1">1</data>
+</edge>
+<edge source="Works" target="Free">
+  <data key="d1">1</data>
+</edge>
+<edge source="Works" target="Community Pulse">
+  <data key="d1">1</data>
+</edge>
+<edge source="Works" target="This">
+  <data key="d1">2</data>
+</edge>
+<edge source="Works" target="Free Talk Friday">
+  <data key="d1">1</data>
+</edge>
+<edge source="Works" target="Something">
+  <data key="d1">1</data>
+</edge>
+<edge source="Works" target="Example Topics">
+  <data key="d1">2</data>
+</edge>
+<edge source="Works" target="New Python Release">
+  <data key="d1">1</data>
+</edge>
+<edge source="Works" target="Open Mic">
+  <data key="d1">1</data>
+</edge>
+<edge source="Works" target="Hot Takes">
+  <data key="d1">1</data>
+</edge>
+<edge source="Works" target="Community Events">
+  <data key="d1">1</data>
+</edge>
+<edge source="Works" target="Meta Discussions">
+  <data key="d1">1</data>
+</edge>
+<edge source="Works" target="Python Careers">
+  <data key="d1">1</data>
+</edge>
+<edge source="Works" target="Interview Tips">
+  <data key="d1">1</data>
+</edge>
+<edge source="Works" target="Career Talk">
+  <data key="d1">1</data>
+</edge>
+<edge source="Works" target="Certifications">
+  <data key="d1">1</data>
+</edge>
+<edge source="Works" target="Career Paths">
+  <data key="d1">1</data>
+</edge>
+<edge source="Works" target="Courses">
+  <data key="d1">1</data>
+</edge>
+<edge source="Works" target="Please">
+  <data key="d1">1</data>
+</edge>
+<edge source="Works" target="Workplace Tools">
+  <data key="d1">1</data>
+</edge>
+<edge source="Works" target="What Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Works" target="Thursday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Works" target="Course Recommendations">
+  <data key="d1">1</data>
+</edge>
+<edge source="Works" target="Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="Works" target="Jobs">
+  <data key="d1">1</data>
+</edge>
+<edge source="Works" target="Are Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Works" target="Professional Use">
+  <data key="d1">1</data>
+</edge>
+<edge source="Works" target="Furthering Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="Works" target="Workplace Chat">
+  <data key="d1">1</data>
+</edge>
+<edge source="Show" target="Hello">
+  <data key="d1">1</data>
+</edge>
+<edge source="Show" target="Auto">
+  <data key="d1">1</data>
+</edge>
+<edge source="Show" target="Discuss">
+  <data key="d1">1</data>
+</edge>
+<edge source="Show" target="Machine Learning Model">
+  <data key="d1">1</data>
+</edge>
+<edge source="Show" target="Moderator">
+  <data key="d1">1</data>
+</edge>
+<edge source="Show" target="Sunday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Show" target="Raspberry Pi">
+  <data key="d1">1</data>
+</edge>
+<edge source="Show" target="Happy">
+  <data key="d1">1</data>
+</edge>
+<edge source="Show" target="Inspire">
+  <data key="d1">1</data>
+</edge>
+<edge source="Show" target="Code">
+  <data key="d1">1</data>
+</edge>
+<edge source="Show" target="Week">
+  <data key="d1">1</data>
+</edge>
+<edge source="Show" target="Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Show" target="Weekly Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Show" target="Whether">
+  <data key="d1">1</data>
+</edge>
+<edge source="Show" target="Web Scraping">
+  <data key="d1">1</data>
+</edge>
+<edge source="Show" target="Example Shares">
+  <data key="d1">1</data>
+</edge>
+<edge source="Show" target="Automation">
+  <data key="d1">1</data>
+</edge>
+<edge source="Show" target="Shadow">
+  <data key="d1">1</data>
+</edge>
+<edge source="Show" target="Points">
+  <data key="d1">1</data>
+</edge>
+<edge source="Show" target="Comments">
+  <data key="d1">1</data>
+</edge>
+<edge source="Show" target="Article">
+  <data key="d1">1</data>
+</edge>
+<edge source="Show" target="Browser">
+  <data key="d1">1</data>
+</edge>
+<edge source="Show" target="Codes">
+  <data key="d1">1</data>
+</edge>
+<edge source="Hello" target="Auto">
+  <data key="d1">1</data>
+</edge>
+<edge source="Hello" target="Discuss">
+  <data key="d1">1</data>
+</edge>
+<edge source="Hello" target="Machine Learning Model">
+  <data key="d1">1</data>
+</edge>
+<edge source="Hello" target="Moderator">
+  <data key="d1">1</data>
+</edge>
+<edge source="Hello" target="Sunday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Hello" target="Raspberry Pi">
+  <data key="d1">1</data>
+</edge>
+<edge source="Hello" target="Happy">
+  <data key="d1">1</data>
+</edge>
+<edge source="Hello" target="Inspire">
+  <data key="d1">1</data>
+</edge>
+<edge source="Hello" target="Code">
+  <data key="d1">1</data>
+</edge>
+<edge source="Hello" target="Week">
+  <data key="d1">1</data>
+</edge>
+<edge source="Hello" target="Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Hello" target="Weekly Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Hello" target="Whether">
+  <data key="d1">1</data>
+</edge>
+<edge source="Hello" target="Web Scraping">
+  <data key="d1">1</data>
+</edge>
+<edge source="Hello" target="Example Shares">
+  <data key="d1">1</data>
+</edge>
+<edge source="Hello" target="Automation">
+  <data key="d1">1</data>
+</edge>
+<edge source="Auto" target="Discuss">
+  <data key="d1">3</data>
+</edge>
+<edge source="Auto" target="Machine Learning Model">
+  <data key="d1">1</data>
+</edge>
+<edge source="Auto" target="Moderator">
+  <data key="d1">3</data>
+</edge>
+<edge source="Auto" target="Sunday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Auto" target="Raspberry Pi">
+  <data key="d1">1</data>
+</edge>
+<edge source="Auto" target="Happy">
+  <data key="d1">3</data>
+</edge>
+<edge source="Auto" target="Inspire">
+  <data key="d1">1</data>
+</edge>
+<edge source="Auto" target="Code">
+  <data key="d1">2</data>
+</edge>
+<edge source="Auto" target="Week">
+  <data key="d1">1</data>
+</edge>
+<edge source="Auto" target="Python">
+  <data key="d1">3</data>
+</edge>
+<edge source="Auto" target="Weekly Thread">
+  <data key="d1">3</data>
+</edge>
+<edge source="Auto" target="Whether">
+  <data key="d1">1</data>
+</edge>
+<edge source="Auto" target="Web Scraping">
+  <data key="d1">1</data>
+</edge>
+<edge source="Auto" target="Example Shares">
+  <data key="d1">1</data>
+</edge>
+<edge source="Auto" target="Automation">
+  <data key="d1">1</data>
+</edge>
+<edge source="Auto" target="Learning Resources">
+  <data key="d1">1</data>
+</edge>
+<edge source="Auto" target="Keep">
+  <data key="d1">2</data>
+</edge>
+<edge source="Auto" target="Community Ideas">
+  <data key="d1">1</data>
+</edge>
+<edge source="Auto" target="Any Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Auto" target="Welcome">
+  <data key="d1">2</data>
+</edge>
+<edge source="Auto" target="Friday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Auto" target="Conduct">
+  <data key="d1">1</data>
+</edge>
+<edge source="Auto" target="Updates">
+  <data key="d1">1</data>
+</edge>
+<edge source="Auto" target="Talk Fridays">
+  <data key="d1">1</data>
+</edge>
+<edge source="Auto" target="News">
+  <data key="d1">1</data>
+</edge>
+<edge source="Auto" target="Reddit">
+  <data key="d1">1</data>
+</edge>
+<edge source="Auto" target="Job Market">
+  <data key="d1">1</data>
+</edge>
+<edge source="Auto" target="Found">
+  <data key="d1">1</data>
+</edge>
+<edge source="Auto" target="Python Meta">
+  <data key="d1">1</data>
+</edge>
+<edge source="Auto" target="Free">
+  <data key="d1">1</data>
+</edge>
+<edge source="Auto" target="Community Pulse">
+  <data key="d1">1</data>
+</edge>
+<edge source="Auto" target="This">
+  <data key="d1">2</data>
+</edge>
+<edge source="Auto" target="Free Talk Friday">
+  <data key="d1">1</data>
+</edge>
+<edge source="Auto" target="Something">
+  <data key="d1">1</data>
+</edge>
+<edge source="Auto" target="Example Topics">
+  <data key="d1">2</data>
+</edge>
+<edge source="Auto" target="New Python Release">
+  <data key="d1">1</data>
+</edge>
+<edge source="Auto" target="Open Mic">
+  <data key="d1">1</data>
+</edge>
+<edge source="Auto" target="Hot Takes">
+  <data key="d1">1</data>
+</edge>
+<edge source="Auto" target="Community Events">
+  <data key="d1">1</data>
+</edge>
+<edge source="Auto" target="Meta Discussions">
+  <data key="d1">1</data>
+</edge>
+<edge source="Auto" target="Python Careers">
+  <data key="d1">1</data>
+</edge>
+<edge source="Auto" target="Interview Tips">
+  <data key="d1">1</data>
+</edge>
+<edge source="Auto" target="Career Talk">
+  <data key="d1">1</data>
+</edge>
+<edge source="Auto" target="Certifications">
+  <data key="d1">1</data>
+</edge>
+<edge source="Auto" target="Career Paths">
+  <data key="d1">1</data>
+</edge>
+<edge source="Auto" target="Courses">
+  <data key="d1">1</data>
+</edge>
+<edge source="Auto" target="Please">
+  <data key="d1">1</data>
+</edge>
+<edge source="Auto" target="Workplace Tools">
+  <data key="d1">1</data>
+</edge>
+<edge source="Auto" target="What Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Auto" target="Thursday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Auto" target="Course Recommendations">
+  <data key="d1">1</data>
+</edge>
+<edge source="Auto" target="Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="Auto" target="Jobs">
+  <data key="d1">1</data>
+</edge>
+<edge source="Auto" target="Are Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Auto" target="Professional Use">
+  <data key="d1">1</data>
+</edge>
+<edge source="Auto" target="Furthering Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="Auto" target="Workplace Chat">
+  <data key="d1">1</data>
+</edge>
+<edge source="Discuss" target="Machine Learning Model">
+  <data key="d1">1</data>
+</edge>
+<edge source="Discuss" target="Moderator">
+  <data key="d1">3</data>
+</edge>
+<edge source="Discuss" target="Sunday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Discuss" target="Raspberry Pi">
+  <data key="d1">1</data>
+</edge>
+<edge source="Discuss" target="Happy">
+  <data key="d1">3</data>
+</edge>
+<edge source="Discuss" target="Inspire">
+  <data key="d1">1</data>
+</edge>
+<edge source="Discuss" target="Code">
+  <data key="d1">2</data>
+</edge>
+<edge source="Discuss" target="Week">
+  <data key="d1">1</data>
+</edge>
+<edge source="Discuss" target="Python">
+  <data key="d1">3</data>
+</edge>
+<edge source="Discuss" target="Weekly Thread">
+  <data key="d1">3</data>
+</edge>
+<edge source="Discuss" target="Whether">
+  <data key="d1">1</data>
+</edge>
+<edge source="Discuss" target="Web Scraping">
+  <data key="d1">1</data>
+</edge>
+<edge source="Discuss" target="Example Shares">
+  <data key="d1">1</data>
+</edge>
+<edge source="Discuss" target="Automation">
+  <data key="d1">1</data>
+</edge>
+<edge source="Discuss" target="Learning Resources">
+  <data key="d1">1</data>
+</edge>
+<edge source="Discuss" target="Keep">
+  <data key="d1">2</data>
+</edge>
+<edge source="Discuss" target="Community Ideas">
+  <data key="d1">1</data>
+</edge>
+<edge source="Discuss" target="Any Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Discuss" target="Welcome">
+  <data key="d1">2</data>
+</edge>
+<edge source="Discuss" target="Friday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Discuss" target="Conduct">
+  <data key="d1">1</data>
+</edge>
+<edge source="Discuss" target="Updates">
+  <data key="d1">1</data>
+</edge>
+<edge source="Discuss" target="Talk Fridays">
+  <data key="d1">1</data>
+</edge>
+<edge source="Discuss" target="News">
+  <data key="d1">1</data>
+</edge>
+<edge source="Discuss" target="Reddit">
+  <data key="d1">1</data>
+</edge>
+<edge source="Discuss" target="Job Market">
+  <data key="d1">1</data>
+</edge>
+<edge source="Discuss" target="Found">
+  <data key="d1">1</data>
+</edge>
+<edge source="Discuss" target="Python Meta">
+  <data key="d1">1</data>
+</edge>
+<edge source="Discuss" target="Free">
+  <data key="d1">1</data>
+</edge>
+<edge source="Discuss" target="Community Pulse">
+  <data key="d1">1</data>
+</edge>
+<edge source="Discuss" target="This">
+  <data key="d1">2</data>
+</edge>
+<edge source="Discuss" target="Free Talk Friday">
+  <data key="d1">1</data>
+</edge>
+<edge source="Discuss" target="Something">
+  <data key="d1">1</data>
+</edge>
+<edge source="Discuss" target="Example Topics">
+  <data key="d1">2</data>
+</edge>
+<edge source="Discuss" target="New Python Release">
+  <data key="d1">1</data>
+</edge>
+<edge source="Discuss" target="Open Mic">
+  <data key="d1">1</data>
+</edge>
+<edge source="Discuss" target="Hot Takes">
+  <data key="d1">1</data>
+</edge>
+<edge source="Discuss" target="Community Events">
+  <data key="d1">1</data>
+</edge>
+<edge source="Discuss" target="Meta Discussions">
+  <data key="d1">1</data>
+</edge>
+<edge source="Discuss" target="Python Careers">
+  <data key="d1">1</data>
+</edge>
+<edge source="Discuss" target="Interview Tips">
+  <data key="d1">1</data>
+</edge>
+<edge source="Discuss" target="Career Talk">
+  <data key="d1">1</data>
+</edge>
+<edge source="Discuss" target="Certifications">
+  <data key="d1">1</data>
+</edge>
+<edge source="Discuss" target="Career Paths">
+  <data key="d1">1</data>
+</edge>
+<edge source="Discuss" target="Courses">
+  <data key="d1">1</data>
+</edge>
+<edge source="Discuss" target="Please">
+  <data key="d1">1</data>
+</edge>
+<edge source="Discuss" target="Workplace Tools">
+  <data key="d1">1</data>
+</edge>
+<edge source="Discuss" target="What Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Discuss" target="Thursday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Discuss" target="Course Recommendations">
+  <data key="d1">1</data>
+</edge>
+<edge source="Discuss" target="Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="Discuss" target="Jobs">
+  <data key="d1">1</data>
+</edge>
+<edge source="Discuss" target="Are Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Discuss" target="Professional Use">
+  <data key="d1">1</data>
+</edge>
+<edge source="Discuss" target="Furthering Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="Discuss" target="Workplace Chat">
+  <data key="d1">1</data>
+</edge>
+<edge source="Machine Learning Model" target="Moderator">
+  <data key="d1">1</data>
+</edge>
+<edge source="Machine Learning Model" target="Sunday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Machine Learning Model" target="Raspberry Pi">
+  <data key="d1">1</data>
+</edge>
+<edge source="Machine Learning Model" target="Happy">
+  <data key="d1">1</data>
+</edge>
+<edge source="Machine Learning Model" target="Inspire">
+  <data key="d1">1</data>
+</edge>
+<edge source="Machine Learning Model" target="Code">
+  <data key="d1">1</data>
+</edge>
+<edge source="Machine Learning Model" target="Week">
+  <data key="d1">1</data>
+</edge>
+<edge source="Machine Learning Model" target="Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Machine Learning Model" target="Weekly Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Machine Learning Model" target="Whether">
+  <data key="d1">1</data>
+</edge>
+<edge source="Machine Learning Model" target="Web Scraping">
+  <data key="d1">1</data>
+</edge>
+<edge source="Machine Learning Model" target="Example Shares">
+  <data key="d1">1</data>
+</edge>
+<edge source="Machine Learning Model" target="Automation">
+  <data key="d1">1</data>
+</edge>
+<edge source="Moderator" target="Sunday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Moderator" target="Raspberry Pi">
+  <data key="d1">1</data>
+</edge>
+<edge source="Moderator" target="Happy">
+  <data key="d1">3</data>
+</edge>
+<edge source="Moderator" target="Inspire">
+  <data key="d1">1</data>
+</edge>
+<edge source="Moderator" target="Code">
+  <data key="d1">2</data>
+</edge>
+<edge source="Moderator" target="Week">
+  <data key="d1">1</data>
+</edge>
+<edge source="Moderator" target="Python">
+  <data key="d1">3</data>
+</edge>
+<edge source="Moderator" target="Weekly Thread">
+  <data key="d1">3</data>
+</edge>
+<edge source="Moderator" target="Whether">
+  <data key="d1">1</data>
+</edge>
+<edge source="Moderator" target="Web Scraping">
+  <data key="d1">1</data>
+</edge>
+<edge source="Moderator" target="Example Shares">
+  <data key="d1">1</data>
+</edge>
+<edge source="Moderator" target="Automation">
+  <data key="d1">1</data>
+</edge>
+<edge source="Moderator" target="Learning Resources">
+  <data key="d1">1</data>
+</edge>
+<edge source="Moderator" target="Keep">
+  <data key="d1">2</data>
+</edge>
+<edge source="Moderator" target="Community Ideas">
+  <data key="d1">1</data>
+</edge>
+<edge source="Moderator" target="Any Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Moderator" target="Welcome">
+  <data key="d1">2</data>
+</edge>
+<edge source="Moderator" target="Friday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Moderator" target="Conduct">
+  <data key="d1">1</data>
+</edge>
+<edge source="Moderator" target="Updates">
+  <data key="d1">1</data>
+</edge>
+<edge source="Moderator" target="Talk Fridays">
+  <data key="d1">1</data>
+</edge>
+<edge source="Moderator" target="News">
+  <data key="d1">1</data>
+</edge>
+<edge source="Moderator" target="Reddit">
+  <data key="d1">1</data>
+</edge>
+<edge source="Moderator" target="Job Market">
+  <data key="d1">1</data>
+</edge>
+<edge source="Moderator" target="Found">
+  <data key="d1">1</data>
+</edge>
+<edge source="Moderator" target="Python Meta">
+  <data key="d1">1</data>
+</edge>
+<edge source="Moderator" target="Free">
+  <data key="d1">1</data>
+</edge>
+<edge source="Moderator" target="Community Pulse">
+  <data key="d1">1</data>
+</edge>
+<edge source="Moderator" target="This">
+  <data key="d1">2</data>
+</edge>
+<edge source="Moderator" target="Free Talk Friday">
+  <data key="d1">1</data>
+</edge>
+<edge source="Moderator" target="Something">
+  <data key="d1">1</data>
+</edge>
+<edge source="Moderator" target="Example Topics">
+  <data key="d1">2</data>
+</edge>
+<edge source="Moderator" target="New Python Release">
+  <data key="d1">1</data>
+</edge>
+<edge source="Moderator" target="Open Mic">
+  <data key="d1">1</data>
+</edge>
+<edge source="Moderator" target="Hot Takes">
+  <data key="d1">1</data>
+</edge>
+<edge source="Moderator" target="Community Events">
+  <data key="d1">1</data>
+</edge>
+<edge source="Moderator" target="Meta Discussions">
+  <data key="d1">1</data>
+</edge>
+<edge source="Moderator" target="Python Careers">
+  <data key="d1">1</data>
+</edge>
+<edge source="Moderator" target="Interview Tips">
+  <data key="d1">1</data>
+</edge>
+<edge source="Moderator" target="Career Talk">
+  <data key="d1">1</data>
+</edge>
+<edge source="Moderator" target="Certifications">
+  <data key="d1">1</data>
+</edge>
+<edge source="Moderator" target="Career Paths">
+  <data key="d1">1</data>
+</edge>
+<edge source="Moderator" target="Courses">
+  <data key="d1">1</data>
+</edge>
+<edge source="Moderator" target="Please">
+  <data key="d1">1</data>
+</edge>
+<edge source="Moderator" target="Workplace Tools">
+  <data key="d1">1</data>
+</edge>
+<edge source="Moderator" target="What Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Moderator" target="Thursday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Moderator" target="Course Recommendations">
+  <data key="d1">1</data>
+</edge>
+<edge source="Moderator" target="Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="Moderator" target="Jobs">
+  <data key="d1">1</data>
+</edge>
+<edge source="Moderator" target="Are Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Moderator" target="Professional Use">
+  <data key="d1">1</data>
+</edge>
+<edge source="Moderator" target="Furthering Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="Moderator" target="Workplace Chat">
+  <data key="d1">1</data>
+</edge>
+<edge source="Sunday Daily Thread" target="Raspberry Pi">
+  <data key="d1">1</data>
+</edge>
+<edge source="Sunday Daily Thread" target="Happy">
+  <data key="d1">1</data>
+</edge>
+<edge source="Sunday Daily Thread" target="Inspire">
+  <data key="d1">1</data>
+</edge>
+<edge source="Sunday Daily Thread" target="Code">
+  <data key="d1">1</data>
+</edge>
+<edge source="Sunday Daily Thread" target="Week">
+  <data key="d1">1</data>
+</edge>
+<edge source="Sunday Daily Thread" target="Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Sunday Daily Thread" target="Weekly Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Sunday Daily Thread" target="Whether">
+  <data key="d1">1</data>
+</edge>
+<edge source="Sunday Daily Thread" target="Web Scraping">
+  <data key="d1">1</data>
+</edge>
+<edge source="Sunday Daily Thread" target="Example Shares">
+  <data key="d1">1</data>
+</edge>
+<edge source="Sunday Daily Thread" target="Automation">
+  <data key="d1">1</data>
+</edge>
+<edge source="Raspberry Pi" target="Happy">
+  <data key="d1">1</data>
+</edge>
+<edge source="Raspberry Pi" target="Inspire">
+  <data key="d1">1</data>
+</edge>
+<edge source="Raspberry Pi" target="Code">
+  <data key="d1">1</data>
+</edge>
+<edge source="Raspberry Pi" target="Week">
+  <data key="d1">1</data>
+</edge>
+<edge source="Raspberry Pi" target="Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Raspberry Pi" target="Weekly Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Raspberry Pi" target="Whether">
+  <data key="d1">1</data>
+</edge>
+<edge source="Raspberry Pi" target="Web Scraping">
+  <data key="d1">1</data>
+</edge>
+<edge source="Raspberry Pi" target="Example Shares">
+  <data key="d1">1</data>
+</edge>
+<edge source="Raspberry Pi" target="Automation">
+  <data key="d1">1</data>
+</edge>
+<edge source="Happy" target="Inspire">
+  <data key="d1">1</data>
+</edge>
+<edge source="Happy" target="Code">
+  <data key="d1">2</data>
+</edge>
+<edge source="Happy" target="Week">
+  <data key="d1">1</data>
+</edge>
+<edge source="Happy" target="Python">
+  <data key="d1">3</data>
+</edge>
+<edge source="Happy" target="Weekly Thread">
+  <data key="d1">3</data>
+</edge>
+<edge source="Happy" target="Whether">
+  <data key="d1">1</data>
+</edge>
+<edge source="Happy" target="Web Scraping">
+  <data key="d1">1</data>
+</edge>
+<edge source="Happy" target="Example Shares">
+  <data key="d1">1</data>
+</edge>
+<edge source="Happy" target="Automation">
+  <data key="d1">1</data>
+</edge>
+<edge source="Happy" target="Learning Resources">
+  <data key="d1">1</data>
+</edge>
+<edge source="Happy" target="Keep">
+  <data key="d1">2</data>
+</edge>
+<edge source="Happy" target="Community Ideas">
+  <data key="d1">1</data>
+</edge>
+<edge source="Happy" target="Any Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Happy" target="Welcome">
+  <data key="d1">2</data>
+</edge>
+<edge source="Happy" target="Friday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Happy" target="Conduct">
+  <data key="d1">1</data>
+</edge>
+<edge source="Happy" target="Updates">
+  <data key="d1">1</data>
+</edge>
+<edge source="Happy" target="Talk Fridays">
+  <data key="d1">1</data>
+</edge>
+<edge source="Happy" target="News">
+  <data key="d1">1</data>
+</edge>
+<edge source="Happy" target="Reddit">
+  <data key="d1">1</data>
+</edge>
+<edge source="Happy" target="Job Market">
+  <data key="d1">1</data>
+</edge>
+<edge source="Happy" target="Found">
+  <data key="d1">1</data>
+</edge>
+<edge source="Happy" target="Python Meta">
+  <data key="d1">1</data>
+</edge>
+<edge source="Happy" target="Free">
+  <data key="d1">1</data>
+</edge>
+<edge source="Happy" target="Community Pulse">
+  <data key="d1">1</data>
+</edge>
+<edge source="Happy" target="This">
+  <data key="d1">2</data>
+</edge>
+<edge source="Happy" target="Free Talk Friday">
+  <data key="d1">1</data>
+</edge>
+<edge source="Happy" target="Something">
+  <data key="d1">1</data>
+</edge>
+<edge source="Happy" target="Example Topics">
+  <data key="d1">2</data>
+</edge>
+<edge source="Happy" target="New Python Release">
+  <data key="d1">1</data>
+</edge>
+<edge source="Happy" target="Open Mic">
+  <data key="d1">1</data>
+</edge>
+<edge source="Happy" target="Hot Takes">
+  <data key="d1">1</data>
+</edge>
+<edge source="Happy" target="Community Events">
+  <data key="d1">1</data>
+</edge>
+<edge source="Happy" target="Meta Discussions">
+  <data key="d1">1</data>
+</edge>
+<edge source="Happy" target="Python Careers">
+  <data key="d1">1</data>
+</edge>
+<edge source="Happy" target="Interview Tips">
+  <data key="d1">1</data>
+</edge>
+<edge source="Happy" target="Career Talk">
+  <data key="d1">1</data>
+</edge>
+<edge source="Happy" target="Certifications">
+  <data key="d1">1</data>
+</edge>
+<edge source="Happy" target="Career Paths">
+  <data key="d1">1</data>
+</edge>
+<edge source="Happy" target="Courses">
+  <data key="d1">1</data>
+</edge>
+<edge source="Happy" target="Please">
+  <data key="d1">1</data>
+</edge>
+<edge source="Happy" target="Workplace Tools">
+  <data key="d1">1</data>
+</edge>
+<edge source="Happy" target="What Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Happy" target="Thursday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Happy" target="Course Recommendations">
+  <data key="d1">1</data>
+</edge>
+<edge source="Happy" target="Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="Happy" target="Jobs">
+  <data key="d1">1</data>
+</edge>
+<edge source="Happy" target="Are Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Happy" target="Professional Use">
+  <data key="d1">1</data>
+</edge>
+<edge source="Happy" target="Furthering Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="Happy" target="Workplace Chat">
+  <data key="d1">1</data>
+</edge>
+<edge source="Inspire" target="Code">
+  <data key="d1">1</data>
+</edge>
+<edge source="Inspire" target="Week">
+  <data key="d1">1</data>
+</edge>
+<edge source="Inspire" target="Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Inspire" target="Weekly Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Inspire" target="Whether">
+  <data key="d1">1</data>
+</edge>
+<edge source="Inspire" target="Web Scraping">
+  <data key="d1">1</data>
+</edge>
+<edge source="Inspire" target="Example Shares">
+  <data key="d1">1</data>
+</edge>
+<edge source="Inspire" target="Automation">
+  <data key="d1">1</data>
+</edge>
+<edge source="Code" target="Week">
+  <data key="d1">1</data>
+</edge>
+<edge source="Code" target="Python">
+  <data key="d1">2</data>
+</edge>
+<edge source="Code" target="Weekly Thread">
+  <data key="d1">2</data>
+</edge>
+<edge source="Code" target="Whether">
+  <data key="d1">1</data>
+</edge>
+<edge source="Code" target="Web Scraping">
+  <data key="d1">1</data>
+</edge>
+<edge source="Code" target="Example Shares">
+  <data key="d1">1</data>
+</edge>
+<edge source="Code" target="Automation">
+  <data key="d1">1</data>
+</edge>
+<edge source="Code" target="Learning Resources">
+  <data key="d1">1</data>
+</edge>
+<edge source="Code" target="Keep">
+  <data key="d1">1</data>
+</edge>
+<edge source="Code" target="Community Ideas">
+  <data key="d1">1</data>
+</edge>
+<edge source="Code" target="Any Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Code" target="Welcome">
+  <data key="d1">1</data>
+</edge>
+<edge source="Code" target="Friday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Code" target="Conduct">
+  <data key="d1">1</data>
+</edge>
+<edge source="Code" target="Updates">
+  <data key="d1">1</data>
+</edge>
+<edge source="Code" target="Talk Fridays">
+  <data key="d1">1</data>
+</edge>
+<edge source="Code" target="News">
+  <data key="d1">1</data>
+</edge>
+<edge source="Code" target="Reddit">
+  <data key="d1">1</data>
+</edge>
+<edge source="Code" target="Job Market">
+  <data key="d1">1</data>
+</edge>
+<edge source="Code" target="Found">
+  <data key="d1">1</data>
+</edge>
+<edge source="Code" target="Python Meta">
+  <data key="d1">1</data>
+</edge>
+<edge source="Code" target="Free">
+  <data key="d1">1</data>
+</edge>
+<edge source="Code" target="Community Pulse">
+  <data key="d1">1</data>
+</edge>
+<edge source="Code" target="This">
+  <data key="d1">1</data>
+</edge>
+<edge source="Code" target="Free Talk Friday">
+  <data key="d1">1</data>
+</edge>
+<edge source="Code" target="Something">
+  <data key="d1">1</data>
+</edge>
+<edge source="Code" target="Example Topics">
+  <data key="d1">1</data>
+</edge>
+<edge source="Code" target="New Python Release">
+  <data key="d1">1</data>
+</edge>
+<edge source="Code" target="Open Mic">
+  <data key="d1">1</data>
+</edge>
+<edge source="Code" target="Hot Takes">
+  <data key="d1">1</data>
+</edge>
+<edge source="Code" target="Community Events">
+  <data key="d1">1</data>
+</edge>
+<edge source="Code" target="Meta Discussions">
+  <data key="d1">1</data>
+</edge>
+<edge source="Week" target="Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Week" target="Weekly Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Week" target="Whether">
+  <data key="d1">1</data>
+</edge>
+<edge source="Week" target="Web Scraping">
+  <data key="d1">1</data>
+</edge>
+<edge source="Week" target="Example Shares">
+  <data key="d1">1</data>
+</edge>
+<edge source="Week" target="Automation">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Weekly Thread">
+  <data key="d1">3</data>
+</edge>
+<edge source="Python" target="Whether">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Web Scraping">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Example Shares">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Automation">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Learning Resources">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Keep">
+  <data key="d1">2</data>
+</edge>
+<edge source="Python" target="Community Ideas">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Any Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Welcome">
+  <data key="d1">2</data>
+</edge>
+<edge source="Python" target="Friday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Conduct">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Updates">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Talk Fridays">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="News">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Reddit">
+  <data key="d1">2</data>
+</edge>
+<edge source="Python" target="Job Market">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Found">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Python Meta">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Free">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Community Pulse">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="This">
+  <data key="d1">2</data>
+</edge>
+<edge source="Python" target="Free Talk Friday">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Something">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Example Topics">
+  <data key="d1">2</data>
+</edge>
+<edge source="Python" target="New Python Release">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Open Mic">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Hot Takes">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Community Events">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Meta Discussions">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="With Open">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Endowed">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="About">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Sorry">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Well">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Should">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Open">
+  <data key="d1">2</data>
+</edge>
+<edge source="Python" target="Wizard">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Astral">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Will">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Mediocre">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Scallion">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Chicago">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Django">
+  <data key="d1">2</data>
+</edge>
+<edge source="Python" target="August">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Early">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Python Careers">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Interview Tips">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Career Talk">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Certifications">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Career Paths">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Courses">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Please">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Workplace Tools">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="What Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Thursday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Course Recommendations">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Jobs">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Are Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Professional Use">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Furthering Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Workplace Chat">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Business">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Hopeful">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Linked">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Real">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Toptal">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Fast">
+  <data key="d1">2</data>
+</edge>
+<edge source="Python" target="Upwork">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Next">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Supply">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="They">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="More">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Because">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Giacomelli">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Both">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="That">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="These">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Things">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Curious">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Config">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Telemetry">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Logging">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Bridging Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Handler">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Complete Guide">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Collector">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Logging Module">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Significant">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Book">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Nova">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Backend">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python" target="Open Source Contribution">
+  <data key="d1">1</data>
+</edge>
+<edge source="Weekly Thread" target="Whether">
+  <data key="d1">1</data>
+</edge>
+<edge source="Weekly Thread" target="Web Scraping">
+  <data key="d1">1</data>
+</edge>
+<edge source="Weekly Thread" target="Example Shares">
+  <data key="d1">1</data>
+</edge>
+<edge source="Weekly Thread" target="Automation">
+  <data key="d1">1</data>
+</edge>
+<edge source="Weekly Thread" target="Learning Resources">
+  <data key="d1">1</data>
+</edge>
+<edge source="Weekly Thread" target="Keep">
+  <data key="d1">2</data>
+</edge>
+<edge source="Weekly Thread" target="Community Ideas">
+  <data key="d1">1</data>
+</edge>
+<edge source="Weekly Thread" target="Any Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Weekly Thread" target="Welcome">
+  <data key="d1">2</data>
+</edge>
+<edge source="Weekly Thread" target="Friday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Weekly Thread" target="Conduct">
+  <data key="d1">1</data>
+</edge>
+<edge source="Weekly Thread" target="Updates">
+  <data key="d1">1</data>
+</edge>
+<edge source="Weekly Thread" target="Talk Fridays">
+  <data key="d1">1</data>
+</edge>
+<edge source="Weekly Thread" target="News">
+  <data key="d1">1</data>
+</edge>
+<edge source="Weekly Thread" target="Reddit">
+  <data key="d1">1</data>
+</edge>
+<edge source="Weekly Thread" target="Job Market">
+  <data key="d1">1</data>
+</edge>
+<edge source="Weekly Thread" target="Found">
+  <data key="d1">1</data>
+</edge>
+<edge source="Weekly Thread" target="Python Meta">
+  <data key="d1">1</data>
+</edge>
+<edge source="Weekly Thread" target="Free">
+  <data key="d1">1</data>
+</edge>
+<edge source="Weekly Thread" target="Community Pulse">
+  <data key="d1">1</data>
+</edge>
+<edge source="Weekly Thread" target="This">
+  <data key="d1">2</data>
+</edge>
+<edge source="Weekly Thread" target="Free Talk Friday">
+  <data key="d1">1</data>
+</edge>
+<edge source="Weekly Thread" target="Something">
+  <data key="d1">1</data>
+</edge>
+<edge source="Weekly Thread" target="Example Topics">
+  <data key="d1">2</data>
+</edge>
+<edge source="Weekly Thread" target="New Python Release">
+  <data key="d1">1</data>
+</edge>
+<edge source="Weekly Thread" target="Open Mic">
+  <data key="d1">1</data>
+</edge>
+<edge source="Weekly Thread" target="Hot Takes">
+  <data key="d1">1</data>
+</edge>
+<edge source="Weekly Thread" target="Community Events">
+  <data key="d1">1</data>
+</edge>
+<edge source="Weekly Thread" target="Meta Discussions">
+  <data key="d1">1</data>
+</edge>
+<edge source="Weekly Thread" target="Python Careers">
+  <data key="d1">1</data>
+</edge>
+<edge source="Weekly Thread" target="Interview Tips">
+  <data key="d1">1</data>
+</edge>
+<edge source="Weekly Thread" target="Career Talk">
+  <data key="d1">1</data>
+</edge>
+<edge source="Weekly Thread" target="Certifications">
+  <data key="d1">1</data>
+</edge>
+<edge source="Weekly Thread" target="Career Paths">
+  <data key="d1">1</data>
+</edge>
+<edge source="Weekly Thread" target="Courses">
+  <data key="d1">1</data>
+</edge>
+<edge source="Weekly Thread" target="Please">
+  <data key="d1">1</data>
+</edge>
+<edge source="Weekly Thread" target="Workplace Tools">
+  <data key="d1">1</data>
+</edge>
+<edge source="Weekly Thread" target="What Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Weekly Thread" target="Thursday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Weekly Thread" target="Course Recommendations">
+  <data key="d1">1</data>
+</edge>
+<edge source="Weekly Thread" target="Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="Weekly Thread" target="Jobs">
+  <data key="d1">1</data>
+</edge>
+<edge source="Weekly Thread" target="Are Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Weekly Thread" target="Professional Use">
+  <data key="d1">1</data>
+</edge>
+<edge source="Weekly Thread" target="Furthering Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="Weekly Thread" target="Workplace Chat">
+  <data key="d1">1</data>
+</edge>
+<edge source="Whether" target="Web Scraping">
+  <data key="d1">1</data>
+</edge>
+<edge source="Whether" target="Example Shares">
+  <data key="d1">1</data>
+</edge>
+<edge source="Whether" target="Automation">
+  <data key="d1">1</data>
+</edge>
+<edge source="Web Scraping" target="Example Shares">
+  <data key="d1">1</data>
+</edge>
+<edge source="Web Scraping" target="Automation">
+  <data key="d1">1</data>
+</edge>
+<edge source="Example Shares" target="Automation">
+  <data key="d1">1</data>
+</edge>
+<edge source="Learning Resources" target="Keep">
+  <data key="d1">1</data>
+</edge>
+<edge source="Learning Resources" target="Community Ideas">
+  <data key="d1">1</data>
+</edge>
+<edge source="Learning Resources" target="Any Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Learning Resources" target="Welcome">
+  <data key="d1">1</data>
+</edge>
+<edge source="Learning Resources" target="Friday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Learning Resources" target="Conduct">
+  <data key="d1">1</data>
+</edge>
+<edge source="Learning Resources" target="Updates">
+  <data key="d1">1</data>
+</edge>
+<edge source="Learning Resources" target="Talk Fridays">
+  <data key="d1">1</data>
+</edge>
+<edge source="Learning Resources" target="News">
+  <data key="d1">1</data>
+</edge>
+<edge source="Learning Resources" target="Reddit">
+  <data key="d1">1</data>
+</edge>
+<edge source="Learning Resources" target="Job Market">
+  <data key="d1">1</data>
+</edge>
+<edge source="Learning Resources" target="Found">
+  <data key="d1">1</data>
+</edge>
+<edge source="Learning Resources" target="Python Meta">
+  <data key="d1">1</data>
+</edge>
+<edge source="Learning Resources" target="Free">
+  <data key="d1">1</data>
+</edge>
+<edge source="Learning Resources" target="Community Pulse">
+  <data key="d1">1</data>
+</edge>
+<edge source="Learning Resources" target="This">
+  <data key="d1">1</data>
+</edge>
+<edge source="Learning Resources" target="Free Talk Friday">
+  <data key="d1">1</data>
+</edge>
+<edge source="Learning Resources" target="Something">
+  <data key="d1">1</data>
+</edge>
+<edge source="Learning Resources" target="Example Topics">
+  <data key="d1">1</data>
+</edge>
+<edge source="Learning Resources" target="New Python Release">
+  <data key="d1">1</data>
+</edge>
+<edge source="Learning Resources" target="Open Mic">
+  <data key="d1">1</data>
+</edge>
+<edge source="Learning Resources" target="Hot Takes">
+  <data key="d1">1</data>
+</edge>
+<edge source="Learning Resources" target="Community Events">
+  <data key="d1">1</data>
+</edge>
+<edge source="Learning Resources" target="Meta Discussions">
+  <data key="d1">1</data>
+</edge>
+<edge source="Keep" target="Community Ideas">
+  <data key="d1">1</data>
+</edge>
+<edge source="Keep" target="Any Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Keep" target="Welcome">
+  <data key="d1">2</data>
+</edge>
+<edge source="Keep" target="Friday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Keep" target="Conduct">
+  <data key="d1">1</data>
+</edge>
+<edge source="Keep" target="Updates">
+  <data key="d1">1</data>
+</edge>
+<edge source="Keep" target="Talk Fridays">
+  <data key="d1">1</data>
+</edge>
+<edge source="Keep" target="News">
+  <data key="d1">1</data>
+</edge>
+<edge source="Keep" target="Reddit">
+  <data key="d1">1</data>
+</edge>
+<edge source="Keep" target="Job Market">
+  <data key="d1">1</data>
+</edge>
+<edge source="Keep" target="Found">
+  <data key="d1">1</data>
+</edge>
+<edge source="Keep" target="Python Meta">
+  <data key="d1">1</data>
+</edge>
+<edge source="Keep" target="Free">
+  <data key="d1">1</data>
+</edge>
+<edge source="Keep" target="Community Pulse">
+  <data key="d1">1</data>
+</edge>
+<edge source="Keep" target="This">
+  <data key="d1">2</data>
+</edge>
+<edge source="Keep" target="Free Talk Friday">
+  <data key="d1">1</data>
+</edge>
+<edge source="Keep" target="Something">
+  <data key="d1">1</data>
+</edge>
+<edge source="Keep" target="Example Topics">
+  <data key="d1">2</data>
+</edge>
+<edge source="Keep" target="New Python Release">
+  <data key="d1">1</data>
+</edge>
+<edge source="Keep" target="Open Mic">
+  <data key="d1">1</data>
+</edge>
+<edge source="Keep" target="Hot Takes">
+  <data key="d1">1</data>
+</edge>
+<edge source="Keep" target="Community Events">
+  <data key="d1">1</data>
+</edge>
+<edge source="Keep" target="Meta Discussions">
+  <data key="d1">1</data>
+</edge>
+<edge source="Keep" target="Python Careers">
+  <data key="d1">1</data>
+</edge>
+<edge source="Keep" target="Interview Tips">
+  <data key="d1">1</data>
+</edge>
+<edge source="Keep" target="Career Talk">
+  <data key="d1">1</data>
+</edge>
+<edge source="Keep" target="Certifications">
+  <data key="d1">1</data>
+</edge>
+<edge source="Keep" target="Career Paths">
+  <data key="d1">1</data>
+</edge>
+<edge source="Keep" target="Courses">
+  <data key="d1">1</data>
+</edge>
+<edge source="Keep" target="Please">
+  <data key="d1">1</data>
+</edge>
+<edge source="Keep" target="Workplace Tools">
+  <data key="d1">1</data>
+</edge>
+<edge source="Keep" target="What Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Keep" target="Thursday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Keep" target="Course Recommendations">
+  <data key="d1">1</data>
+</edge>
+<edge source="Keep" target="Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="Keep" target="Jobs">
+  <data key="d1">1</data>
+</edge>
+<edge source="Keep" target="Are Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Keep" target="Professional Use">
+  <data key="d1">1</data>
+</edge>
+<edge source="Keep" target="Furthering Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="Keep" target="Workplace Chat">
+  <data key="d1">1</data>
+</edge>
+<edge source="Community Ideas" target="Any Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Community Ideas" target="Welcome">
+  <data key="d1">1</data>
+</edge>
+<edge source="Community Ideas" target="Friday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Community Ideas" target="Conduct">
+  <data key="d1">1</data>
+</edge>
+<edge source="Community Ideas" target="Updates">
+  <data key="d1">1</data>
+</edge>
+<edge source="Community Ideas" target="Talk Fridays">
+  <data key="d1">1</data>
+</edge>
+<edge source="Community Ideas" target="News">
+  <data key="d1">1</data>
+</edge>
+<edge source="Community Ideas" target="Reddit">
+  <data key="d1">1</data>
+</edge>
+<edge source="Community Ideas" target="Job Market">
+  <data key="d1">1</data>
+</edge>
+<edge source="Community Ideas" target="Found">
+  <data key="d1">1</data>
+</edge>
+<edge source="Community Ideas" target="Python Meta">
+  <data key="d1">1</data>
+</edge>
+<edge source="Community Ideas" target="Free">
+  <data key="d1">1</data>
+</edge>
+<edge source="Community Ideas" target="Community Pulse">
+  <data key="d1">1</data>
+</edge>
+<edge source="Community Ideas" target="This">
+  <data key="d1">1</data>
+</edge>
+<edge source="Community Ideas" target="Free Talk Friday">
+  <data key="d1">1</data>
+</edge>
+<edge source="Community Ideas" target="Something">
+  <data key="d1">1</data>
+</edge>
+<edge source="Community Ideas" target="Example Topics">
+  <data key="d1">1</data>
+</edge>
+<edge source="Community Ideas" target="New Python Release">
+  <data key="d1">1</data>
+</edge>
+<edge source="Community Ideas" target="Open Mic">
+  <data key="d1">1</data>
+</edge>
+<edge source="Community Ideas" target="Hot Takes">
+  <data key="d1">1</data>
+</edge>
+<edge source="Community Ideas" target="Community Events">
+  <data key="d1">1</data>
+</edge>
+<edge source="Community Ideas" target="Meta Discussions">
+  <data key="d1">1</data>
+</edge>
+<edge source="Any Python" target="Welcome">
+  <data key="d1">1</data>
+</edge>
+<edge source="Any Python" target="Friday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Any Python" target="Conduct">
+  <data key="d1">1</data>
+</edge>
+<edge source="Any Python" target="Updates">
+  <data key="d1">1</data>
+</edge>
+<edge source="Any Python" target="Talk Fridays">
+  <data key="d1">1</data>
+</edge>
+<edge source="Any Python" target="News">
+  <data key="d1">1</data>
+</edge>
+<edge source="Any Python" target="Reddit">
+  <data key="d1">1</data>
+</edge>
+<edge source="Any Python" target="Job Market">
+  <data key="d1">1</data>
+</edge>
+<edge source="Any Python" target="Found">
+  <data key="d1">1</data>
+</edge>
+<edge source="Any Python" target="Python Meta">
+  <data key="d1">1</data>
+</edge>
+<edge source="Any Python" target="Free">
+  <data key="d1">1</data>
+</edge>
+<edge source="Any Python" target="Community Pulse">
+  <data key="d1">1</data>
+</edge>
+<edge source="Any Python" target="This">
+  <data key="d1">1</data>
+</edge>
+<edge source="Any Python" target="Free Talk Friday">
+  <data key="d1">1</data>
+</edge>
+<edge source="Any Python" target="Something">
+  <data key="d1">1</data>
+</edge>
+<edge source="Any Python" target="Example Topics">
+  <data key="d1">1</data>
+</edge>
+<edge source="Any Python" target="New Python Release">
+  <data key="d1">1</data>
+</edge>
+<edge source="Any Python" target="Open Mic">
+  <data key="d1">1</data>
+</edge>
+<edge source="Any Python" target="Hot Takes">
+  <data key="d1">1</data>
+</edge>
+<edge source="Any Python" target="Community Events">
+  <data key="d1">1</data>
+</edge>
+<edge source="Any Python" target="Meta Discussions">
+  <data key="d1">1</data>
+</edge>
+<edge source="Welcome" target="Friday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Welcome" target="Conduct">
+  <data key="d1">1</data>
+</edge>
+<edge source="Welcome" target="Updates">
+  <data key="d1">1</data>
+</edge>
+<edge source="Welcome" target="Talk Fridays">
+  <data key="d1">1</data>
+</edge>
+<edge source="Welcome" target="News">
+  <data key="d1">1</data>
+</edge>
+<edge source="Welcome" target="Reddit">
+  <data key="d1">1</data>
+</edge>
+<edge source="Welcome" target="Job Market">
+  <data key="d1">1</data>
+</edge>
+<edge source="Welcome" target="Found">
+  <data key="d1">1</data>
+</edge>
+<edge source="Welcome" target="Python Meta">
+  <data key="d1">1</data>
+</edge>
+<edge source="Welcome" target="Free">
+  <data key="d1">1</data>
+</edge>
+<edge source="Welcome" target="Community Pulse">
+  <data key="d1">1</data>
+</edge>
+<edge source="Welcome" target="This">
+  <data key="d1">2</data>
+</edge>
+<edge source="Welcome" target="Free Talk Friday">
+  <data key="d1">1</data>
+</edge>
+<edge source="Welcome" target="Something">
+  <data key="d1">1</data>
+</edge>
+<edge source="Welcome" target="Example Topics">
+  <data key="d1">2</data>
+</edge>
+<edge source="Welcome" target="New Python Release">
+  <data key="d1">1</data>
+</edge>
+<edge source="Welcome" target="Open Mic">
+  <data key="d1">1</data>
+</edge>
+<edge source="Welcome" target="Hot Takes">
+  <data key="d1">1</data>
+</edge>
+<edge source="Welcome" target="Community Events">
+  <data key="d1">1</data>
+</edge>
+<edge source="Welcome" target="Meta Discussions">
+  <data key="d1">1</data>
+</edge>
+<edge source="Welcome" target="Python Careers">
+  <data key="d1">1</data>
+</edge>
+<edge source="Welcome" target="Interview Tips">
+  <data key="d1">1</data>
+</edge>
+<edge source="Welcome" target="Career Talk">
+  <data key="d1">1</data>
+</edge>
+<edge source="Welcome" target="Certifications">
+  <data key="d1">1</data>
+</edge>
+<edge source="Welcome" target="Career Paths">
+  <data key="d1">1</data>
+</edge>
+<edge source="Welcome" target="Courses">
+  <data key="d1">1</data>
+</edge>
+<edge source="Welcome" target="Please">
+  <data key="d1">1</data>
+</edge>
+<edge source="Welcome" target="Workplace Tools">
+  <data key="d1">1</data>
+</edge>
+<edge source="Welcome" target="What Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Welcome" target="Thursday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Welcome" target="Course Recommendations">
+  <data key="d1">1</data>
+</edge>
+<edge source="Welcome" target="Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="Welcome" target="Jobs">
+  <data key="d1">1</data>
+</edge>
+<edge source="Welcome" target="Are Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Welcome" target="Professional Use">
+  <data key="d1">1</data>
+</edge>
+<edge source="Welcome" target="Furthering Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="Welcome" target="Workplace Chat">
+  <data key="d1">1</data>
+</edge>
+<edge source="Friday Daily Thread" target="Conduct">
+  <data key="d1">1</data>
+</edge>
+<edge source="Friday Daily Thread" target="Updates">
+  <data key="d1">1</data>
+</edge>
+<edge source="Friday Daily Thread" target="Talk Fridays">
+  <data key="d1">1</data>
+</edge>
+<edge source="Friday Daily Thread" target="News">
+  <data key="d1">1</data>
+</edge>
+<edge source="Friday Daily Thread" target="Reddit">
+  <data key="d1">1</data>
+</edge>
+<edge source="Friday Daily Thread" target="Job Market">
+  <data key="d1">1</data>
+</edge>
+<edge source="Friday Daily Thread" target="Found">
+  <data key="d1">1</data>
+</edge>
+<edge source="Friday Daily Thread" target="Python Meta">
+  <data key="d1">1</data>
+</edge>
+<edge source="Friday Daily Thread" target="Free">
+  <data key="d1">1</data>
+</edge>
+<edge source="Friday Daily Thread" target="Community Pulse">
+  <data key="d1">1</data>
+</edge>
+<edge source="Friday Daily Thread" target="This">
+  <data key="d1">1</data>
+</edge>
+<edge source="Friday Daily Thread" target="Free Talk Friday">
+  <data key="d1">1</data>
+</edge>
+<edge source="Friday Daily Thread" target="Something">
+  <data key="d1">1</data>
+</edge>
+<edge source="Friday Daily Thread" target="Example Topics">
+  <data key="d1">1</data>
+</edge>
+<edge source="Friday Daily Thread" target="New Python Release">
+  <data key="d1">1</data>
+</edge>
+<edge source="Friday Daily Thread" target="Open Mic">
+  <data key="d1">1</data>
+</edge>
+<edge source="Friday Daily Thread" target="Hot Takes">
+  <data key="d1">1</data>
+</edge>
+<edge source="Friday Daily Thread" target="Community Events">
+  <data key="d1">1</data>
+</edge>
+<edge source="Friday Daily Thread" target="Meta Discussions">
+  <data key="d1">1</data>
+</edge>
+<edge source="Conduct" target="Updates">
+  <data key="d1">1</data>
+</edge>
+<edge source="Conduct" target="Talk Fridays">
+  <data key="d1">1</data>
+</edge>
+<edge source="Conduct" target="News">
+  <data key="d1">1</data>
+</edge>
+<edge source="Conduct" target="Reddit">
+  <data key="d1">1</data>
+</edge>
+<edge source="Conduct" target="Job Market">
+  <data key="d1">1</data>
+</edge>
+<edge source="Conduct" target="Found">
+  <data key="d1">1</data>
+</edge>
+<edge source="Conduct" target="Python Meta">
+  <data key="d1">1</data>
+</edge>
+<edge source="Conduct" target="Free">
+  <data key="d1">1</data>
+</edge>
+<edge source="Conduct" target="Community Pulse">
+  <data key="d1">1</data>
+</edge>
+<edge source="Conduct" target="This">
+  <data key="d1">1</data>
+</edge>
+<edge source="Conduct" target="Free Talk Friday">
+  <data key="d1">1</data>
+</edge>
+<edge source="Conduct" target="Something">
+  <data key="d1">1</data>
+</edge>
+<edge source="Conduct" target="Example Topics">
+  <data key="d1">1</data>
+</edge>
+<edge source="Conduct" target="New Python Release">
+  <data key="d1">1</data>
+</edge>
+<edge source="Conduct" target="Open Mic">
+  <data key="d1">1</data>
+</edge>
+<edge source="Conduct" target="Hot Takes">
+  <data key="d1">1</data>
+</edge>
+<edge source="Conduct" target="Community Events">
+  <data key="d1">1</data>
+</edge>
+<edge source="Conduct" target="Meta Discussions">
+  <data key="d1">1</data>
+</edge>
+<edge source="Updates" target="Talk Fridays">
+  <data key="d1">1</data>
+</edge>
+<edge source="Updates" target="News">
+  <data key="d1">1</data>
+</edge>
+<edge source="Updates" target="Reddit">
+  <data key="d1">1</data>
+</edge>
+<edge source="Updates" target="Job Market">
+  <data key="d1">1</data>
+</edge>
+<edge source="Updates" target="Found">
+  <data key="d1">1</data>
+</edge>
+<edge source="Updates" target="Python Meta">
+  <data key="d1">1</data>
+</edge>
+<edge source="Updates" target="Free">
+  <data key="d1">1</data>
+</edge>
+<edge source="Updates" target="Community Pulse">
+  <data key="d1">1</data>
+</edge>
+<edge source="Updates" target="This">
+  <data key="d1">1</data>
+</edge>
+<edge source="Updates" target="Free Talk Friday">
+  <data key="d1">1</data>
+</edge>
+<edge source="Updates" target="Something">
+  <data key="d1">1</data>
+</edge>
+<edge source="Updates" target="Example Topics">
+  <data key="d1">1</data>
+</edge>
+<edge source="Updates" target="New Python Release">
+  <data key="d1">1</data>
+</edge>
+<edge source="Updates" target="Open Mic">
+  <data key="d1">1</data>
+</edge>
+<edge source="Updates" target="Hot Takes">
+  <data key="d1">1</data>
+</edge>
+<edge source="Updates" target="Community Events">
+  <data key="d1">1</data>
+</edge>
+<edge source="Updates" target="Meta Discussions">
+  <data key="d1">1</data>
+</edge>
+<edge source="Talk Fridays" target="News">
+  <data key="d1">1</data>
+</edge>
+<edge source="Talk Fridays" target="Reddit">
+  <data key="d1">1</data>
+</edge>
+<edge source="Talk Fridays" target="Job Market">
+  <data key="d1">1</data>
+</edge>
+<edge source="Talk Fridays" target="Found">
+  <data key="d1">1</data>
+</edge>
+<edge source="Talk Fridays" target="Python Meta">
+  <data key="d1">1</data>
+</edge>
+<edge source="Talk Fridays" target="Free">
+  <data key="d1">1</data>
+</edge>
+<edge source="Talk Fridays" target="Community Pulse">
+  <data key="d1">1</data>
+</edge>
+<edge source="Talk Fridays" target="This">
+  <data key="d1">1</data>
+</edge>
+<edge source="Talk Fridays" target="Free Talk Friday">
+  <data key="d1">1</data>
+</edge>
+<edge source="Talk Fridays" target="Something">
+  <data key="d1">1</data>
+</edge>
+<edge source="Talk Fridays" target="Example Topics">
+  <data key="d1">1</data>
+</edge>
+<edge source="Talk Fridays" target="New Python Release">
+  <data key="d1">1</data>
+</edge>
+<edge source="Talk Fridays" target="Open Mic">
+  <data key="d1">1</data>
+</edge>
+<edge source="Talk Fridays" target="Hot Takes">
+  <data key="d1">1</data>
+</edge>
+<edge source="Talk Fridays" target="Community Events">
+  <data key="d1">1</data>
+</edge>
+<edge source="Talk Fridays" target="Meta Discussions">
+  <data key="d1">1</data>
+</edge>
+<edge source="News" target="Reddit">
+  <data key="d1">1</data>
+</edge>
+<edge source="News" target="Job Market">
+  <data key="d1">1</data>
+</edge>
+<edge source="News" target="Found">
+  <data key="d1">1</data>
+</edge>
+<edge source="News" target="Python Meta">
+  <data key="d1">1</data>
+</edge>
+<edge source="News" target="Free">
+  <data key="d1">1</data>
+</edge>
+<edge source="News" target="Community Pulse">
+  <data key="d1">1</data>
+</edge>
+<edge source="News" target="This">
+  <data key="d1">1</data>
+</edge>
+<edge source="News" target="Free Talk Friday">
+  <data key="d1">1</data>
+</edge>
+<edge source="News" target="Something">
+  <data key="d1">1</data>
+</edge>
+<edge source="News" target="Example Topics">
+  <data key="d1">1</data>
+</edge>
+<edge source="News" target="New Python Release">
+  <data key="d1">1</data>
+</edge>
+<edge source="News" target="Open Mic">
+  <data key="d1">1</data>
+</edge>
+<edge source="News" target="Hot Takes">
+  <data key="d1">1</data>
+</edge>
+<edge source="News" target="Community Events">
+  <data key="d1">1</data>
+</edge>
+<edge source="News" target="Meta Discussions">
+  <data key="d1">1</data>
+</edge>
+<edge source="Reddit" target="Job Market">
+  <data key="d1">1</data>
+</edge>
+<edge source="Reddit" target="Found">
+  <data key="d1">1</data>
+</edge>
+<edge source="Reddit" target="Python Meta">
+  <data key="d1">1</data>
+</edge>
+<edge source="Reddit" target="Free">
+  <data key="d1">1</data>
+</edge>
+<edge source="Reddit" target="Community Pulse">
+  <data key="d1">1</data>
+</edge>
+<edge source="Reddit" target="This">
+  <data key="d1">1</data>
+</edge>
+<edge source="Reddit" target="Free Talk Friday">
+  <data key="d1">1</data>
+</edge>
+<edge source="Reddit" target="Something">
+  <data key="d1">1</data>
+</edge>
+<edge source="Reddit" target="Example Topics">
+  <data key="d1">1</data>
+</edge>
+<edge source="Reddit" target="New Python Release">
+  <data key="d1">1</data>
+</edge>
+<edge source="Reddit" target="Open Mic">
+  <data key="d1">1</data>
+</edge>
+<edge source="Reddit" target="Hot Takes">
+  <data key="d1">1</data>
+</edge>
+<edge source="Reddit" target="Community Events">
+  <data key="d1">1</data>
+</edge>
+<edge source="Reddit" target="Meta Discussions">
+  <data key="d1">1</data>
+</edge>
+<edge source="Reddit" target="With Open">
+  <data key="d1">1</data>
+</edge>
+<edge source="Reddit" target="Endowed">
+  <data key="d1">1</data>
+</edge>
+<edge source="Reddit" target="About">
+  <data key="d1">1</data>
+</edge>
+<edge source="Reddit" target="Sorry">
+  <data key="d1">1</data>
+</edge>
+<edge source="Reddit" target="Well">
+  <data key="d1">1</data>
+</edge>
+<edge source="Reddit" target="Should">
+  <data key="d1">1</data>
+</edge>
+<edge source="Reddit" target="Open">
+  <data key="d1">1</data>
+</edge>
+<edge source="Reddit" target="Wizard">
+  <data key="d1">1</data>
+</edge>
+<edge source="Reddit" target="Astral">
+  <data key="d1">1</data>
+</edge>
+<edge source="Reddit" target="Will">
+  <data key="d1">1</data>
+</edge>
+<edge source="Job Market" target="Found">
+  <data key="d1">1</data>
+</edge>
+<edge source="Job Market" target="Python Meta">
+  <data key="d1">1</data>
+</edge>
+<edge source="Job Market" target="Free">
+  <data key="d1">1</data>
+</edge>
+<edge source="Job Market" target="Community Pulse">
+  <data key="d1">1</data>
+</edge>
+<edge source="Job Market" target="This">
+  <data key="d1">1</data>
+</edge>
+<edge source="Job Market" target="Free Talk Friday">
+  <data key="d1">1</data>
+</edge>
+<edge source="Job Market" target="Something">
+  <data key="d1">1</data>
+</edge>
+<edge source="Job Market" target="Example Topics">
+  <data key="d1">1</data>
+</edge>
+<edge source="Job Market" target="New Python Release">
+  <data key="d1">1</data>
+</edge>
+<edge source="Job Market" target="Open Mic">
+  <data key="d1">1</data>
+</edge>
+<edge source="Job Market" target="Hot Takes">
+  <data key="d1">1</data>
+</edge>
+<edge source="Job Market" target="Community Events">
+  <data key="d1">1</data>
+</edge>
+<edge source="Job Market" target="Meta Discussions">
+  <data key="d1">1</data>
+</edge>
+<edge source="Found" target="Python Meta">
+  <data key="d1">1</data>
+</edge>
+<edge source="Found" target="Free">
+  <data key="d1">1</data>
+</edge>
+<edge source="Found" target="Community Pulse">
+  <data key="d1">1</data>
+</edge>
+<edge source="Found" target="This">
+  <data key="d1">1</data>
+</edge>
+<edge source="Found" target="Free Talk Friday">
+  <data key="d1">1</data>
+</edge>
+<edge source="Found" target="Something">
+  <data key="d1">1</data>
+</edge>
+<edge source="Found" target="Example Topics">
+  <data key="d1">1</data>
+</edge>
+<edge source="Found" target="New Python Release">
+  <data key="d1">1</data>
+</edge>
+<edge source="Found" target="Open Mic">
+  <data key="d1">1</data>
+</edge>
+<edge source="Found" target="Hot Takes">
+  <data key="d1">1</data>
+</edge>
+<edge source="Found" target="Community Events">
+  <data key="d1">1</data>
+</edge>
+<edge source="Found" target="Meta Discussions">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python Meta" target="Free">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python Meta" target="Community Pulse">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python Meta" target="This">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python Meta" target="Free Talk Friday">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python Meta" target="Something">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python Meta" target="Example Topics">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python Meta" target="New Python Release">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python Meta" target="Open Mic">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python Meta" target="Hot Takes">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python Meta" target="Community Events">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python Meta" target="Meta Discussions">
+  <data key="d1">1</data>
+</edge>
+<edge source="Free" target="Community Pulse">
+  <data key="d1">1</data>
+</edge>
+<edge source="Free" target="This">
+  <data key="d1">1</data>
+</edge>
+<edge source="Free" target="Free Talk Friday">
+  <data key="d1">1</data>
+</edge>
+<edge source="Free" target="Something">
+  <data key="d1">1</data>
+</edge>
+<edge source="Free" target="Example Topics">
+  <data key="d1">1</data>
+</edge>
+<edge source="Free" target="New Python Release">
+  <data key="d1">1</data>
+</edge>
+<edge source="Free" target="Open Mic">
+  <data key="d1">1</data>
+</edge>
+<edge source="Free" target="Hot Takes">
+  <data key="d1">1</data>
+</edge>
+<edge source="Free" target="Community Events">
+  <data key="d1">1</data>
+</edge>
+<edge source="Free" target="Meta Discussions">
+  <data key="d1">1</data>
+</edge>
+<edge source="Community Pulse" target="This">
+  <data key="d1">1</data>
+</edge>
+<edge source="Community Pulse" target="Free Talk Friday">
+  <data key="d1">1</data>
+</edge>
+<edge source="Community Pulse" target="Something">
+  <data key="d1">1</data>
+</edge>
+<edge source="Community Pulse" target="Example Topics">
+  <data key="d1">1</data>
+</edge>
+<edge source="Community Pulse" target="New Python Release">
+  <data key="d1">1</data>
+</edge>
+<edge source="Community Pulse" target="Open Mic">
+  <data key="d1">1</data>
+</edge>
+<edge source="Community Pulse" target="Hot Takes">
+  <data key="d1">1</data>
+</edge>
+<edge source="Community Pulse" target="Community Events">
+  <data key="d1">1</data>
+</edge>
+<edge source="Community Pulse" target="Meta Discussions">
+  <data key="d1">1</data>
+</edge>
+<edge source="This" target="Free Talk Friday">
+  <data key="d1">1</data>
+</edge>
+<edge source="This" target="Something">
+  <data key="d1">1</data>
+</edge>
+<edge source="This" target="Example Topics">
+  <data key="d1">2</data>
+</edge>
+<edge source="This" target="New Python Release">
+  <data key="d1">1</data>
+</edge>
+<edge source="This" target="Open Mic">
+  <data key="d1">1</data>
+</edge>
+<edge source="This" target="Hot Takes">
+  <data key="d1">1</data>
+</edge>
+<edge source="This" target="Community Events">
+  <data key="d1">1</data>
+</edge>
+<edge source="This" target="Meta Discussions">
+  <data key="d1">1</data>
+</edge>
+<edge source="This" target="Python Careers">
+  <data key="d1">1</data>
+</edge>
+<edge source="This" target="Interview Tips">
+  <data key="d1">1</data>
+</edge>
+<edge source="This" target="Career Talk">
+  <data key="d1">1</data>
+</edge>
+<edge source="This" target="Certifications">
+  <data key="d1">1</data>
+</edge>
+<edge source="This" target="Career Paths">
+  <data key="d1">1</data>
+</edge>
+<edge source="This" target="Courses">
+  <data key="d1">1</data>
+</edge>
+<edge source="This" target="Please">
+  <data key="d1">1</data>
+</edge>
+<edge source="This" target="Workplace Tools">
+  <data key="d1">1</data>
+</edge>
+<edge source="This" target="What Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="This" target="Thursday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="This" target="Course Recommendations">
+  <data key="d1">1</data>
+</edge>
+<edge source="This" target="Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="This" target="Jobs">
+  <data key="d1">1</data>
+</edge>
+<edge source="This" target="Are Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="This" target="Professional Use">
+  <data key="d1">1</data>
+</edge>
+<edge source="This" target="Furthering Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="This" target="Workplace Chat">
+  <data key="d1">1</data>
+</edge>
+<edge source="Free Talk Friday" target="Something">
+  <data key="d1">1</data>
+</edge>
+<edge source="Free Talk Friday" target="Example Topics">
+  <data key="d1">1</data>
+</edge>
+<edge source="Free Talk Friday" target="New Python Release">
+  <data key="d1">1</data>
+</edge>
+<edge source="Free Talk Friday" target="Open Mic">
+  <data key="d1">1</data>
+</edge>
+<edge source="Free Talk Friday" target="Hot Takes">
+  <data key="d1">1</data>
+</edge>
+<edge source="Free Talk Friday" target="Community Events">
+  <data key="d1">1</data>
+</edge>
+<edge source="Free Talk Friday" target="Meta Discussions">
+  <data key="d1">1</data>
+</edge>
+<edge source="Something" target="Example Topics">
+  <data key="d1">1</data>
+</edge>
+<edge source="Something" target="New Python Release">
+  <data key="d1">1</data>
+</edge>
+<edge source="Something" target="Open Mic">
+  <data key="d1">1</data>
+</edge>
+<edge source="Something" target="Hot Takes">
+  <data key="d1">1</data>
+</edge>
+<edge source="Something" target="Community Events">
+  <data key="d1">1</data>
+</edge>
+<edge source="Something" target="Meta Discussions">
+  <data key="d1">1</data>
+</edge>
+<edge source="Example Topics" target="New Python Release">
+  <data key="d1">1</data>
+</edge>
+<edge source="Example Topics" target="Open Mic">
+  <data key="d1">1</data>
+</edge>
+<edge source="Example Topics" target="Hot Takes">
+  <data key="d1">1</data>
+</edge>
+<edge source="Example Topics" target="Community Events">
+  <data key="d1">1</data>
+</edge>
+<edge source="Example Topics" target="Meta Discussions">
+  <data key="d1">1</data>
+</edge>
+<edge source="Example Topics" target="Python Careers">
+  <data key="d1">1</data>
+</edge>
+<edge source="Example Topics" target="Interview Tips">
+  <data key="d1">1</data>
+</edge>
+<edge source="Example Topics" target="Career Talk">
+  <data key="d1">1</data>
+</edge>
+<edge source="Example Topics" target="Certifications">
+  <data key="d1">1</data>
+</edge>
+<edge source="Example Topics" target="Career Paths">
+  <data key="d1">1</data>
+</edge>
+<edge source="Example Topics" target="Courses">
+  <data key="d1">1</data>
+</edge>
+<edge source="Example Topics" target="Please">
+  <data key="d1">1</data>
+</edge>
+<edge source="Example Topics" target="Workplace Tools">
+  <data key="d1">1</data>
+</edge>
+<edge source="Example Topics" target="What Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Example Topics" target="Thursday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Example Topics" target="Course Recommendations">
+  <data key="d1">1</data>
+</edge>
+<edge source="Example Topics" target="Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="Example Topics" target="Jobs">
+  <data key="d1">1</data>
+</edge>
+<edge source="Example Topics" target="Are Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Example Topics" target="Professional Use">
+  <data key="d1">1</data>
+</edge>
+<edge source="Example Topics" target="Furthering Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="Example Topics" target="Workplace Chat">
+  <data key="d1">1</data>
+</edge>
+<edge source="New Python Release" target="Open Mic">
+  <data key="d1">1</data>
+</edge>
+<edge source="New Python Release" target="Hot Takes">
+  <data key="d1">1</data>
+</edge>
+<edge source="New Python Release" target="Community Events">
+  <data key="d1">1</data>
+</edge>
+<edge source="New Python Release" target="Meta Discussions">
+  <data key="d1">1</data>
+</edge>
+<edge source="Open Mic" target="Hot Takes">
+  <data key="d1">1</data>
+</edge>
+<edge source="Open Mic" target="Community Events">
+  <data key="d1">1</data>
+</edge>
+<edge source="Open Mic" target="Meta Discussions">
+  <data key="d1">1</data>
+</edge>
+<edge source="Hot Takes" target="Community Events">
+  <data key="d1">1</data>
+</edge>
+<edge source="Hot Takes" target="Meta Discussions">
+  <data key="d1">1</data>
+</edge>
+<edge source="Community Events" target="Meta Discussions">
+  <data key="d1">1</data>
+</edge>
+<edge source="With Open" target="Endowed">
+  <data key="d1">1</data>
+</edge>
+<edge source="With Open" target="About">
+  <data key="d1">1</data>
+</edge>
+<edge source="With Open" target="Sorry">
+  <data key="d1">1</data>
+</edge>
+<edge source="With Open" target="Well">
+  <data key="d1">1</data>
+</edge>
+<edge source="With Open" target="Should">
+  <data key="d1">1</data>
+</edge>
+<edge source="With Open" target="Open">
+  <data key="d1">1</data>
+</edge>
+<edge source="With Open" target="Wizard">
+  <data key="d1">1</data>
+</edge>
+<edge source="With Open" target="Astral">
+  <data key="d1">1</data>
+</edge>
+<edge source="With Open" target="Will">
+  <data key="d1">1</data>
+</edge>
+<edge source="Endowed" target="About">
+  <data key="d1">1</data>
+</edge>
+<edge source="Endowed" target="Sorry">
+  <data key="d1">1</data>
+</edge>
+<edge source="Endowed" target="Well">
+  <data key="d1">1</data>
+</edge>
+<edge source="Endowed" target="Should">
+  <data key="d1">1</data>
+</edge>
+<edge source="Endowed" target="Open">
+  <data key="d1">1</data>
+</edge>
+<edge source="Endowed" target="Wizard">
+  <data key="d1">1</data>
+</edge>
+<edge source="Endowed" target="Astral">
+  <data key="d1">1</data>
+</edge>
+<edge source="Endowed" target="Will">
+  <data key="d1">1</data>
+</edge>
+<edge source="About" target="Sorry">
+  <data key="d1">1</data>
+</edge>
+<edge source="About" target="Well">
+  <data key="d1">1</data>
+</edge>
+<edge source="About" target="Should">
+  <data key="d1">1</data>
+</edge>
+<edge source="About" target="Open">
+  <data key="d1">1</data>
+</edge>
+<edge source="About" target="Wizard">
+  <data key="d1">1</data>
+</edge>
+<edge source="About" target="Astral">
+  <data key="d1">1</data>
+</edge>
+<edge source="About" target="Will">
+  <data key="d1">1</data>
+</edge>
+<edge source="Sorry" target="Well">
+  <data key="d1">1</data>
+</edge>
+<edge source="Sorry" target="Should">
+  <data key="d1">1</data>
+</edge>
+<edge source="Sorry" target="Open">
+  <data key="d1">1</data>
+</edge>
+<edge source="Sorry" target="Wizard">
+  <data key="d1">1</data>
+</edge>
+<edge source="Sorry" target="Astral">
+  <data key="d1">1</data>
+</edge>
+<edge source="Sorry" target="Will">
+  <data key="d1">1</data>
+</edge>
+<edge source="Well" target="Should">
+  <data key="d1">1</data>
+</edge>
+<edge source="Well" target="Open">
+  <data key="d1">1</data>
+</edge>
+<edge source="Well" target="Wizard">
+  <data key="d1">1</data>
+</edge>
+<edge source="Well" target="Astral">
+  <data key="d1">1</data>
+</edge>
+<edge source="Well" target="Will">
+  <data key="d1">1</data>
+</edge>
+<edge source="Should" target="Open">
+  <data key="d1">1</data>
+</edge>
+<edge source="Should" target="Wizard">
+  <data key="d1">1</data>
+</edge>
+<edge source="Should" target="Astral">
+  <data key="d1">1</data>
+</edge>
+<edge source="Should" target="Will">
+  <data key="d1">1</data>
+</edge>
+<edge source="Open" target="Wizard">
+  <data key="d1">1</data>
+</edge>
+<edge source="Open" target="Astral">
+  <data key="d1">1</data>
+</edge>
+<edge source="Open" target="Will">
+  <data key="d1">1</data>
+</edge>
+<edge source="Open" target="Curious">
+  <data key="d1">1</data>
+</edge>
+<edge source="Open" target="Config">
+  <data key="d1">1</data>
+</edge>
+<edge source="Open" target="Telemetry">
+  <data key="d1">1</data>
+</edge>
+<edge source="Open" target="Logging">
+  <data key="d1">1</data>
+</edge>
+<edge source="Open" target="Bridging Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Open" target="Handler">
+  <data key="d1">1</data>
+</edge>
+<edge source="Open" target="Complete Guide">
+  <data key="d1">1</data>
+</edge>
+<edge source="Open" target="Collector">
+  <data key="d1">1</data>
+</edge>
+<edge source="Open" target="Logging Module">
+  <data key="d1">1</data>
+</edge>
+<edge source="Open" target="Benchmark">
+  <data key="d1">1</data>
+</edge>
+<edge source="Open" target="Points">
+  <data key="d1">1</data>
+</edge>
+<edge source="Open" target="Comments">
+  <data key="d1">1</data>
+</edge>
+<edge source="Open" target="Article">
+  <data key="d1">1</data>
+</edge>
+<edge source="Open" target="Tops">
+  <data key="d1">1</data>
+</edge>
+<edge source="Open" target="Architectural">
+  <data key="d1">1</data>
+</edge>
+<edge source="Open" target="Antigravity">
+  <data key="d1">1</data>
+</edge>
+<edge source="Wizard" target="Astral">
+  <data key="d1">1</data>
+</edge>
+<edge source="Wizard" target="Will">
+  <data key="d1">1</data>
+</edge>
+<edge source="Astral" target="Will">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mediocre" target="Scallion">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mediocre" target="Chicago">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mediocre" target="Django">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mediocre" target="August">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mediocre" target="Early">
+  <data key="d1">1</data>
+</edge>
+<edge source="Scallion" target="Chicago">
+  <data key="d1">1</data>
+</edge>
+<edge source="Scallion" target="Django">
+  <data key="d1">1</data>
+</edge>
+<edge source="Scallion" target="August">
+  <data key="d1">1</data>
+</edge>
+<edge source="Scallion" target="Early">
+  <data key="d1">1</data>
+</edge>
+<edge source="Chicago" target="Django">
+  <data key="d1">1</data>
+</edge>
+<edge source="Chicago" target="August">
+  <data key="d1">1</data>
+</edge>
+<edge source="Chicago" target="Early">
+  <data key="d1">1</data>
+</edge>
+<edge source="Django" target="August">
+  <data key="d1">1</data>
+</edge>
+<edge source="Django" target="Early">
+  <data key="d1">1</data>
+</edge>
+<edge source="Django" target="Business">
+  <data key="d1">1</data>
+</edge>
+<edge source="Django" target="Hopeful">
+  <data key="d1">1</data>
+</edge>
+<edge source="Django" target="Linked">
+  <data key="d1">1</data>
+</edge>
+<edge source="Django" target="Real">
+  <data key="d1">1</data>
+</edge>
+<edge source="Django" target="Toptal">
+  <data key="d1">1</data>
+</edge>
+<edge source="Django" target="Fast">
+  <data key="d1">1</data>
+</edge>
+<edge source="Django" target="Upwork">
+  <data key="d1">1</data>
+</edge>
+<edge source="Django" target="Next">
+  <data key="d1">1</data>
+</edge>
+<edge source="August" target="Early">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python Careers" target="Interview Tips">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python Careers" target="Career Talk">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python Careers" target="Certifications">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python Careers" target="Career Paths">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python Careers" target="Courses">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python Careers" target="Please">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python Careers" target="Workplace Tools">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python Careers" target="What Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python Careers" target="Thursday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python Careers" target="Course Recommendations">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python Careers" target="Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python Careers" target="Jobs">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python Careers" target="Are Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python Careers" target="Professional Use">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python Careers" target="Furthering Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="Python Careers" target="Workplace Chat">
+  <data key="d1">1</data>
+</edge>
+<edge source="Interview Tips" target="Career Talk">
+  <data key="d1">1</data>
+</edge>
+<edge source="Interview Tips" target="Certifications">
+  <data key="d1">1</data>
+</edge>
+<edge source="Interview Tips" target="Career Paths">
+  <data key="d1">1</data>
+</edge>
+<edge source="Interview Tips" target="Courses">
+  <data key="d1">1</data>
+</edge>
+<edge source="Interview Tips" target="Please">
+  <data key="d1">1</data>
+</edge>
+<edge source="Interview Tips" target="Workplace Tools">
+  <data key="d1">1</data>
+</edge>
+<edge source="Interview Tips" target="What Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Interview Tips" target="Thursday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Interview Tips" target="Course Recommendations">
+  <data key="d1">1</data>
+</edge>
+<edge source="Interview Tips" target="Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="Interview Tips" target="Jobs">
+  <data key="d1">1</data>
+</edge>
+<edge source="Interview Tips" target="Are Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Interview Tips" target="Professional Use">
+  <data key="d1">1</data>
+</edge>
+<edge source="Interview Tips" target="Furthering Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="Interview Tips" target="Workplace Chat">
+  <data key="d1">1</data>
+</edge>
+<edge source="Career Talk" target="Certifications">
+  <data key="d1">1</data>
+</edge>
+<edge source="Career Talk" target="Career Paths">
+  <data key="d1">1</data>
+</edge>
+<edge source="Career Talk" target="Courses">
+  <data key="d1">1</data>
+</edge>
+<edge source="Career Talk" target="Please">
+  <data key="d1">1</data>
+</edge>
+<edge source="Career Talk" target="Workplace Tools">
+  <data key="d1">1</data>
+</edge>
+<edge source="Career Talk" target="What Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Career Talk" target="Thursday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Career Talk" target="Course Recommendations">
+  <data key="d1">1</data>
+</edge>
+<edge source="Career Talk" target="Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="Career Talk" target="Jobs">
+  <data key="d1">1</data>
+</edge>
+<edge source="Career Talk" target="Are Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Career Talk" target="Professional Use">
+  <data key="d1">1</data>
+</edge>
+<edge source="Career Talk" target="Furthering Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="Career Talk" target="Workplace Chat">
+  <data key="d1">1</data>
+</edge>
+<edge source="Certifications" target="Career Paths">
+  <data key="d1">1</data>
+</edge>
+<edge source="Certifications" target="Courses">
+  <data key="d1">1</data>
+</edge>
+<edge source="Certifications" target="Please">
+  <data key="d1">1</data>
+</edge>
+<edge source="Certifications" target="Workplace Tools">
+  <data key="d1">1</data>
+</edge>
+<edge source="Certifications" target="What Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Certifications" target="Thursday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Certifications" target="Course Recommendations">
+  <data key="d1">1</data>
+</edge>
+<edge source="Certifications" target="Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="Certifications" target="Jobs">
+  <data key="d1">1</data>
+</edge>
+<edge source="Certifications" target="Are Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Certifications" target="Professional Use">
+  <data key="d1">1</data>
+</edge>
+<edge source="Certifications" target="Furthering Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="Certifications" target="Workplace Chat">
+  <data key="d1">1</data>
+</edge>
+<edge source="Career Paths" target="Courses">
+  <data key="d1">1</data>
+</edge>
+<edge source="Career Paths" target="Please">
+  <data key="d1">1</data>
+</edge>
+<edge source="Career Paths" target="Workplace Tools">
+  <data key="d1">1</data>
+</edge>
+<edge source="Career Paths" target="What Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Career Paths" target="Thursday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Career Paths" target="Course Recommendations">
+  <data key="d1">1</data>
+</edge>
+<edge source="Career Paths" target="Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="Career Paths" target="Jobs">
+  <data key="d1">1</data>
+</edge>
+<edge source="Career Paths" target="Are Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Career Paths" target="Professional Use">
+  <data key="d1">1</data>
+</edge>
+<edge source="Career Paths" target="Furthering Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="Career Paths" target="Workplace Chat">
+  <data key="d1">1</data>
+</edge>
+<edge source="Courses" target="Please">
+  <data key="d1">1</data>
+</edge>
+<edge source="Courses" target="Workplace Tools">
+  <data key="d1">1</data>
+</edge>
+<edge source="Courses" target="What Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Courses" target="Thursday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Courses" target="Course Recommendations">
+  <data key="d1">1</data>
+</edge>
+<edge source="Courses" target="Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="Courses" target="Jobs">
+  <data key="d1">1</data>
+</edge>
+<edge source="Courses" target="Are Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Courses" target="Professional Use">
+  <data key="d1">1</data>
+</edge>
+<edge source="Courses" target="Furthering Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="Courses" target="Workplace Chat">
+  <data key="d1">1</data>
+</edge>
+<edge source="Please" target="Workplace Tools">
+  <data key="d1">1</data>
+</edge>
+<edge source="Please" target="What Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Please" target="Thursday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Please" target="Course Recommendations">
+  <data key="d1">1</data>
+</edge>
+<edge source="Please" target="Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="Please" target="Jobs">
+  <data key="d1">1</data>
+</edge>
+<edge source="Please" target="Are Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Please" target="Professional Use">
+  <data key="d1">1</data>
+</edge>
+<edge source="Please" target="Furthering Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="Please" target="Workplace Chat">
+  <data key="d1">1</data>
+</edge>
+<edge source="Workplace Tools" target="What Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Workplace Tools" target="Thursday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="Workplace Tools" target="Course Recommendations">
+  <data key="d1">1</data>
+</edge>
+<edge source="Workplace Tools" target="Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="Workplace Tools" target="Jobs">
+  <data key="d1">1</data>
+</edge>
+<edge source="Workplace Tools" target="Are Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Workplace Tools" target="Professional Use">
+  <data key="d1">1</data>
+</edge>
+<edge source="Workplace Tools" target="Furthering Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="Workplace Tools" target="Workplace Chat">
+  <data key="d1">1</data>
+</edge>
+<edge source="What Python" target="Thursday Daily Thread">
+  <data key="d1">1</data>
+</edge>
+<edge source="What Python" target="Course Recommendations">
+  <data key="d1">1</data>
+</edge>
+<edge source="What Python" target="Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="What Python" target="Jobs">
+  <data key="d1">1</data>
+</edge>
+<edge source="What Python" target="Are Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="What Python" target="Professional Use">
+  <data key="d1">1</data>
+</edge>
+<edge source="What Python" target="Furthering Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="What Python" target="Workplace Chat">
+  <data key="d1">1</data>
+</edge>
+<edge source="Thursday Daily Thread" target="Course Recommendations">
+  <data key="d1">1</data>
+</edge>
+<edge source="Thursday Daily Thread" target="Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="Thursday Daily Thread" target="Jobs">
+  <data key="d1">1</data>
+</edge>
+<edge source="Thursday Daily Thread" target="Are Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Thursday Daily Thread" target="Professional Use">
+  <data key="d1">1</data>
+</edge>
+<edge source="Thursday Daily Thread" target="Furthering Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="Thursday Daily Thread" target="Workplace Chat">
+  <data key="d1">1</data>
+</edge>
+<edge source="Course Recommendations" target="Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="Course Recommendations" target="Jobs">
+  <data key="d1">1</data>
+</edge>
+<edge source="Course Recommendations" target="Are Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Course Recommendations" target="Professional Use">
+  <data key="d1">1</data>
+</edge>
+<edge source="Course Recommendations" target="Furthering Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="Course Recommendations" target="Workplace Chat">
+  <data key="d1">1</data>
+</edge>
+<edge source="Education" target="Jobs">
+  <data key="d1">1</data>
+</edge>
+<edge source="Education" target="Are Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Education" target="Professional Use">
+  <data key="d1">1</data>
+</edge>
+<edge source="Education" target="Furthering Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="Education" target="Workplace Chat">
+  <data key="d1">1</data>
+</edge>
+<edge source="Jobs" target="Are Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Jobs" target="Professional Use">
+  <data key="d1">1</data>
+</edge>
+<edge source="Jobs" target="Furthering Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="Jobs" target="Workplace Chat">
+  <data key="d1">1</data>
+</edge>
+<edge source="Are Python" target="Professional Use">
+  <data key="d1">1</data>
+</edge>
+<edge source="Are Python" target="Furthering Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="Are Python" target="Workplace Chat">
+  <data key="d1">1</data>
+</edge>
+<edge source="Professional Use" target="Furthering Education">
+  <data key="d1">1</data>
+</edge>
+<edge source="Professional Use" target="Workplace Chat">
+  <data key="d1">1</data>
+</edge>
+<edge source="Furthering Education" target="Workplace Chat">
+  <data key="d1">1</data>
+</edge>
+<edge source="Business" target="Hopeful">
+  <data key="d1">1</data>
+</edge>
+<edge source="Business" target="Linked">
+  <data key="d1">1</data>
+</edge>
+<edge source="Business" target="Real">
+  <data key="d1">1</data>
+</edge>
+<edge source="Business" target="Toptal">
+  <data key="d1">1</data>
+</edge>
+<edge source="Business" target="Fast">
+  <data key="d1">1</data>
+</edge>
+<edge source="Business" target="Upwork">
+  <data key="d1">1</data>
+</edge>
+<edge source="Business" target="Next">
+  <data key="d1">1</data>
+</edge>
+<edge source="Hopeful" target="Linked">
+  <data key="d1">1</data>
+</edge>
+<edge source="Hopeful" target="Real">
+  <data key="d1">1</data>
+</edge>
+<edge source="Hopeful" target="Toptal">
+  <data key="d1">1</data>
+</edge>
+<edge source="Hopeful" target="Fast">
+  <data key="d1">1</data>
+</edge>
+<edge source="Hopeful" target="Upwork">
+  <data key="d1">1</data>
+</edge>
+<edge source="Hopeful" target="Next">
+  <data key="d1">1</data>
+</edge>
+<edge source="Linked" target="Real">
+  <data key="d1">1</data>
+</edge>
+<edge source="Linked" target="Toptal">
+  <data key="d1">1</data>
+</edge>
+<edge source="Linked" target="Fast">
+  <data key="d1">1</data>
+</edge>
+<edge source="Linked" target="Upwork">
+  <data key="d1">1</data>
+</edge>
+<edge source="Linked" target="Next">
+  <data key="d1">1</data>
+</edge>
+<edge source="Real" target="Toptal">
+  <data key="d1">1</data>
+</edge>
+<edge source="Real" target="Fast">
+  <data key="d1">1</data>
+</edge>
+<edge source="Real" target="Upwork">
+  <data key="d1">1</data>
+</edge>
+<edge source="Real" target="Next">
+  <data key="d1">1</data>
+</edge>
+<edge source="Toptal" target="Fast">
+  <data key="d1">1</data>
+</edge>
+<edge source="Toptal" target="Upwork">
+  <data key="d1">1</data>
+</edge>
+<edge source="Toptal" target="Next">
+  <data key="d1">1</data>
+</edge>
+<edge source="Fast" target="Upwork">
+  <data key="d1">1</data>
+</edge>
+<edge source="Fast" target="Next">
+  <data key="d1">1</data>
+</edge>
+<edge source="Fast" target="Nova">
+  <data key="d1">1</data>
+</edge>
+<edge source="Fast" target="Backend">
+  <data key="d1">1</data>
+</edge>
+<edge source="Fast" target="Open Source Contribution">
+  <data key="d1">1</data>
+</edge>
+<edge source="Upwork" target="Next">
+  <data key="d1">1</data>
+</edge>
+<edge source="Supply" target="They">
+  <data key="d1">1</data>
+</edge>
+<edge source="Supply" target="More">
+  <data key="d1">1</data>
+</edge>
+<edge source="Supply" target="Because">
+  <data key="d1">1</data>
+</edge>
+<edge source="Supply" target="Giacomelli">
+  <data key="d1">1</data>
+</edge>
+<edge source="Supply" target="Both">
+  <data key="d1">1</data>
+</edge>
+<edge source="Supply" target="That">
+  <data key="d1">1</data>
+</edge>
+<edge source="Supply" target="These">
+  <data key="d1">1</data>
+</edge>
+<edge source="Supply" target="Things">
+  <data key="d1">1</data>
+</edge>
+<edge source="They" target="More">
+  <data key="d1">1</data>
+</edge>
+<edge source="They" target="Because">
+  <data key="d1">1</data>
+</edge>
+<edge source="They" target="Giacomelli">
+  <data key="d1">1</data>
+</edge>
+<edge source="They" target="Both">
+  <data key="d1">1</data>
+</edge>
+<edge source="They" target="That">
+  <data key="d1">1</data>
+</edge>
+<edge source="They" target="These">
+  <data key="d1">1</data>
+</edge>
+<edge source="They" target="Things">
+  <data key="d1">1</data>
+</edge>
+<edge source="More" target="Because">
+  <data key="d1">1</data>
+</edge>
+<edge source="More" target="Giacomelli">
+  <data key="d1">1</data>
+</edge>
+<edge source="More" target="Both">
+  <data key="d1">1</data>
+</edge>
+<edge source="More" target="That">
+  <data key="d1">1</data>
+</edge>
+<edge source="More" target="These">
+  <data key="d1">1</data>
+</edge>
+<edge source="More" target="Things">
+  <data key="d1">1</data>
+</edge>
+<edge source="Because" target="Giacomelli">
+  <data key="d1">1</data>
+</edge>
+<edge source="Because" target="Both">
+  <data key="d1">1</data>
+</edge>
+<edge source="Because" target="That">
+  <data key="d1">1</data>
+</edge>
+<edge source="Because" target="These">
+  <data key="d1">1</data>
+</edge>
+<edge source="Because" target="Things">
+  <data key="d1">1</data>
+</edge>
+<edge source="Giacomelli" target="Both">
+  <data key="d1">1</data>
+</edge>
+<edge source="Giacomelli" target="That">
+  <data key="d1">1</data>
+</edge>
+<edge source="Giacomelli" target="These">
+  <data key="d1">1</data>
+</edge>
+<edge source="Giacomelli" target="Things">
+  <data key="d1">1</data>
+</edge>
+<edge source="Both" target="That">
+  <data key="d1">1</data>
+</edge>
+<edge source="Both" target="These">
+  <data key="d1">1</data>
+</edge>
+<edge source="Both" target="Things">
+  <data key="d1">1</data>
+</edge>
+<edge source="That" target="These">
+  <data key="d1">1</data>
+</edge>
+<edge source="That" target="Things">
+  <data key="d1">1</data>
+</edge>
+<edge source="These" target="Things">
+  <data key="d1">1</data>
+</edge>
+<edge source="Curious" target="Config">
+  <data key="d1">1</data>
+</edge>
+<edge source="Curious" target="Telemetry">
+  <data key="d1">1</data>
+</edge>
+<edge source="Curious" target="Logging">
+  <data key="d1">1</data>
+</edge>
+<edge source="Curious" target="Bridging Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Curious" target="Handler">
+  <data key="d1">1</data>
+</edge>
+<edge source="Curious" target="Complete Guide">
+  <data key="d1">1</data>
+</edge>
+<edge source="Curious" target="Collector">
+  <data key="d1">1</data>
+</edge>
+<edge source="Curious" target="Logging Module">
+  <data key="d1">1</data>
+</edge>
+<edge source="Config" target="Telemetry">
+  <data key="d1">1</data>
+</edge>
+<edge source="Config" target="Logging">
+  <data key="d1">1</data>
+</edge>
+<edge source="Config" target="Bridging Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Config" target="Handler">
+  <data key="d1">1</data>
+</edge>
+<edge source="Config" target="Complete Guide">
+  <data key="d1">1</data>
+</edge>
+<edge source="Config" target="Collector">
+  <data key="d1">1</data>
+</edge>
+<edge source="Config" target="Logging Module">
+  <data key="d1">1</data>
+</edge>
+<edge source="Telemetry" target="Logging">
+  <data key="d1">1</data>
+</edge>
+<edge source="Telemetry" target="Bridging Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Telemetry" target="Handler">
+  <data key="d1">1</data>
+</edge>
+<edge source="Telemetry" target="Complete Guide">
+  <data key="d1">1</data>
+</edge>
+<edge source="Telemetry" target="Collector">
+  <data key="d1">1</data>
+</edge>
+<edge source="Telemetry" target="Logging Module">
+  <data key="d1">1</data>
+</edge>
+<edge source="Logging" target="Bridging Python">
+  <data key="d1">1</data>
+</edge>
+<edge source="Logging" target="Handler">
+  <data key="d1">1</data>
+</edge>
+<edge source="Logging" target="Complete Guide">
+  <data key="d1">1</data>
+</edge>
+<edge source="Logging" target="Collector">
+  <data key="d1">1</data>
+</edge>
+<edge source="Logging" target="Logging Module">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bridging Python" target="Handler">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bridging Python" target="Complete Guide">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bridging Python" target="Collector">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bridging Python" target="Logging Module">
+  <data key="d1">1</data>
+</edge>
+<edge source="Handler" target="Complete Guide">
+  <data key="d1">1</data>
+</edge>
+<edge source="Handler" target="Collector">
+  <data key="d1">1</data>
+</edge>
+<edge source="Handler" target="Logging Module">
+  <data key="d1">1</data>
+</edge>
+<edge source="Complete Guide" target="Collector">
+  <data key="d1">1</data>
+</edge>
+<edge source="Complete Guide" target="Logging Module">
+  <data key="d1">1</data>
+</edge>
+<edge source="Collector" target="Logging Module">
+  <data key="d1">1</data>
+</edge>
+<edge source="Significant" target="Book">
+  <data key="d1">1</data>
+</edge>
+<edge source="Nova" target="Backend">
+  <data key="d1">1</data>
+</edge>
+<edge source="Nova" target="Open Source Contribution">
+  <data key="d1">1</data>
+</edge>
+<edge source="Backend" target="Open Source Contribution">
+  <data key="d1">1</data>
+</edge>
+<edge source="We All Lost" target="Points">
+  <data key="d1">1</data>
+</edge>
+<edge source="We All Lost" target="Comments">
+  <data key="d1">1</data>
+</edge>
+<edge source="We All Lost" target="Article">
+  <data key="d1">1</data>
+</edge>
+<edge source="We All Lost" target="Court Against Elon Musk">
+  <data key="d1">1</data>
+</edge>
+<edge source="We All Lost" target="Sam Altman Won">
+  <data key="d1">1</data>
+</edge>
+<edge source="Points" target="Comments">
+  <data key="d1">10</data>
+</edge>
+<edge source="Points" target="Article">
+  <data key="d1">10</data>
+</edge>
+<edge source="Points" target="Court Against Elon Musk">
+  <data key="d1">1</data>
+</edge>
+<edge source="Points" target="Sam Altman Won">
+  <data key="d1">1</data>
+</edge>
+<edge source="Points" target="Steam">
+  <data key="d1">1</data>
+</edge>
+<edge source="Points" target="Valve">
+  <data key="d1">1</data>
+</edge>
+<edge source="Points" target="Circle Medical">
+  <data key="d1">1</data>
+</edge>
+<edge source="Points" target="Mobile Engineer">
+  <data key="d1">1</data>
+</edge>
+<edge source="Points" target="Is Hiring">
+  <data key="d1">1</data>
+</edge>
+<edge source="Points" target="Ones Who Didn">
+  <data key="d1">1</data>
+</edge>
+<edge source="Points" target="Will Lose">
+  <data key="d1">1</data>
+</edge>
+<edge source="Points" target="The Companies Cutting Headcount">
+  <data key="d1">1</data>
+</edge>
+<edge source="Points" target="Breakthroughs">
+  <data key="d1">1</data>
+</edge>
+<edge source="Points" target="Blog">
+  <data key="d1">1</data>
+</edge>
+<edge source="Points" target="Anna">
+  <data key="d1">1</data>
+</edge>
+<edge source="Points" target="Shadow">
+  <data key="d1">1</data>
+</edge>
+<edge source="Points" target="Browser">
+  <data key="d1">1</data>
+</edge>
+<edge source="Points" target="Codes">
+  <data key="d1">1</data>
+</edge>
+<edge source="Points" target="Chess Invariants">
+  <data key="d1">1</data>
+</edge>
+<edge source="Points" target="Benchmark">
+  <data key="d1">1</data>
+</edge>
+<edge source="Points" target="Tops">
+  <data key="d1">1</data>
+</edge>
+<edge source="Points" target="Architectural">
+  <data key="d1">1</data>
+</edge>
+<edge source="Points" target="Antigravity">
+  <data key="d1">1</data>
+</edge>
+<edge source="Points" target="Apple">
+  <data key="d1">1</data>
+</edge>
+<edge source="Comments" target="Article">
+  <data key="d1">10</data>
+</edge>
+<edge source="Comments" target="Court Against Elon Musk">
+  <data key="d1">1</data>
+</edge>
+<edge source="Comments" target="Sam Altman Won">
+  <data key="d1">1</data>
+</edge>
+<edge source="Comments" target="Steam">
+  <data key="d1">1</data>
+</edge>
+<edge source="Comments" target="Valve">
+  <data key="d1">1</data>
+</edge>
+<edge source="Comments" target="Circle Medical">
+  <data key="d1">1</data>
+</edge>
+<edge source="Comments" target="Mobile Engineer">
+  <data key="d1">1</data>
+</edge>
+<edge source="Comments" target="Is Hiring">
+  <data key="d1">1</data>
+</edge>
+<edge source="Comments" target="Ones Who Didn">
+  <data key="d1">1</data>
+</edge>
+<edge source="Comments" target="Will Lose">
+  <data key="d1">1</data>
+</edge>
+<edge source="Comments" target="The Companies Cutting Headcount">
+  <data key="d1">1</data>
+</edge>
+<edge source="Comments" target="Breakthroughs">
+  <data key="d1">1</data>
+</edge>
+<edge source="Comments" target="Blog">
+  <data key="d1">1</data>
+</edge>
+<edge source="Comments" target="Anna">
+  <data key="d1">1</data>
+</edge>
+<edge source="Comments" target="Shadow">
+  <data key="d1">1</data>
+</edge>
+<edge source="Comments" target="Browser">
+  <data key="d1">1</data>
+</edge>
+<edge source="Comments" target="Codes">
+  <data key="d1">1</data>
+</edge>
+<edge source="Comments" target="Chess Invariants">
+  <data key="d1">1</data>
+</edge>
+<edge source="Comments" target="Benchmark">
+  <data key="d1">1</data>
+</edge>
+<edge source="Comments" target="Tops">
+  <data key="d1">1</data>
+</edge>
+<edge source="Comments" target="Architectural">
+  <data key="d1">1</data>
+</edge>
+<edge source="Comments" target="Antigravity">
+  <data key="d1">1</data>
+</edge>
+<edge source="Comments" target="Apple">
+  <data key="d1">1</data>
+</edge>
+<edge source="Article" target="Court Against Elon Musk">
+  <data key="d1">1</data>
+</edge>
+<edge source="Article" target="Sam Altman Won">
+  <data key="d1">1</data>
+</edge>
+<edge source="Article" target="Steam">
+  <data key="d1">1</data>
+</edge>
+<edge source="Article" target="Valve">
+  <data key="d1">1</data>
+</edge>
+<edge source="Article" target="Circle Medical">
+  <data key="d1">1</data>
+</edge>
+<edge source="Article" target="Mobile Engineer">
+  <data key="d1">1</data>
+</edge>
+<edge source="Article" target="Is Hiring">
+  <data key="d1">1</data>
+</edge>
+<edge source="Article" target="Ones Who Didn">
+  <data key="d1">1</data>
+</edge>
+<edge source="Article" target="Will Lose">
+  <data key="d1">1</data>
+</edge>
+<edge source="Article" target="The Companies Cutting Headcount">
+  <data key="d1">1</data>
+</edge>
+<edge source="Article" target="Breakthroughs">
+  <data key="d1">1</data>
+</edge>
+<edge source="Article" target="Blog">
+  <data key="d1">1</data>
+</edge>
+<edge source="Article" target="Anna">
+  <data key="d1">1</data>
+</edge>
+<edge source="Article" target="Shadow">
+  <data key="d1">1</data>
+</edge>
+<edge source="Article" target="Browser">
+  <data key="d1">1</data>
+</edge>
+<edge source="Article" target="Codes">
+  <data key="d1">1</data>
+</edge>
+<edge source="Article" target="Chess Invariants">
+  <data key="d1">1</data>
+</edge>
+<edge source="Article" target="Benchmark">
+  <data key="d1">1</data>
+</edge>
+<edge source="Article" target="Tops">
+  <data key="d1">1</data>
+</edge>
+<edge source="Article" target="Architectural">
+  <data key="d1">1</data>
+</edge>
+<edge source="Article" target="Antigravity">
+  <data key="d1">1</data>
+</edge>
+<edge source="Article" target="Apple">
+  <data key="d1">1</data>
+</edge>
+<edge source="Court Against Elon Musk" target="Sam Altman Won">
+  <data key="d1">1</data>
+</edge>
+<edge source="Steam" target="Valve">
+  <data key="d1">1</data>
+</edge>
+<edge source="Circle Medical" target="Mobile Engineer">
+  <data key="d1">1</data>
+</edge>
+<edge source="Circle Medical" target="Is Hiring">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mobile Engineer" target="Is Hiring">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ones Who Didn" target="Will Lose">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ones Who Didn" target="The Companies Cutting Headcount">
+  <data key="d1">1</data>
+</edge>
+<edge source="Will Lose" target="The Companies Cutting Headcount">
+  <data key="d1">1</data>
+</edge>
+<edge source="Blog" target="Anna">
+  <data key="d1">1</data>
+</edge>
+<edge source="Shadow" target="Browser">
+  <data key="d1">1</data>
+</edge>
+<edge source="Shadow" target="Codes">
+  <data key="d1">1</data>
+</edge>
+<edge source="Browser" target="Codes">
+  <data key="d1">1</data>
+</edge>
+<edge source="Benchmark" target="Tops">
+  <data key="d1">1</data>
+</edge>
+<edge source="Benchmark" target="Architectural">
+  <data key="d1">1</data>
+</edge>
+<edge source="Benchmark" target="Antigravity">
+  <data key="d1">1</data>
+</edge>
+<edge source="Tops" target="Architectural">
+  <data key="d1">1</data>
+</edge>
+<edge source="Tops" target="Antigravity">
+  <data key="d1">1</data>
+</edge>
+<edge source="Architectural" target="Antigravity">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ebola" target="Bundibugyo">
+  <data key="d1">1</data>
+</edge>
+<edge source="Parents" target="Southport">
+  <data key="d1">1</data>
+</edge>
+<edge source="February" target="Andrew">
+  <data key="d1">1</data>
+</edge>
+<edge source="Amazon" target="Stop">
+  <data key="d1">1</data>
+</edge>
+<edge source="Amazon" target="John Boumphrey">
+  <data key="d1">1</data>
+</edge>
+<edge source="Stop" target="John Boumphrey">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guardiola" target="Pep Guardiola">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guardiola" target="Man City">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guardiola" target="Manchester City">
+  <data key="d1">1</data>
+</edge>
+<edge source="Pep Guardiola" target="Man City">
+  <data key="d1">1</data>
+</edge>
+<edge source="Pep Guardiola" target="Manchester City">
+  <data key="d1">1</data>
+</edge>
+<edge source="Man City" target="Manchester City">
+  <data key="d1">1</data>
+</edge>
+<edge source="Samuel Dodsworth" target="Rico Gedel">
+  <data key="d1">1</data>
+</edge>
+<edge source="Samuel Dodsworth" target="Jury">
+  <data key="d1">1</data>
+</edge>
+<edge source="Samuel Dodsworth" target="Ian Watkins">
+  <data key="d1">1</data>
+</edge>
+<edge source="Samuel Dodsworth" target="Leeds Crown Court">
+  <data key="d1">1</data>
+</edge>
+<edge source="Rico Gedel" target="Jury">
+  <data key="d1">1</data>
+</edge>
+<edge source="Rico Gedel" target="Ian Watkins">
+  <data key="d1">1</data>
+</edge>
+<edge source="Rico Gedel" target="Leeds Crown Court">
+  <data key="d1">1</data>
+</edge>
+<edge source="Jury" target="Ian Watkins">
+  <data key="d1">1</data>
+</edge>
+<edge source="Jury" target="Leeds Crown Court">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ian Watkins" target="Leeds Crown Court">
+  <data key="d1">1</data>
+</edge>
+<edge source="Thursday" target="Poland President Trump">
+  <data key="d1">1</data>
+</edge>
+<edge source="Thursday" target="Nato">
+  <data key="d1">1</data>
+</edge>
+<edge source="Poland President Trump" target="Nato">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ofcom" target="Channel">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ofcom" target="Married">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ofcom" target="Michael Grade Michael Grade">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ofcom" target="First Sight">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ofcom" target="Reality">
+  <data key="d1">1</data>
+</edge>
+<edge source="Channel" target="Married">
+  <data key="d1">1</data>
+</edge>
+<edge source="Channel" target="Michael Grade Michael Grade">
+  <data key="d1">1</data>
+</edge>
+<edge source="Channel" target="First Sight">
+  <data key="d1">1</data>
+</edge>
+<edge source="Channel" target="Reality">
+  <data key="d1">1</data>
+</edge>
+<edge source="Married" target="Michael Grade Michael Grade">
+  <data key="d1">1</data>
+</edge>
+<edge source="Married" target="First Sight">
+  <data key="d1">1</data>
+</edge>
+<edge source="Married" target="Reality">
+  <data key="d1">1</data>
+</edge>
+<edge source="Michael Grade Michael Grade" target="First Sight">
+  <data key="d1">1</data>
+</edge>
+<edge source="Michael Grade Michael Grade" target="Reality">
+  <data key="d1">1</data>
+</edge>
+<edge source="First Sight" target="Reality">
+  <data key="d1">1</data>
+</edge>
+<edge source="Jess Phillips The" target="Rape">
+  <data key="d1">1</data>
+</edge>
+</graph></graphml>
